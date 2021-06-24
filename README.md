@@ -12,8 +12,7 @@ By: Jeremy Ellis Tech Teacher, BC, Canada
 
 ### I use the $ 103.40 USD Arduino Pro [PortentaH7](https://store.arduino.cc/usa/portenta-h7) Dual Core Micro-Controller with the $45.99 USD [Breakout Board](https://store.arduino.cc/usa/portenta-breakout) and $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)  and/or $47.15 USD [Ethernet Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield), possibly more shields later.
 
-
-![Portenta-Pro-Seriese Boards and Shields](media/ArduinoProBoards.jpg)
+<br><img src="media/ArduinoProBoards.jpg" width = 600/>
 
 Yes they are expensive, ask any teacher (music, shop, sewing, science) why they don't purchase cheap equipment. See other boards below for cheaper, not as good, options. When your Administrator says "Why don't you get the $4 RPI Pico", have an answer.
 
@@ -123,7 +122,9 @@ See main price list on the Portenta Pro Community Solutions Library Github [here
 ## Other Boards:
 
 Some students just need to use cheaper equipment. Not everyone should be playing around with a $100 board who can't connect it properly. 
-I have a class set 15 of each of the Portenta Series <br><img src="media/Portenta-pro-boxes.jpg" width = 500/>, following are a few cheaper versions. 
+I have a class set 15 of each of the Portenta Series <br><img src="media/Portenta-pro-boxes.jpg" width = 500/> 
+
+Following are a few cheaper boards that could do parts of this course. 
 
 I also have a class seet of 15 Seeeduino XIAO, for testing if a circuit is going to fry your board, you can't beat a $5 microcontroller.
 
@@ -169,7 +170,7 @@ I use the [Arduino MBED core](https://github.com/arduino/ArduinoCore-mbed)   Ard
 
 
 
-By: Jeremy Ellis Tech Teacher, BC, Canada
+By: Jeremy Ellis, Tech Teacher, BC, Canada
 
 ###### Use at your own risk!
 
