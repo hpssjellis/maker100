@@ -6,13 +6,13 @@ Started Jun 23rd, 2021
 
 
 
-[Pre-Understanding:](Pre-Understanding:)
-[Course:](Course:)
-[Post Understanding Activites:](Post Understanding Activites:)
-[]()
-[]()
-[]()
-[]()
+[Pre-Understanding:](#Pre-Understanding:)  
+[Course:](#Course:)  
+[Post Understanding Activites:](#Post Understanding Activites:)  
+[](#)  
+[](#)  
+[](#)  
+[](#)  
 
 
 
