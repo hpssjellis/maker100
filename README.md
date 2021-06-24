@@ -55,7 +55,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 
 
-| Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Link 2 | To Do |
+| Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
 | 1. Auto Blink and Serial Print | [a-a-hello-blink.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino) |               |                 |        |    Print other things and change the pattern of blinking using different colors LEDR, LEDG, LEDB, LED_BUILTIN (which is green). Note: I stay away from LEDR as red is used to show errors    |
 | 2. Button cause blink          |                                                                                                                                                                            |               |                 |        |        |
