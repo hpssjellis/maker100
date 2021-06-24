@@ -4,7 +4,7 @@
 Started Jun 23rd, 2021
 
 # This course is for Makers not soon to be Engineers! 
-(Although they are welcome to blast through the course)
+(Although soon to be Engineers are welcome to blast through the course. Seriously these students have finished my course in 2 weeks!)
 
 ### I use the $ 103.40 USD Arduino Pro [PortentaH7](https://store.arduino.cc/usa/portenta-h7) Dual Core Micro-Controller with the $45.99 USD [Breakout Board](https://store.arduino.cc/usa/portenta-breakout) and $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)  and/or $47.15 USD [Ethernet Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield), possibly more shields later.
 
@@ -47,9 +47,9 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 
 
-| Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Link 2 | Link 3 |
+| Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Link 2 | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
-| 1. Auto Blink and Serial Print | [a-a-hello-blink.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino) |               |                 |        |        |
+| 1. Auto Blink and Serial Print | [a-a-hello-blink.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino) |               |                 |        |    Print other things and change the pattern of blinking using different colors LEDR, LEDG, LEDB, LED_BUILTIN which is green. Note: I stay away from LEDR a red is used for errors    |
 | 2. Button cause blink          |                                                                                                                                                                              |               |                 |        |        |
 | 3. Analog Read                 |                                                                                                                                                                              |               |                 |        |        |
 | 4. DAC                         |                                                                                                                                                                              |               |                 |        |        |
