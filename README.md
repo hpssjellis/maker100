@@ -7,7 +7,8 @@ By: Jeremy Ellis Tech Teacher, BC, Canada
 
 ###### Use at your own risk!
 
-### Hopefully this will be ready for February 2022
+### Hopefully this will be ready for my students in February 2022
+
 
 # This course is for Makers not, soon to be Engineers! 
 (Although soon to be Engineers are welcome to blast through the course. Seriously, these students have sometimes finished my course in 2 weeks!)
