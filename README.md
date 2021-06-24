@@ -113,7 +113,7 @@ See main price list on the Portenta Pro Community Solutions Library Github [here
 
 [Arduino New IDE Version 2.?.?  Download](https://www.arduino.cc/en/software) Has some advantages, but still farily Beta
 
-[Arduinio Cloud](https://docs.arduino.cc/cloud/iot-cloud/tutorials/iot-cloud-getting-started) Has online advatages, verey powerful with Paid version but also has issues
+[Arduinio Cloud](https://docs.arduino.cc/cloud/iot-cloud/tutorials/iot-cloud-getting-started) Has online advatages, very powerful with Paid version but also has issues
 
 [Platformio](https://platformio.org/)  Easy install of Visual Studio Code has lots of advantages, bit of a learning curve
 
@@ -123,11 +123,13 @@ See main price list on the Portenta Pro Community Solutions Library Github [here
 ## Other Boards:
 
 Some students just need to use cheaper equipment. Not everyone should be playing around with a $100 board who can't connect it properly. 
-I have a class set 15 of each of the Portenta Series <br><img src="media/Portenta-pro-boxes.jpg" width = 200/>
+I have a class set 15 of each of the Portenta Series <br><img src="media/Portenta-pro-boxes.jpg" width = 500/>, following are a few cheaper versions. 
+
+I also have a class seet of 15 Seeeduino XIAO, for testing if a circuit is going to fry your board, you can't beat a $5 microcontroller.
 
 1. The $33.40 USD [Nano 33 Ble Sense](https://store.arduino.cc/usa/nano-33-ble-sense-with-headers) is very good for sound and accerometer Machine Learning <br><img src="media/Arduino-nano33BleSense.jpg" width = 200/>
 3. The  $19.65 USD [Particle Photon](https://store.particle.io/products/photon) 6 year student tested Curriculum is [here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) with videos [here](https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr). I still start my students on this very easy to use platform!<br><img src="media/Particle-photon.jpg" width = 200/>
-4. The $5.40 USD [Seeeduino Xiao](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)  Only a limited number of pins to use<br><img src="media/Seeeduino-xiao.jpg" width = 200/>
+4. The $5.40 USD [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)  Only a limited number of pins to use<br><img src="media/Seeeduino-xiao.jpg" width = 200/>
 5. The $129 USD [Sony Spresense Kit](https://shop.framos.com/us/spresense) with Breakout Board and Camera and now works on the Arduino IDE. Absolutely nothing wrong with this board, I have just not yet got it doing Machiine Learning on the Arduino IDE <br><img src="media/Sony-spresense-kit.jpg" width = 200/>
 6. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard.<br> <img src="media/Arduino-nanoRP2040-connect.jpg" width = 200/><br><img src="media/Portenta-pro-boxes.jpg" width = 200/>
 7. The $4 USD [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board, see above. 
