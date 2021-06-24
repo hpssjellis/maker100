@@ -6,9 +6,9 @@ Started Jun 23rd, 2021
 
 
 
-[Pre-Understanding:](#Pre-Understanding:)  
-[Course:](#Course:)  
-[Post Understanding Activites:](#Post Understanding Activites:)  
+[Pre-Understanding:](#pre-Understanding:)  
+[Course:](#course:)  
+[Post Understanding Activites:](#post-understanding-activites:)   
 [](#)  
 [](#)  
 [](#)  
