@@ -29,13 +29,24 @@ Started Jun 23rd, 2021
 
 ## Course:
 
-|Topic| Arduino 1.8? IDE| Arduino 2.? IDE| Arduino Cloud| Platform.IO |Gitpod|
+Reminder all code examples are in the Portenta Pro Community Solutions Library that can be installed onto the Arduino IDE. The examples are [here](https://github.com/hpssjellis/portenta-pro-community-solutions/tree/main/examples)
+
+|Topic| Example Code| Youtube Video| Resource Link 1| Link 2 | Link 3|
 |-------------------|--------|--------|---------|---------|---------|
-| 1. Auto Blink and Serial print  |    |    |    |     |    |
+| 1. Auto Blink and Serial Print  | [a-a-hello-blink.ino](https://raw.githubusercontent.com/hpssjellis/portenta-pro-community-solutions/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino)   |    |    |     |    |
+
 | 2. Button cause blink   |    |    |    |     |    |
+
+
 | 3. Analog Read   |    |    |    |     |    |
+
+
 | 4. DAC    |    |    |    |     |    |
+
+
 |  5.   |    |    |    |     |    |
+
+
 |    |    |    |    |     |    |
 |    |    |    |    |     |    |
 
