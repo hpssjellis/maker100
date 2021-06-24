@@ -5,6 +5,19 @@ Started Jun 23rd, 2021
 
 
 
+
+[Pre-Understanding:](Pre-Understanding:)
+[Course:](Course:)
+[Post Understanding Activites:](Post Understanding Activites:)
+[]()
+[]()
+[]()
+[]()
+
+
+
+
+
 ## Pre-Understanding:
 1. Circuits as multiple serial and parallel loops
 2. Microcontroller Max current, Max voltage
