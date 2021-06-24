@@ -3,6 +3,10 @@
 
 Started Jun 23rd, 2021
 
+By: Jeremy Ellis Tech Teacher, BC, Canada
+
+###### Use at your own risk!
+
 # This course is for Makers not soon to be Engineers! 
 (Although soon to be Engineers are welcome to blast through the course. Seriously these students have finished my course in 2 weeks!)
 
