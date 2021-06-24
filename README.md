@@ -17,7 +17,7 @@ Yes they are expensive, ask any teacher (music, shop, sewing, science) why they 
 
 [Course:](#course)  
 
-[Desccription:](#description)
+[Course Description:](#course-description)
 
 [Pre-Understanding:](#pre-understanding) 
 
@@ -56,7 +56,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 | Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Link 2 | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
 | 1. Auto Blink and Serial Print | [a-a-hello-blink.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino) |               |                 |        |    Print other things and change the pattern of blinking using different colors LEDR, LEDG, LEDB, LED_BUILTIN (which is green). Note: I stay away from LEDR as red is used to show errors    |
-| 2. Button cause blink          |                                                                                                                                                                              |               |                 |        |        |
+| 2. Button cause blink          |                                                                                                                                                                            |               |                 |        |        |
 | 3. Analog Read                 |                                                                                                                                                                              |               |                 |        |        |
 | 4. DAC                         |                                                                                                                                                                              |               |                 |        |        |
 | 5.                             |                                                                                                                                                                              |               |                 |        |        |
@@ -75,8 +75,15 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 
 
-## Description:
-Circuit basics, Micro-controller basics (LED's buttons, wiring, breadboards), Platforms, Languages, simple sensors and actuators(screens/motors:DC, Servo, Stepper), connectors: I2C, SPI, Uart/Serial, connecting:WiFi, BLE, Ethernet, LoRaWan, Protocols:(MQTT, JSON,...), Machine Learning: ([Edge Impulse](https://www.edgeimpulse.com/), [My TensorFlowJS](https://www.rocksetta.com/tensorflowjs/))
+## Course Description:
+
+### First Year:
+
+Circuit basics, Micro-controller basics (LED's buttons, wiring, breadboards), Platforms, Languages, simple sensors and actuators(screens/motors:DC, Servo, Stepper), connectors: I2C, SPI, Uart/Serial, connecting:WiFi, BLE, Ethernet, LoRaWan, webSockets, Protocols:(MQTT, JSON,...), Machine Learning: ([Edge Impulse](https://www.edgeimpulse.com/), [My TensorFlowJS](https://www.rocksetta.com/tensorflowjs/) ), TinyML:Vision, Sound, Possibly Acceleration, Single object detection , Possibly Multiple object detection, Possibly Sensor ML, Final Project ( Proof of Concept, then with 3D printing structure, working Protoype ) Possible Javascript Machine Learning with Cell phones, web socket micro-controller connectivity.
+
+### 2nd year: 
+
+Blast through all first year assignments, multiple sensor and Actuators: ie: robot Arm, toy car, etc, concentrate on more Machine learning, with LoRa, WiFi, BLE and Ethernet connectivity, Sensor Machine Learning controlling Actuators, Product Prototyping.
 
 
 
