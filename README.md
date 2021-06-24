@@ -12,7 +12,7 @@ Started Jun 23rd, 2021
 
 |Topic| Arduino 1.8? IDE| Arduino 2.? IDE| Arduino Cloud| Platform.IO |Gitpod|
 |-------------------|--------|--------|---------|---------|---------|
-|    |    |    |    |     |    |
+| blah blah  blah blah blah blah blah blah blah blah  |    |    |    |     |    |
 |    |    |    |    |     |    |
 |    |    |    |    |     |    |
 |    |    |    |    |     |    |
