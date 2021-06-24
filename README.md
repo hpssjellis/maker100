@@ -10,10 +10,14 @@ Started Jun 23rd, 2021
 
 ## Course:
 
-|jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj|
-|---|---|----|-----|-----|-----|
-|jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj|
-|jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj|
-
+|Topic| Arduino 1.8? IDE| Arduino 2.? IDE| Arduino Cloud| Platform.IO |Gitpod|
+|-------------------|--------|--------|---------|---------|---------|
+|    |    |    |    |     |    |
+|    |    |    |    |     |    |
+|    |    |    |    |     |    |
+|    |    |    |    |     |    |
+|    |    |    |    |     |    |
+|    |    |    |    |     |    |
+|    |    |    |    |     |    |
 
 ## Post Understanding Activites:
