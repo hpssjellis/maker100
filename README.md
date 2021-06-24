@@ -13,6 +13,8 @@ Yes they are expensive, ask any teacher (music, shop, sewing, science) why they 
 
 [Course:](#course)  
 
+[Desccription:](#description)
+
 [Pre-Understanding:](#pre-understanding) 
 
 [Basic Costs:](#basic-costs)
@@ -69,7 +71,8 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 
 
-
+## Description:
+Circuit basics, Micro-controller basics (LED's buttons, wiring, breadboards), Platforms, Languages, simple sensors and actuators(screens/motors:DC, Servo, Stepper), connectors: I2C, SPI, Uart/Serial, connecting:WiFi, BLE, Ethernet, LoRaWan, Protocols:(MQTT, JSON,...), Machine Learning: ([Edge Impulse](https://www.edgeimpulse.com/), [My TensorFlowJS](https://www.rocksetta.com/tensorflowjs/))
 
 
 
