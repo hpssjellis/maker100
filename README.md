@@ -17,7 +17,7 @@ By: Jeremy Ellis Tech Teacher, BC, Canada
 
 <br><img src="media/ArduinoProBoards.jpg" width = 600/>
 
-Yes they are expensive, ask any teacher (music, shop, sewing, science) why they don't purchase cheap equipment. See other boards below for cheaper, not as good, options. When your Administrator says "Why don't you get the $4 RPI Pico", have an answer.
+Yes they are expensive, ask any teacher (music, shop, sewing, science) why they don't purchase cheap equipment. See other boards below for cheaper, not as good, options. When your Administrator says "Why don't you get the $4 RPI Pico", have an answer ready.
 
 [Course:](#course)  
 
