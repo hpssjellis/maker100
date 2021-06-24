@@ -5,25 +5,17 @@ Started Jun 23rd, 2021
 
 
 
-
-[Pre-Understanding:](#pre-understanding)  
 [Course:](#course)  
+[Pre-Understanding:](#pre-understanding)  
+[Platforms:](#platforms) 
 [Post Understanding Activites:](#post-understanding-activites)   
+ 
 [](#)  
 [](#)  
 [](#)  
-[](#)  
 
 
 
-
-
-## Pre-Understanding:
-1. Circuits as multiple serial and parallel loops
-2. Microcontroller Max current, Max voltage
-3. Ohms Law V=IxR and Power equations
-4. Electrical Safety
-5. ...
 
 
 ## Course:
@@ -37,6 +29,23 @@ Started Jun 23rd, 2021
 |  5.   |    |    |    |     |    |
 |    |    |    |    |     |    |
 |    |    |    |    |     |    |
+
+
+
+
+
+## Pre-Understanding:
+1. Circuits as multiple serial and parallel loops
+2. Microcontroller Max current, Max voltage
+3. Ohms Law V=IxR and Power equations
+4. Electrical Safety
+5. ...
+
+
+
+## Platforms:   
+dffdfg
+
 
 ## Post Understanding Activites:
 
