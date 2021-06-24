@@ -10,9 +10,10 @@ Started Jun 23rd, 2021
 
 ## Course:
 
-||jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj||
-||jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj||
-||jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj||
+|jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj|
+|---|---|----|-----|-----|-----|
+|jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj|
+|jahsdfkjha| sjdhf| sdf| iasdf| iasjkdfh|iakshdfj|
 
 
 ## Post Understanding Activites:
