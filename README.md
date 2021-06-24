@@ -153,3 +153,12 @@ I use the [Arduino MBED core](https://github.com/arduino/ArduinoCore-mbed)   Ard
 1. Made for Makers not for future [Mechatronic Engineers](https://en.wikipedia.org/wiki/Mechatronics): Why? This course is to inspire Makers and future engineers, but to simplify the teaching I teach some things different than an Engineer would prefer. The positive is that the few students I see who have the: Drive, Ability and Finanaces to become Engineers typically ignore me and get the assignments done really fast. Example: I code Javascript using Notepad.exe on windows, I don't even use Notepad++ a soon to be engineer might load a different editor like "[Atom](https://atom.io/)" and I am fine with that, I just don't want to wasste my teaching time getting editors installed on school and student home computers.
 
 ## draft:
+
+
+
+By: Jeremy Ellis Tech Teacher, BC, Canada
+
+###### Use at your own risk!
+
+My Github: [hpssjellis](https://github.com/hpssjellis?tab=repositories) , My twitter: [@rocksetta](https://twitter.com/rocksetta) , my Website [rocksetta.com](https://www.rocksetta.com/) Arduino Forum [jerteach](https://forum.arduino.cc/u/jerteach/activity)
+
