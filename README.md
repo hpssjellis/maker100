@@ -8,6 +8,9 @@ Started Jun 23rd, 2021
 
 ### I use the $ 103.40 USD Arduino Pro [PortentaH7](https://store.arduino.cc/usa/portenta-h7) Dual Core Micro-Controller with the $45.99 USD [Breakout Board](https://store.arduino.cc/usa/portenta-breakout) and $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)  and/or $47.15 USD [Ethernet Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield), possibly more shields later.
 
+
+Yes they are expensive, ask any teacher (music, shop, sewing, science) why they don't purchase cheap equipment. See other boards below for cheaper, not as good, options. When your Administrator says "Why don't you get the $4 RPI Pico", have an answer.
+
 [Course:](#course)  
 
 [Pre-Understanding:](#pre-understanding) 
@@ -17,6 +20,8 @@ Started Jun 23rd, 2021
 [Platforms:](#platforms) 
 
 [Other Boards:](#other-boards) 
+
+[Other Languages:](#other-Languages) 
 
 [Post Understanding Activites:](#post-understanding-activites)  
 
@@ -76,8 +81,10 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 3. Ohms Law V=IxR and Power equations
 4. Electrical Safety
 5. Non-microncontroller electric circuits: switch on a motor etc. I use [Snapcircuits 750](https://www.robotshop.com/en/elenco-snap-circuits-educational-series-training-program-sc-750r.html) I uuse the old version that comes in a box, this case version would be good, but any circuit play would be fine including online circuit visualizers.
-6. 6 Circuit components: Resistor, Diode, Transistor, Coil, Capacitor, Chip
+6. My six Circuit components: Resistor, Diode, Transistor, Coil, Capacitor, Chip
 7. Soldering: I don't teach it, all my examples are breadboard plug and play, also by grade 11 most of my students who are fully interested in tech have taught themselves how to solder. (I get them to do my soldering since those kids are better at it than I am!)
+8. Coding: Many of my students take a Game Development Javascipt programming class pre-robotics. It is a huge asset, but strangely some students take to programming like a fish to water and other students still have a hard time, even after several courses.
+9. 3D printing: Many of my students take a 3D printing course before or during taking robotics. Huge help for their final projects that need any structure: Most servo assignments need a structure around the servo to do something useful.
 
 
 
@@ -107,6 +114,19 @@ Some students just need to use cheaper equipment. Not everyone should be playing
 4. The $129 USD [Sony Spresense Kit](https://shop.framos.com/us/spresense) with Breakout Board and Camera and now works on the Arduino IDE
 5. The $25.50 USD [Arduino Nano-RP2040-Connect](https://store.arduino.cc/usa/nano-rp2040-connect-with-headers) Is very new but has lots of potential over the RPI Pico as it has WiFi and BLE onboard.
 6. The $4 USD [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) Amazing board, see above
+
+
+## Other Languages:
+I use the [Arduino MBED core](https://github.com/arduino/ArduinoCore-mbed)   Arduino's on going attempt to simplify the MBED Arm programming OS, but there are other options:
+
+1. [micro-Python](https://micropython.org/) The Portenta actually runs micro-python through the [OpenMV platform](https://openmv.io/) For Python lovers this is another. Note: Python is very fast to run, whereas Arduino code  (C++) must be compilled and can take a long time for each compile, theoretically the Arduino code is faster on the board.
+
+2. [Circuit-Python](https://learn.adafruit.com/welcome-to-circuitpython) Another version of Python for micro-controllers by Adafruit which is a very maker friendly company. Does not support the Portenta but supports lots of other boards
+
+4. Javascript: I have not really seen a Javascript language that looks any easier than C++ yet. Open to suggetions
+
+5. [Visuino](https://www.visuino.com/) A Visual programming drag and drop code creator for the Arduino may soon have Portenta compatibility, probably the future of Makers using micro-controllers as the actuall coding is minimal 
+
 
 ## Post Understanding Activites:
 
