@@ -9,6 +9,8 @@ Started Jun 23rd, 2021
 
 [Pre-Understanding:](#pre-understanding) 
 
+[Basic Costs:](#basic-costs)
+
 [Platforms:](#platforms) 
 
 [Post Understanding Activites:](#post-understanding-activites)  
@@ -49,7 +51,9 @@ Started Jun 23rd, 2021
 5. Non-microncontroller electric circuits: switch on a motor etc. I use [Snapcircuits 750](https://www.robotshop.com/en/elenco-snap-circuits-educational-series-training-program-sc-750r.html) I uuse the old version that comes in a box, this case version would be good, but any circuit play would be fine including online circuit visualizers.
 6. 6 Circuit components: Resistor, Diode, Transistor, Coil, Capacitor, Chip
 
+## Basic Costs:
 
+See main price list on the Portenta Pro Community Solutions Library Github [here](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
 
 ## Platforms:   
 [Arduino Regualar IDE  Version 1.8.??  Download](https://www.arduino.cc/en/software) Decade long tested, works great
