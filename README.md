@@ -80,7 +80,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 2. Microcontroller Max current, Max voltage
 3. Ohms Law V=IxR and Power equations
 4. Electrical Safety
-5. Non-microncontroller electric circuits: switch on a motor etc. I use [Snapcircuits 750](https://www.robotshop.com/en/elenco-snap-circuits-educational-series-training-program-sc-750r.html) I uuse the old version that comes in a box, this case version would be good, but any circuit play would be fine including online circuit visualizers.
+5. Non-microcontroller electric circuits: switch on a motor etc. I use [Snapcircuits 750](https://www.robotshop.com/en/elenco-snap-circuits-educational-series-training-program-sc-750r.html) I uuse the old version that comes in a box, this case version would be good, but any circuit play would be fine including online circuit visualizers.
 6. My six Circuit components: Resistor, Diode, Transistor, Coil, Capacitor, Chip
 7. Soldering: I don't teach it, all my examples are breadboard plug and play, also by grade 11 most of my students who are fully interested in tech have taught themselves how to solder. (I get them to do my soldering since those kids are better at it than I am!)
 8. Coding: Many of my students take a Game Development Javascipt programming class pre-robotics. It is a huge asset, but strangely some students take to programming like a fish to water and other students still have a hard time, even after several courses.
