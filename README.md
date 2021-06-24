@@ -7,8 +7,8 @@ By: Jeremy Ellis Tech Teacher, BC, Canada
 
 ###### Use at your own risk!
 
-# This course is for Makers not soon to be Engineers! 
-(Although soon to be Engineers are welcome to blast through the course. Seriously these students have finished my course in 2 weeks!)
+# This course is for Makers not, soon to be Engineers! 
+(Although soon to be Engineers are welcome to blast through the course. Seriously, these students have sometimes finished my course in 2 weeks!)
 
 ### I use the $ 103.40 USD Arduino Pro [PortentaH7](https://store.arduino.cc/usa/portenta-h7) Dual Core Micro-Controller with the $45.99 USD [Breakout Board](https://store.arduino.cc/usa/portenta-breakout) and $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)  and/or $47.15 USD [Ethernet Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield), possibly more shields later.
 
