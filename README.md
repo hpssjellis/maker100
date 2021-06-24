@@ -34,19 +34,10 @@ Reminder all code examples are in the Portenta Pro Community Solutions Library t
 |Topic| Example Code| Youtube Video| Resource Link 1| Link 2 | Link 3|
 |-------------------|--------|--------|---------|---------|---------|
 | 1. Auto Blink and Serial Print  | [a-a-hello-blink.ino](https://raw.githubusercontent.com/hpssjellis/portenta-pro-community-solutions/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino)   |    |    |     |    |
-
 | 2. Button cause blink   |    |    |    |     |    |
-
-
 | 3. Analog Read   |    |    |    |     |    |
-
-
 | 4. DAC    |    |    |    |     |    |
-
-
 |  5.   |    |    |    |     |    |
-
-
 |    |    |    |    |     |    |
 |    |    |    |    |     |    |
 
