@@ -175,8 +175,9 @@ Examples of things I do that drive Engineers crazy:
 2. Engineers will make a pin variable say called ```pin12``` and assign it to a pin say 6. And then throughout the program refer to ```pin12```, which confuses average students. I just use ```D6``` throughout the code so students know that this is digital pin 6. If they have to change it they just search and replace, but that drives Engineers crazy.
 3. Files: I put everything that does one thing into one file, Software Engineer: multiple files in multiple folders because they have the IQ to keep track of them.
 4. I use Notepad as an editor, Engineer's typically would use anything but Notepad.
-5. I don't comment anything that can be googled, as the more writing stresses students out I also use Camelcase long names to describe variables. Engineers, should comment everything
+5. I don't comment anything that can be googled, as the more writing stresses students out I also use camelCase long names to describe variables. Engineers, should comment everything.
 6. I try to get things working without a ton of theory, since interested students can lookup the theory. Engineers, theory first.
+7. I really should use [fritzing diagrams](https://fritzing.org/) for all my videos, but I have students make their own diagrams in anyway they like, and then they use their own diagram to connect the circuit. I find they have then thought more about it. Also I prefer students to read the top of the sketch as the connection information is often there and no diagram is available.
 
 
 
