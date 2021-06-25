@@ -3,7 +3,7 @@
 
 Started Jun 23rd, 2021
 
-By: Jeremy Ellis Tech Teacher, BC, Canada
+By: Jeremy Ellis, Technology Teacher, BC, Canada
 
 ###### Use at your own risk!
 
