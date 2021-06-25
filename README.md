@@ -172,10 +172,11 @@ I use the [Arduino MBED core](https://github.com/arduino/ArduinoCore-mbed)   Ard
 Examples of things I do that drive Engineers crazy:
 
 1. Itterators: say in a "for" loop. I use "myCount" (I put "my" before every funciton or variable we create, so students know not to google them), Software Engineer "i"
-2. Files: I put everything that does one thing into one file, Software Engineer: multiple files in multiple folders because they have the IQ to keep track of them.
-3. I use Notepad as an editor, Engineer's typically would use anything but Notepad.
-4. I don't comment anything that can be googled, as the more writing stresses students out I also use Camelcase long names to describe variables. Engineers, should comment everything
-5. I try to get things working without a ton of theory, since interested students can lookup the theory. Engineers, theory first.
+2. Engineers will make a pin variable say called ```pin12``` and assign it to a pin say 6. And then throughout the program refer to ```pin12```, which confuses average students. I just use ```D6``` throughout the code so students know that this is digital pin 6. If they have to change it they just search and replace, but that drives Engineers crazy.
+3. Files: I put everything that does one thing into one file, Software Engineer: multiple files in multiple folders because they have the IQ to keep track of them.
+4. I use Notepad as an editor, Engineer's typically would use anything but Notepad.
+5. I don't comment anything that can be googled, as the more writing stresses students out I also use Camelcase long names to describe variables. Engineers, should comment everything
+6. I try to get things working without a ton of theory, since interested students can lookup the theory. Engineers, theory first.
 
 
 
