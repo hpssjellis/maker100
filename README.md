@@ -37,10 +37,6 @@ Yes they are expensive, ask any teacher (music, shop, sewing, science) why they 
 
 [Course Notes](#course-notes)
  
-[Draft:](#draft)
-[Draft:](#draft)
-[Draft:](#draft)
-[Draft:](#draft)
 
 
 
@@ -64,16 +60,33 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 | 3. Analog Read                 |  [b-a-a-any-variable-resistor-sensor.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/b-portenta-h7-with-accessories/b-a-sensors/b-a-a-any-variable-resistor-sensor/b-a-a-any-variable-resistor-sensor.ino)                                                                                                                                                                            |               |                 |        |   Change the Resistor amount and which resistor is attached to 3V3 to get the largest most sensible range of readings.     |
 | 4. DAC to ADC                         |       [a-j-DAC-to-ADC.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-j-DAC-to-ADC/a-j-DAC-to-ADC.ino)                                                                                                                                                                       |               |                 |        |   Estimate the Voltage that the digital pin converts from 0 to 1, it should be close to half of 3V3     |
 | 5.  Flash SOS                           |     [g-a-SOS.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/g-robotics-curriculum/g-a-SOS/g-a-SOS.ino)                                                                                                                                                                         |               |                 |        |   Get the code running to flash the LED_BUILTIN, then have it flash an SOS. 3 short flashes, 3 long flashes, 3 short flashes then a 5 second rest.     |
-| 6.                             |                                                                                                                                                                              |               |                 |        |        |
-| 7.                             |                                                                                                                                                                              |               |                 |        |        |
-| 8.                             |                                                                                                                                                                              |               |                 |        |        |
-| 9.                             |                                                                                                                                                                              |               |                 |        |        |
-| 10.                            |                                                                                                                                                                              |               |                 |        |        |
-| 11.                            |                                                                                                                                                                              |               |                 |        |        |
-| 12.                            |                                                                                                                                                                              |               |                 |        |        |
-| 13.                            |                                                                                                                                                                              |               |                 |        |        |
-| 14.                            |                                                                                                                                                                              |               |                 |        |        |
-| 15.                            |                                                                                                                                                                              |               |                 |        |        |
+| 6. Web WiFi                            |                                                                                                                                                                              |               |                 |        |        |
+| 7.  Servo                           |                                                                                                                                                                              |               |                 |        |        |
+| 8. Transistor                            |                                                                                                                                                                              |               |                 |        |        |
+| 9. Small Dual DC Motor Driver                            |                                                                                                                                                                              |               |                 |        |        |
+| 10.  Large DC Motor Driver                          |                                                                                                                                                                              |               |                 |        |        |
+| 11.  Stepper Motor                         |                                                                                                                                                                              |               |                 |        |        |
+| 12.  Serial I2C OLED                          |                                                                                                                                                                              |               |                 |        |        |
+| 13.  Serial SPI Pixy2                          |                                                                                                                                                                              |               |                 |        |        |
+| 14.  Serial UART FingerPrintScanner-FPS                          |                                                                                                                                                                              |               |                 |        |        |
+| 15. GPS                           |                                                                                                                                                                              |               |                 |        |        |
+| 16. Acclerometer                           |                                                                                                                                                                              |               |                 |        |        |
+
+| 17. FSLP-Touch                           |                                                                                                                                                                              |               |                 |        |        |
+
+| 18. Range-Finder                           |                                                                                                                                                                              |               |                 |        |        |
+
+| 19. Serial-putty                           |                                                                                                                                                                              |               |                 |        |        |
+
+| 20. Web-IFTTT                          |                                                                                                                                                                              |               |                 |        |        |
+
+| 21.                            |                                                                                                                                                                              |               |                 |        |        |
+
+| 22.                            |                                                                                                                                                                              |               |                 |        |        |
+
+| 23.                            |                                                                                                                                                                              |               |                 |        |        |
+
+
 
 
 
