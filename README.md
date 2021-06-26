@@ -70,21 +70,21 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 | 13.  Serial SPI Pixy2                          |                                                                                                                                                                              |               |                 |        |        |
 | 14.  Serial UART FingerPrintScanner-FPS                          |                                                                                                                                                                              |               |                 |        |        |
 | 15. GPS                           |                                                                                                                                                                              |               |                 |        |        |
-| 16. Acclerometer                           |                                                                                                                                                                              |               |                 |        |        |
-
+| 16. Acclerometer                           |                                                                                                                                                                             |               |                 |        |        |
 | 17. FSLP-Touch                           |                                                                                                                                                                              |               |                 |        |        |
-
 | 18. Range-Finder                           |                                                                                                                                                                              |               |                 |        |        |
-
 | 19. Serial-putty                           |                                                                                                                                                                              |               |                 |        |        |
-
 | 20. Web-IFTTT                          |                                                                                                                                                                              |               |                 |        |        |
-
-| 21.                            |                                                                                                                                                                              |               |                 |        |        |
-
-| 22.                            |                                                                                                                                                                              |               |                 |        |        |
-
-| 23.                            |                                                                                                                                                                              |               |                 |        |        |
+| 21. Ethernet-Vision-Shield                           |                                                                                                                                                                              |               |                 |        |        |
+| 22. SD-card-Vision-Shield                          |                                                                                                                                                                              |               |                 |        |        |
+| 23. Camera-Vision-Shield                           |                                                                                                                                                                              |               |                 |        |        |
+| 24. Rocksetta-Machine-Learning-Sine-Wave                           |                                                                                                                                                                              |               |                 |        |        |
+| 25.  Edge-Impulse-Sound-Yes-No                          |                                                                                                                                                                              |               |                 |        |        |
+| 26.  Edge-Impulse-Vision-Brush-Tube                          |                                                                                                                                                                              |               |                 |        |        |
+| 27.                            |                                                                                                                                                                              |               |                 |        |        |
+| 28.                            |                                                                                                                                                                              |               |                 |        |        |
+| 29.                            |                                                                                                                                                                              |               |                 |        |        |
+| 30.                            |                                                                                                                                                                              |               |                 |        |        |
 
 
 
