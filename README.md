@@ -1,4 +1,4 @@
-# High School Robotics TinyML Machine Learning Curriculum
+# High School Robotics TinyML Machine Learning Curriculum using The Arduino PortentaH7 Pro Boards and Sheilds
 
 
 Started Jun 23rd, 2021
