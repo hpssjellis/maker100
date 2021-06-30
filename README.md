@@ -1,4 +1,4 @@
-# High School Robotics TinyML Machine Learning Curriculum using The Arduino PortentaH7 Pro Boards and Shields
+# Maker Robotics and Machine Learning with the Arduino Portenta and Shields
 
 
 Started Jun 23rd, 2021
