@@ -158,9 +158,9 @@ See main price list on the Portenta Pro Community Solutions Library Github [here
 ## Other Boards:
 
 Some students just need to use cheaper equipment. Not everyone should be playing around with a $100 board who can't connect it properly. 
-I have a class set 15 of each of the Portenta Series <br><img src="media/Portenta-pro-boxes.jpg" width = 500/> 
+I have a class set of 15 of each of the Portenta Series <br><img src="media/Portenta-pro-boxes.jpg" width = 500/> 
 
-Following are a few cheaper boards that could do parts of this course. 
+Following are a few cheaper boards that could do parts of this course although the pins may be different. 
 
 I also have a class set of 15 Seeeduino XIAO, for testing if a circuit is going to fry your board, you can't beat a $5 microcontroller. <br><br>
 
