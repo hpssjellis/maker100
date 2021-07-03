@@ -66,7 +66,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 | 9. Small Dual DC Motor Driver                            |       [b-b-f-small-dual-dc-motor-driver.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/b-portenta-h7-with-accessories/b-b-actuators/b-b-f-small-dual-dc-motor-driver/b-b-f-small-dual-dc-motor-driver.ino)                                                                                                                                                                       |               |                 |  <img src="media/b-b-f-small-dual-dc-motor-driver.png" width = 200/>      |  Get a small motor working using it's own power supply and change the code so it does what you want. Pololu #2135 DRV8835 Dual Motor Driver Carrier  [here](https://www.pololu.com/product/2135)     |
 | 10.  Large DC Motor Driver                          |     [b-b-g-big-dc-motor-driver.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/b-portenta-h7-with-accessories/b-b-actuators/b-b-g-big-dc-motor-driver/b-b-g-big-dc-motor-driver.ino)                                                                                                                                                                         |               |                 |   <img src="media/b-b-g-big-dc-motor-driver.png" width = 200/>      |   Get a 6V motor running and change code for it to do what you want. Protect the Phton from the 6 Volt motor side. Check Pololu 1451 VNH5019 Motor Driver Carrier [here](https://www.pololu.com/product/1451)     |
 | 11.  Stepper Motor                         |           [b-b-e-stepper-motor.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/b-portenta-h7-with-accessories/b-b-actuators/b-b-e-stepper-motor/b-b-e-stepper-motor.ino)                                                                                                                                                                   |               |                 |     <img src="media/b-b-e-stepper-motor.png" width = 200/>       |   Note: This stepper needs 6V, Change code to do what you want.  Pololu 2134 DRV8834 Low-Voltage Stepper Motor Driver Carrier [here](https://www.pololu.com/product/2134)   |
-| 12.  Serial I2C OLED                          |          [b-b-b-I2C-grove-OLED.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/b-portenta-h7-with-accessories/b-b-actuators/b-b-b-I2C-grove-OLED/b-b-b-I2C-grove-OLED.ino)                                                                                                                                                                    |               |                 |        |        |
+| 12.  Serial I2C OLED                          |          [b-b-b-I2C-grove-OLED.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/b-portenta-h7-with-accessories/b-b-actuators/b-b-b-I2C-grove-OLED/b-b-b-I2C-grove-OLED.ino)                                                                                                                                                                    |               |                 |   <img src="media/b-b-b-I2C-grove-OLED.png" width = 200/>      |   Have fun with this. Have it say what you want, where you want it and for how long.     |
 | 13.  Serial SPI Pixy2                          |           [b-a-b-pixy2-SPI.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/b-portenta-h7-with-accessories/b-a-sensors/b-a-b-pixy2-SPI/b-a-b-pixy2-SPI.ino)                                                                                                                                                                   |               |                 |        |        |
 | 14.  Serial UART FingerPrintScanner-FPS (Not Yet Working)                         |                                                                                                                                                                              |               |                 |        |        |
 | 15. GPS (Not Yet Working)                          |                                                                                                                                                                              |               |                 |        |        |
@@ -137,6 +137,7 @@ Blast through all first year assignments, multiple sensor and Actuators: ie: rob
 
 
 
+
 ## Basic Costs:
 
 See main price list on the Portenta Pro Community Solutions Library Github [here](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
@@ -183,16 +184,17 @@ I use the [Arduino MBED core](https://github.com/arduino/ArduinoCore-mbed)   Ard
 5. [Visuino](https://www.visuino.com/) A Visual programming drag and drop code creator for the Arduino may soon have Portenta compatibility, probably the future of Makers using micro-controllers as the actual coding is minimal 
 
 
-## Post Understanding Activities:
+## Post Understanding Activities: The Final Porject!
 
-1.  Individual Final Project with at least one sensor and one actuator
+1. I have students try to stay away from final projects using Water or AC home 120/240 volts for obvious electrical safety precautions. I also have them stay away from drones as the commercial ones are very good and student testing their software with drones is too easy to smash your entire project.
+2.  Individual Final Project with at least one sensor and one actuator
     1. Proof of Concept (POC) Sensor Actuator working
     2. Useful and/or fun
     3. Structure designed (3d Printed if needed)
     4. Final Project Prototype ready
     5. Can it be sold? If so how much. Is it worth it?
-2. If time, final project with more sensors and actuators
-3. If time, Group Project
+3. If time, final project with more sensors and actuators
+4. If time, Group Project
 
 
 
