@@ -134,6 +134,7 @@ Blast through all first year assignments, multiple sensor and Actuators: ie: rob
 7. Soldering: I don't teach it, all my examples are breadboard plug and play, also by grade 11 most of my students who are fully interested in tech have taught themselves how to solder. (I get them to do my soldering since those kids are better at it than I am!)
 8. Coding: Many of my students take a Game Development Javascript programming class pre-robotics. It is a huge asset, but strangely some students take to programming like a fish to water and other students still have a hard time, even after several courses. I basically only teach 9 concepts: 1.Input/Output, 2.Variables, 3.Decisions (if statements), 4.Loops(for), 5.Functions, 6.Events, 7.Arrays, 8.Objects/Struct, 9.Classes(just using other peoples classes) 
 9. 3D printing: Many of my students take a 3D printing course before or during taking robotics. Huge help for their final projects that need any structure: Most servo assignments need a structure around the servo to do something useful.
+10. <b>Marking</b>: My students make videos and save to the school network. The video steps are: View a student name tag(s), then their wiring diagram they drew, the code flashed to the Portenta, then the Portenta fully wired and running, often back to the computer to show the Serial monitor or a webpage. These videos are very short as I can pause to have a longer look. Marking can also be done in person.  
 
 
 
