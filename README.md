@@ -89,7 +89,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 | <a name="30" href="#30">`30`</a>.                           |                                                                                                                                                                              |           |                 |        |        |
 | <a name="31" href="#31">`31`</a>.                         |                                                                                                                                                                              |           |                 |        |        |
 
-### Advances topics if time permits (or you want to be an Engineer)
+### Advanced topics if time permits (or you want to be an Engineer)
 
 
 | Advanced Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
@@ -108,6 +108,18 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 
 
+
+
+
+### Community Suggestions
+
+
+| Advanced Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
+| <a name="community1" href="#community1">`community1`</a>.                           |           |               |                 |        |        |
+| <a name="community2" href="#community2">`community2`</a>.                           |           |               |                 |        |        |
+| <a name="community3" href="#community3">`community3`</a>.                           |           |               |                 |        |        |
+| <a name="community4" href="#community4">`community4`</a>.                           |           |               |                 |        |        |
 
 
 
