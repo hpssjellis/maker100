@@ -50,7 +50,7 @@ Reminder all code examples are in the [Portenta Pro Community Solutions Library]
 Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](https://www.tablesgenerator.com/markdown_tables) File-->Paste Table Data --> Generate --> Copy to Clipboard--> paste back here
 
 
-<a name="cool">cool</a> 
+<a id="cool" > cool </a> 
 
 
 | Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
