@@ -50,13 +50,7 @@ Reminder all code examples are in the [Portenta Pro Community Solutions Library]
 Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](https://www.tablesgenerator.com/markdown_tables) File-->Paste Table Data --> Generate --> Copy to Clipboard--> paste back here
 
 
-<a id="cool" > cool </a> 
 
-
-### not
-
-
-<a href="#-">`^`</a> - (click to go to first anchor of this comment)
 
 
 
