@@ -10,8 +10,11 @@ By: Jeremy Ellis, Technology Teacher, BC, Canada
 ### Hopefully this will be ready for my students in February 2022
 
 
-# This course is for Makers, not soon to be Engineers! 
+# This course is for Makers, not soon to be Engineers or Computer Scientists! 
 Why, because I teach things as simply as possible but not necessarily the correct way. (Although soon to be Engineers are welcome to blast through the course. Seriously, these capable pre-engineering students have sometimes finished my semester long course in under 2 weeks!)
+
+*All University Undergrads, except Engineers and Computer Scientists, should take a simplified Robotics and Machine Learning course. Quote by Jeremy Ellis July 10th, 2021*
+
 
 ### I use the $ 103.40 USD Arduino Pro [PortentaH7](https://store.arduino.cc/usa/portenta-h7) Dual Core Micro-Controller with the $45.99 USD [Breakout Board](https://store.arduino.cc/usa/portenta-breakout) and $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)  and/or $47.15 USD [Ethernet Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield), possibly more shields later.
 
