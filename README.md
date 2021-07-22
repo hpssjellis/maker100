@@ -1,4 +1,4 @@
-# Maker 100, Robotics and Machine Learning Basics with the Arduino Portenta and Shields
+# Maker 100, Robotics and Machine Learning Basics with the Dual Core Arduino Portenta and Shields
 
 
 Started Jun 23rd, 2021
