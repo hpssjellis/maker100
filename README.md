@@ -1,4 +1,4 @@
-# Maker Robotics and Machine Learning with the Arduino Portenta and Shields
+# Maker100, Robotics and Machine Learning Basics with the Arduino Portenta and Shields
 
 
 Started Jun 23rd, 2021
