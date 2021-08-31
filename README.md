@@ -234,7 +234,8 @@ Examples of things I do that drive Engineers crazy:
 7. I really should use [fritzing diagrams](https://fritzing.org/) for all my videos, but I have students make their own diagrams in anyway they like, and then they use their own diagram to connect the circuit. I find they have then thought more about it. Also I prefer students to read the top of the sketch as the connection information is often there and no diagram is available.
 
 
-
+## Latest Portenta Pinout
+![Portneta Pinout](https://content.arduino.cc/assets/Pinout-PortentaH7_latest.png)
 
 
 
