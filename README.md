@@ -92,11 +92,41 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 | <a name="27" href="#27">`27`</a>. Edge-Impulse-Vision-Brush-Tube                          |                                                                                                                                                                              |               |                 |        |        |
 | <a name="28" href="#28">`28`</a>. LoRaWan-Helium/TTN                           |     [c-b-b-helium-cayenne-us915.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/c-portenta-vision-shields/c-b-lorawan-specific/c-b-b-helium-cayenne-us915/c-b-b-helium-cayenne-us915.ino)                                                                                                                                                                         |               |                 |        |    Setup a LoRaWan connection on the US915 Helium network and send random "fake" temperature data. <br><br>Need to setup the Helium side: https://console.helium.com/ for what it does with the data. I use the https://io.adafruit.com/ MQTT with Cayenne encoding, but lots of other options out there.  <br>Check the helium explorer for your area https://explorer.helium.com/   |
 | <a name="29" href="#29">`29`</a>. Touch Screen                         |        [b-a-h-TFTV2-touchScreen.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/b-portenta-h7-with-accessories/b-a-sensors/b-a-h-TFTV2-touchScreen/b-a-h-TFTV2-touchScreen.ino)                                                                                                                                                                      |       [<img src="https://img.youtube.com/vi/SvW3U7YzV0Y/hqdefault.jpg" width=600 />](https://www.youtube.com/watch?v=SvW3U7YzV0Y&list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05&index=16)       |                        |    <img src="media/TFTV2-pinout-to-Portenta-Good.png" width = 200/>        |    Real Assignment: Presently the Touch Screen sensor is not reading completly to the edges of the screen, see if you can figure out why? Is it just the mapping of raw values to real values, the main resistor amoutn set at 300 ohms, the wire length. What is it? Fix it.    |
-| <a name="30" href="#30">`30`</a>.                           |                                                                                                                                                                              |           |                 |        |        |
-| <a name="31" href="#31">`31`</a>.                         |                                                                                                                                                                              |           |                 |        |        |
+| <a name="30" href="#30">`30`</a>.  PCB Board Build (Teacher needs a board)                         |                                                                                                                                                                              |           |                 |        |     Solder surface mount and through hole componenets on the PCB board   |
+| <a name="31" href="#31">`31`</a>.  [easyEDA](https://easyeda.com/)- either login or download and  [JLCPCB](https://jlcpcb.com/) for Printing it                     |                                                                                                                                                                              |           |                 |        |   Take the edit file from the above PCB build using [easyEDA](https://easyeda.com/) and now edit it ready for printing using [JLCPCB](https://jlcpcb.com/)    |
+
+
+### More Helium topics if time permits 
+
+| More Helium Portenta Topics                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
+| <a name="helium1" href="#helium1">`helium1`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="helium2" href="#helium2">`helium2`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="helium3" href="#helium3">`helium3`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="helium4" href="#helium4">`helium4`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="helium5" href="#helium5">`helium5`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="helium6" href="#helium6">`helium6`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+
+
+
+
+### More Machine Learning topics if time permits 
+
+| More Machine Learning Portenta Topics                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
+| <a name="ml1" href="#ml1">`ml1`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="ml2" href="#ml2">`ml2`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="ml3" href="#ml3">`ml3`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="ml4" href="#ml4">`ml4`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="ml5" href="#ml5">`ml5`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="ml6" href="#ml">`ml6`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+
+
+
+
+
 
 ### Advanced topics if time permits (or you want to be an Engineer)
-
 
 | Advanced Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
