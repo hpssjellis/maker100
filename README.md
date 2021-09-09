@@ -152,7 +152,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 | Advanced Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
-| <a name="community1" href="#community1">`community1`</a>.                           |           |               |                 |        |        |
+| <a name="community1" href="#community1">`community1`</a>.  Lidar Sensor (Not yet purchased)                         |           |               |       [Arduino capable Lidar Sensor](https://www.amazon.com/MakerFocus-Single-Point-Ranging-Pixhawk-Compatible/dp/B075V5TZRY/ref=sr_1_3?dchild=1&keywords=lidar+sensor+arduino&qid=1631212121&sr=8-3)          |        |        |
 | <a name="community2" href="#community2">`community2`</a>.                           |           |               |                 |        |        |
 | <a name="community3" href="#community3">`community3`</a>.                           |           |               |                 |        |        |
 | <a name="community4" href="#community4">`community4`</a>.                           |           |               |                 |        |        |
