@@ -271,6 +271,10 @@ Examples of things I do that drive Engineers crazy:
 
 
 
+## Old Fairly Complex Portenta examples:
+
+[https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)
+
 By: Jeremy Ellis, Tech Teacher, BC, Canada
 
 ###### Use at your own risk!
