@@ -266,6 +266,13 @@ Examples of things I do that drive Engineers crazy:
 7. I really should use [fritzing diagrams](https://fritzing.org/) for all my videos, but I have students make their own diagrams in anyway they like, and then they use their own diagram to connect the circuit. I find they have then thought more about it. Also I prefer students to read the top of the sketch as the connection information is often there and no diagram is available.
 
 
+
+
+## Wow , new version of Arduino MBED core now allows memory splitting between the cores.
+
+<img src="https://user-images.githubusercontent.com/5605614/134551018-fd6ae055-4d42-433e-af39-766fa70d89c2.png" width = 400/>
+
+
 ## Latest Portenta Pinout
 ![Portneta Pinout](https://content.arduino.cc/assets/Pinout-PortentaH7_latest.png)
 
@@ -282,3 +289,5 @@ By: Jeremy Ellis, Tech Teacher, BC, Canada
 My Github: [hpssjellis](https://github.com/hpssjellis?tab=repositories) , My twitter: [@rocksetta](https://twitter.com/rocksetta) , my Website [rocksetta.com](https://www.rocksetta.com/) My Arduino Forum [jerteach](https://forum.arduino.cc/u/jerteach/activity) my Edge Impulse Forum [rocksetta](https://forum.edgeimpulse.com/u/rocksetta/activity)
 
 .
+
+
