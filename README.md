@@ -268,14 +268,24 @@ Examples of things I do that drive Engineers crazy:
 
 
 
-## Wow , new version of Arduino MBED core now allows memory splitting between the cores.
+## Wow
+
+New version of Arduino MBED core v2.5.2 now allows memory splitting between the cores.
 
 <img src="https://user-images.githubusercontent.com/5605614/134551018-fd6ae055-4d42-433e-af39-766fa70d89c2.png" width = 400/>
+
+.
+
+
+.
 
 
 ## Latest Portenta Pinout
 ![Portneta Pinout](https://content.arduino.cc/assets/Pinout-PortentaH7_latest.png)
 
+.
+
+.
 
 
 ## Old Fairly Complex Portenta examples:
