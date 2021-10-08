@@ -111,7 +111,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 
 
-### More Machine Learning topics if time permits 
+### More Edge Impulse Machine Learning topics if time permits 
 
 | More Machine Learning Portenta Topics                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
