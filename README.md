@@ -97,7 +97,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 
 
-### More Helium topics if time permits 
+### More [Helium](https://www.helium.com/) topics if time permits 
 
 | More Helium Portenta Topics                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
