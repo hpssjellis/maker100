@@ -194,7 +194,10 @@ Blast through all first year assignments, multiple sensor and Actuators: ie: rob
 
 ## Basic Costs:
 
-See main price list on the Portenta Pro Community Solutions Library Github [here](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
+See main price list on the Portenta Pro Community Solutions Library Github mainly for classroom teachers [here](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
+
+New price list [price-list-individuals.md](price-list-individuals.md) mainly for individuals trying the course. 
+
 
 ## Platforms:   
 [Arduino Regular IDE  Version 1.8.??  Download](https://www.arduino.cc/en/software) Decade long tested, works great
