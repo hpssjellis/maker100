@@ -29,18 +29,18 @@
 
 1. [DC motor](https://www.pololu.com/product/3225)
 
-1. Rangefinder Ultrasonic	[HC-SR04 ](https://www.robotshop.com/en/hc-sr04-ultrasonic-range-finder-tys.html)	$2.50
+1. Ultrasonic	[RB-Ite-54](http://www.robotshop.com/en/hc-sr04-ultrasonic-range-finder.html)	$2.50
 
 1. GPS 	[113020003](http://www.seeedstudio.com/depot/Grove-GPS-p-959.html)	$29.90 
 
 
-1. [Triple axis Gyro from Sparkfun through Amazon](https://www.amazon.com/Triple-Axis-Accelerometer-Breakout-ADXL362/dp/B00AEOGDFS/ref=sr_1_1?s=industrial&ie=UTF8&qid=1504075018&sr=1-1&keywords=SparkFun+Triple+Axis+Accelerometer+Breakout+%28ADXL362%29) This was one of the hardest sensors to get going I think this was the forth different one I tried. I hope to post the code eventually.
+1. [Integrated Sensor Module LSM9DS1 9DOF IMU High Accuracy Attitude Sensor for Arduino](https://www.amazon.ca/Integrated-LSM9DS1-Accuracy-Attitude-Arduino/dp/B09BFTL9PY/ref=sr_1_2?dchild=1&keywords=LSM9DS1&qid=1635831937&sr=8-2) This was one of the hardest sensors to get going I think this was the forth different one I tried.
 
 
 1. Flex sensor		[RB-Spa-989](http://www.robotshop.com/ca/en/22-10k-flexible-sensor.html)	shop	$10.19
 
 
-1. Ultrasonic	[RB-Ite-54](http://www.robotshop.com/en/hc-sr04-ultrasonic-range-finder.html)	$2.50
+
 
 
 
@@ -51,6 +51,9 @@
 
 
 # Optional Maker100 Equipment for Individuals:
+
+1. Soldering kit
+
 1. $47.15 USD [Ethernet Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield)   
 
 1. $45.99 USD [Portenta Breakout board](https://store.arduino.cc/usa/portenta-breakout)  
