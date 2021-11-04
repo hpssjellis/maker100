@@ -124,7 +124,7 @@ Aan older price list mainly for teachers and classrooms is at the Portenta Pro C
 
 
 Note: Student final projects often have a cost. In my class students can use the school equipment, 
-but at home students wulld need all the equipment for there final project
+but at home students would need all the equipment for there final project
 
 
 
