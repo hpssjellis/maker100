@@ -4,12 +4,13 @@
 Aan older price list mainly for teachers and classrooms is at the Portenta Pro Comunity Solutions example code library [pricelist for groups](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
 
 
-
-
+# Warning Pricfe list has not yet been tested, might be missing a few basic things like breader bords, female headers, resistors etc.3
 
 
 # Minimal Price List for this Maker100 course using the Arduino Portenta
 
+
+--------------------------------------------------------------------------------------------------------
 
 
 # Basic Step A Machine Learning Needs for Individuals:
@@ -28,6 +29,7 @@ Aan older price list mainly for teachers and classrooms is at the Portenta Pro C
 
 
 
+--------------------------------------------------------------------------------------------------------
 
 # Basic Step B: Maker100 Needs for individuals: (Should connect these with the assignments)
 
@@ -61,6 +63,7 @@ Aan older price list mainly for teachers and classrooms is at the Portenta Pro C
 
 
 
+--------------------------------------------------------------------------------------------------------
 
 
 
@@ -104,6 +107,10 @@ Aan older price list mainly for teachers and classrooms is at the Portenta Pro C
 
 
 
+
+
+--------------------------------------------------------------------------------------------------------
+
 ## Advanced Optional Items
 
 1. 3D Printer.  I have the [Tinkerine](https://store.tinkerine.com/) and a 12x12x12 [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) but any working 3D Printer would be fine.
@@ -113,7 +120,11 @@ Aan older price list mainly for teachers and classrooms is at the Portenta Pro C
 
 
 
+--------------------------------------------------------------------------------------------------------
 
+
+Note: Student final projects often have a cost. In my class students can use the school equipment, 
+but at home students wulld need all the equipment for there final project
 
 
 
