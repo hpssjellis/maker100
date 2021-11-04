@@ -105,7 +105,7 @@ Aan older price list mainly for teachers and classrooms is at the Portenta Pro C
 
 ## Advanced Optional Items
 
-1. 3D Printer I have the [Tinkerine](https://store.tinkerine.com/) and a 12x12x12 [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) but any working 3D Printer would be fine.
+1. 3D Printer.  I have the [Tinkerine](https://store.tinkerine.com/) and a 12x12x12 [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) but any working 3D Printer would be fine.
 
 1. Microscopic Soldering Station
 
