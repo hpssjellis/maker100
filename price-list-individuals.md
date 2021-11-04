@@ -24,6 +24,7 @@ Aan older price list mainly for teachers and classrooms is at the Portenta Pro C
 
 1. $70 USD [Nicla Sense ME](https://store-usa.arduino.cc/products/nicla-sense-me?selectedStore=us)
 
+1. LoRa Antenna with u.fl connector and 915MHz for North America  [DIYmalls 915MHz LoRa Antenna U.FL IPEX to SMA Connector Pigtail 2dBi](https://www.amazon.ca/915MHz-Antenna-Connector-Pigtail-Internet/dp/B086ZG5WBR/ref=sr_1_1_sspa?keywords=lora+915+ufl+connector&qid=1636056723&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVNETEoxSDlYNUEmZW5jcnlwdGVkSWQ9QTA5Mjg4NTAzSDk5RVZIS09JVks2JmVuY3J5cHRlZEFkSWQ9QTA0MDc3MDQyOEdBU0oxMEpVNk1EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 
 
