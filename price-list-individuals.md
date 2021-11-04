@@ -1,7 +1,7 @@
 
 
 
-
+Aan older price list mainly for teachers and classrooms is at the Portenta Pro Comunity Solutions example code library [pricelist for groups](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
 
 
 
@@ -22,8 +22,13 @@
 
 1.  $23 USD [1.5inch OLED Display Module 128x128 16 Gray Scale SPI/I2C Interface SSD1327 Driver Raspberry Pi/Arduino/STM32](https://www.amazon.ca/dp/B079KRC9X3?psc=1&smid=AIVH4OZ6D0Y4K&ref_=chk_typ_imgToDp) or from waveshare [128x128, General 1.5inch OLED display Module, SKU: 13992](https://www.waveshare.com/1.5inch-oled-module.htm)
 
+1. $70 USD [Nicla Sense ME](https://store-usa.arduino.cc/products/nicla-sense-me?selectedStore=us)
 
-#Basic Step B: Maker100 Needs for individuals: (Should connect these with the assignments)
+
+
+
+
+# Basic Step B: Maker100 Needs for individuals: (Should connect these with the assignments)
 
 
 
