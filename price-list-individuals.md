@@ -1,10 +1,10 @@
 
 
 
-Aan older price list mainly for teachers and classrooms is at the Portenta Pro Comunity Solutions example code library [pricelist for groups](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
+An older price list mainly for teachers and classrooms is at the Portenta Pro Comunity Solutions example code library [pricelist for groups](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
 
 
-# Warning Pricfe list has not yet been tested, might be missing a few basic things like breader bords, female headers, resistors etc.3
+# Warning Price list has not yet been tested, might be missing a few basic things like breader boards, female headers, resistors etc.3
 
 
 # Minimal Price List for this Maker100 course using the Arduino Portenta
