@@ -24,7 +24,7 @@
 [Arduino](http://store.arduino.cc/): For making microcontrollers simple to understand, and for supporting the equiplment on the forum [here](https://forum.arduino.cc/)
 
 
-
+[TensorflowJS](https://www.tensorflow.org/js): For making machine learning available for everyone in the browser, potentially without having to install anything. Although my site [here](https://www.rocksetta.com/tensorflowjs/) helps with that. 
 
 
 
