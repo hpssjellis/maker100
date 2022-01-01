@@ -1,4 +1,6 @@
-## For Companies that go out of their way to support impoverished Youth with microcontrollers, sensors, actuators and supporting tech equipment.
+# Machine Learning and Robotics for the Poor!
+
+#For Companies that go out of their way to support Machine Learning and Robotics for the poor by supplying microcontrollers, sensors, actuators and supporting tech equipment.
 
 
 ## Companies and Organizations that have supported the [maker100](https://github.com/hpssjellis/maker100) online Robotics, Machine Learning project
@@ -10,7 +12,7 @@
 
 
 
-.
+[EdgeImpulse](https://www.edgeimpulse.com/): For their Portenta with Vision Shield giveaway during Dec 2021  [here](https://www.edgeimpulse.com/blog/were-giving-away-100-arduino-portenta-h7-vision-shield)
 
 
 
