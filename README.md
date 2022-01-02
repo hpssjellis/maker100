@@ -286,6 +286,12 @@ New version of Arduino MBED core v2.5.2 now allows memory splitting between the 
 .
 
 
+<iframe src="price-list-individuals.md" title="Price-List-For-Individulas"></iframe>
+
+
+
+
+
 ## Latest Portenta Pinout
 ![Portneta Pinout](https://content.arduino.cc/assets/Pinout-PortentaH7_latest.png)
 
