@@ -286,8 +286,6 @@ New version of Arduino MBED core v2.5.2 now allows memory splitting between the 
 .
 
 
-<iframe rows="90%" cols="30" src="https://github.com/hpssjellis/maker100/blob/main/price-list-individuals.md" title="Price-List-For-Individulas"></iframe>
-
 
 
 
