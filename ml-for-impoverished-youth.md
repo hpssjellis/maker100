@@ -27,7 +27,7 @@
 
 [TensorflowJS](https://www.tensorflow.org/js): For making machine learning available for everyone in the browser, potentially without having to install anything. Although my site [here](https://www.rocksetta.com/tensorflowjs/) helps with that. 
 
-[EdgeImpulse](https://www.edgeimpulse.com/) again: For their Portenta with Vision Shield giveaway during Dec 2021  [here](https://www.edgeimpulse.com/blog/were-giving-away-100-arduino-portenta-h7-vision-shield)
+[EdgeImpulse](https://www.edgeimpulse.com/) again: For their Arduino Portenta with Vision Shield giveaway during Dec 2021  [here](https://www.edgeimpulse.com/blog/were-giving-away-100-arduino-portenta-h7-vision-shield)
 
 
 
