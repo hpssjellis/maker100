@@ -1,4 +1,4 @@
-# Machine Learning and Robotics for Impoverished Coding Capable Youth!
+# Machine Learning and Robotics for Coding Capable Impoverished Youth!
 
 # For Companies that go out of their way to support Machine Learning and Robotics for the poor by supplying microcontrollers, sensors, actuators and supporting tech equipment.
 
