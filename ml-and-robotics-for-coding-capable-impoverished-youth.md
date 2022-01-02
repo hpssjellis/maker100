@@ -1,6 +1,6 @@
 # Machine Learning and Robotics for Coding Capable Impoverished Youth!
 
-# For Companies that go out of their way to support Machine Learning and Robotics for the poor by supplying microcontrollers, sensors, actuators and supporting tech equipment.
+Showcase Companies that go out of their way to support Machine Learning and Robotics  Coding Capable Impoverished Youth by supplying microcontrollers, sensors, actuators and supporting tech equipment to the student not the school!
 
 
 ## Companies and Organizations that have supported the [maker100](https://github.com/hpssjellis/maker100) online Robotics, Machine Learning project
