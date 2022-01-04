@@ -10,9 +10,9 @@
 
 
 ## Step 1: Machine Learning With The PortentaH7 and LoRa Vision Shield:
-Total $203.37 USD = $258.30 CAD
+Total $204.00 USD = $259.00 CAD
 
-1. $103.47 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   <br><img src="https://user-images.githubusercontent.com/5605614/133374580-13deb749-820c-46db-bc04-597c610d2bd0.png" width=200 />
+1. $104 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   <br><img src="https://user-images.githubusercontent.com/5605614/133374580-13deb749-820c-46db-bc04-597c610d2bd0.png" width=200 />
 
 1. $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)     <br><img src="https://user-images.githubusercontent.com/5605614/133374592-36bb6dfd-ec10-4796-b998-782b58ce8730.png" width=200 />
 
