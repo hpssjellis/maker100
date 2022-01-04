@@ -57,6 +57,22 @@ Total $204.00 USD = $259.00 CAD
 
 
 
+Arduino Starter Kit: Everything you need to get going building things with Arduino  $35.26 CDN
+[Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html)
+
+<img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=600 /> 
+
+
+Sensor Kit: Consider getting one of the many Arduino style sensor kits on the market. Here is one for $35 CDN that looks very good
+[Kuman 37-in-1 Sensor Kit Compatible with Arduino Raspberry Pi Mega 2560 Kits Compatible K5](https://www.amazon.ca/Kuman-sensor-arduino-raspberry-Compatible/dp/B01BY16552/ref=sr_1_29?dchild=1&keywords=maker+breadboard+wire+kit+solder&qid=1631683832&sr=8-29)
+<img src="https://user-images.githubusercontent.com/5605614/133377159-586ccaba-56fd-42ac-8390-51c33fe5d086.png" width=600 /> 
+
+Basic Solder kit: Not really needed as we use breadboards and snap connectors but good to have  CAD $24.21
+
+[Plusivo Soldering Kit for Electronics (US Plug)](https://www.robotshop.com/ca/en/plusivo-soldering-kit-electronics-us-plug.html)
+
+<img src="https://user-images.githubusercontent.com/5605614/134214253-310de7c1-6ebc-451d-a616-e6741990d710.png" width=600 /> 
+
 
 
 
