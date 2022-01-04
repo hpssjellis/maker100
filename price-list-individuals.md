@@ -1,19 +1,15 @@
 
 
 
-An older price list mainly for teachers and classrooms is at the Portenta Pro Comunity Solutions example code library [pricelist for groups](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
 
 
-# Warning Price list has not yet been tested, might be missing a few basic things like breadboards, female headers, resistors etc.3
-
-
-# Minimal Price List for this Maker100 course using the Arduino Portenta
+# Minimal Price List for this Maker100 course based on the Arduino PortentaH7
 
 
 --------------------------------------------------------------------------------------------------------
 
 
-# Basic Step A Machine Learning Needs for Individuals:
+## Step 1: Machine Learning With The PortentaH7 and LoRa Vision Shield:
 
 1. $103.47 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   
 
@@ -31,7 +27,7 @@ An older price list mainly for teachers and classrooms is at the Portenta Pro Co
 
 --------------------------------------------------------------------------------------------------------
 
-# Basic Step B: Maker100 Needs for individuals: (Should connect these with the assignments)
+# Step 2: Maker100 Sensors and Motors (Actuators): 
 
 
 
@@ -65,6 +61,24 @@ An older price list mainly for teachers and classrooms is at the Portenta Pro Co
 
 --------------------------------------------------------------------------------------------------------
 
+# Step 3: Technology Equipment based on interests: Choice either A: Soldering PCB Design, or B: 3D Printing
+
+
+
+
+
+# Step 4: Own Project  Cost Up to $300.00
+
+
+
+#Step 5: No Purchase needed, finish final project for presentation.
+
+
+
+
+
+
+# DRAFT following
 
 
 # Optional Maker100 Equipment for Individuals:
@@ -130,6 +144,15 @@ but at home students would need all the equipment for there final project
 
 
 
+
+
+-------------------------------------------------------------------------
+
+
+An older price list mainly for teachers and classrooms is at the Portenta Pro Comunity Solutions example code library [pricelist for groups](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/pricelist.md)
+
+
+ Warning Price list has not yet been tested, might be missing a few basic things like breadboards, female headers, resistors etc.3
 
 
 
