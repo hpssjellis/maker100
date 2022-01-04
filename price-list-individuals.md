@@ -11,13 +11,9 @@
 
 ## Step 1: Machine Learning With The PortentaH7 and LoRa Vision Shield:
 
-1. $103.47 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   
+1. $103.47 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   <img src="https://user-images.githubusercontent.com/5605614/133374580-13deb749-820c-46db-bc04-597c610d2bd0.png" width=400 />
 
-1. $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora) 
-
-1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
-
-1.  $23 USD [1.5inch OLED Display Module 128x128 16 Gray Scale SPI/I2C Interface SSD1327 Driver Raspberry Pi/Arduino/STM32](https://www.amazon.ca/dp/B079KRC9X3?psc=1&smid=AIVH4OZ6D0Y4K&ref_=chk_typ_imgToDp) or from waveshare [128x128, General 1.5inch OLED display Module, SKU: 13992](https://www.waveshare.com/1.5inch-oled-module.htm)
+1. $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)  <img src="https://user-images.githubusercontent.com/5605614/133374592-36bb6dfd-ec10-4796-b998-782b58ce8730.png" width=400 />
 
 
 
@@ -28,6 +24,10 @@
 --------------------------------------------------------------------------------------------------------
 
 # Step 2: Maker100 Sensors and Motors (Actuators): 
+
+1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+
+1.  $23 USD [1.5inch OLED Display Module 128x128 16 Gray Scale SPI/I2C Interface SSD1327 Driver Raspberry Pi/Arduino/STM32](https://www.amazon.ca/dp/B079KRC9X3?psc=1&smid=AIVH4OZ6D0Y4K&ref_=chk_typ_imgToDp) or from waveshare [128x128, General 1.5inch OLED display Module, SKU: 13992](https://www.waveshare.com/1.5inch-oled-module.htm)
 
 
 
