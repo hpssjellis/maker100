@@ -18,7 +18,7 @@
 
 1. $14 USD set of 4. LoRa Antenna with u.fl connector and 915MHz for North America  [DIYmalls 915MHz LoRa Antenna U.FL IPEX to SMA Connector Pigtail 2dBi](https://www.amazon.ca/915MHz-Antenna-Connector-Pigtail-Internet/dp/B086ZG5WBR/ref=sr_1_1_sspa?keywords=lora+915+ufl+connector&qid=1636056723&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVNETEoxSDlYNUEmZW5jcnlwdGVkSWQ9QTA5Mjg4NTAzSDk5RVZIS09JVks2JmVuY3J5cHRlZEFkSWQ9QTA0MDc3MDQyOEdBU0oxMEpVNk1EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)  <img src="https://user-images.githubusercontent.com/5605614/148133801-89c8d12b-9897-49c0-b8fc-d1637ae5e4aa.png" width=100 />
 
-1.  $23 USD [1.5inch OLED Display Module 128x128 16 Gray Scale SPI/I2C Interface SSD1327 Driver Raspberry Pi/Arduino/STM32](https://www.amazon.ca/dp/B079KRC9X3?psc=1&smid=AIVH4OZ6D0Y4K&ref_=chk_typ_imgToDp) or from waveshare [128x128, General 1.5inch OLED display Module, SKU: 13992](https://www.waveshare.com/1.5inch-oled-module.htm)
+1.  $23 USD [1.5inch OLED Display Module 128x128 16 Gray Scale SPI/I2C Interface SSD1327 Driver Raspberry Pi/Arduino/STM32](https://www.amazon.ca/dp/B079KRC9X3?psc=1&smid=AIVH4OZ6D0Y4K&ref_=chk_typ_imgToDp) or from waveshare [128x128, General 1.5inch OLED display Module, SKU: 13992](https://www.waveshare.com/1.5inch-oled-module.htm)<img src="https://user-images.githubusercontent.com/5605614/136551247-6a7fc635-e00c-4b14-80a9-550cb4e7a7b3.png" width=100 />
 
 
 
