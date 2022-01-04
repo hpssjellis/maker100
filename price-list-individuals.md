@@ -78,7 +78,7 @@ Basic Solder kit: Not really needed as we use breadboards and snap connectors bu
 
 --------------------------------------------------------------------------------------------------------
 
-# Step 3: Technology Equipment based on interests: Choice either A: Soldering PCB Design, or B: 3D Printing
+# Step 3: Technology Equipment based on interests: Choice either A: Soldering PCB Design, or B: 3D Printing, or C: Shredder Toy RC Car
 
 
 
@@ -92,22 +92,21 @@ Basic Solder kit: Not really needed as we use breadboards and snap connectors bu
 
 
 
+.
 
 
 
+.
+
+
+.
 
 
 
+.
 
 
-
-
-
-
-
-
-
-
+.
 
 
 # DRAFT following
