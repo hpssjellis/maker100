@@ -20,7 +20,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/5605614/136552450-901d787f-d894-402c-9c72-4052aad977ca.png" width=400 /> 
-[10 pack of 40 pin male female headers](https://www.amazon.ca/Pieces-2-54mm-Single-Female-Header/dp/B08CMNRXJ1/ref=sr_1_1_sspa?dchild=1&keywords=40+female+headers&qid=1633693932&sr=8-1-spons&psc=1&smid=A2FXQ4Q1N0PO2C&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDdVQ1JWU05MQUhJJmVuY3J5cHRlZElkPUEwNTU0NzY2MU9MREgzN0ZZN1BZRyZlbmNyeXB0ZWRBZElkPUEwNDk4MDAyMVlXRTA4UE1HTjc1QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+
 
 
 --------------------------------------------------------------------------------------------------------
@@ -96,6 +96,13 @@
 
 
 # DRAFT following
+
+
+# Possibly the school should have a feww of these
+
+
+<img src="https://user-images.githubusercontent.com/5605614/136552450-901d787f-d894-402c-9c72-4052aad977ca.png" width=100 /> 
+[10 pack of 40 pin male female headers](https://www.amazon.ca/Pieces-2-54mm-Single-Female-Header/dp/B08CMNRXJ1/ref=sr_1_1_sspa?dchild=1&keywords=40+female+headers&qid=1633693932&sr=8-1-spons&psc=1&smid=A2FXQ4Q1N0PO2C&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDdVQ1JWU05MQUhJJmVuY3J5cHRlZElkPUEwNTU0NzY2MU9MREgzN0ZZN1BZRyZlbmNyeXB0ZWRBZElkPUEwNDk4MDAyMVlXRTA4UE1HTjc1QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 
 # Optional Maker100 Equipment for Individuals:
