@@ -16,11 +16,11 @@
 1. $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)  <img src="https://user-images.githubusercontent.com/5605614/133374592-36bb6dfd-ec10-4796-b998-782b58ce8730.png" width=200 />
 
 
-
-1. $14 USD set of 4. LoRa Antenna with u.fl connector and 915MHz for North America  [DIYmalls 915MHz LoRa Antenna U.FL IPEX to SMA Connector Pigtail 2dBi](https://www.amazon.ca/915MHz-Antenna-Connector-Pigtail-Internet/dp/B086ZG5WBR/ref=sr_1_1_sspa?keywords=lora+915+ufl+connector&qid=1636056723&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVNETEoxSDlYNUEmZW5jcnlwdGVkSWQ9QTA5Mjg4NTAzSDk5RVZIS09JVks2JmVuY3J5cHRlZEFkSWQ9QTA0MDc3MDQyOEdBU0oxMEpVNk1EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)  
-<img src="https://user-images.githubusercontent.com/5605614/148133801-89c8d12b-9897-49c0-b8fc-d1637ae5e4aa.png" width=100 />
+1. $14 USD set of 4. LoRa Antenna with u.fl connector and 915MHz for North America  [DIYmalls 915MHz LoRa Antenna U.FL IPEX to SMA Connector Pigtail 2dBi](https://www.amazon.ca/915MHz-Antenna-Connector-Pigtail-Internet/dp/B086ZG5WBR/ref=sr_1_1_sspa?keywords=lora+915+ufl+connector&qid=1636056723&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVNETEoxSDlYNUEmZW5jcnlwdGVkSWQ9QTA5Mjg4NTAzSDk5RVZIS09JVks2JmVuY3J5cHRlZEFkSWQ9QTA0MDc3MDQyOEdBU0oxMEpVNk1EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)  <img src="https://user-images.githubusercontent.com/5605614/148133801-89c8d12b-9897-49c0-b8fc-d1637ae5e4aa.png" width=100 />
 
 
+<img src="https://user-images.githubusercontent.com/5605614/136552450-901d787f-d894-402c-9c72-4052aad977ca.png" width=400 /> 
+[10 pack of 40 pin male female headers](https://www.amazon.ca/Pieces-2-54mm-Single-Female-Header/dp/B08CMNRXJ1/ref=sr_1_1_sspa?dchild=1&keywords=40+female+headers&qid=1633693932&sr=8-1-spons&psc=1&smid=A2FXQ4Q1N0PO2C&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDdVQ1JWU05MQUhJJmVuY3J5cHRlZElkPUEwNTU0NzY2MU9MREgzN0ZZN1BZRyZlbmNyeXB0ZWRBZElkPUEwNDk4MDAyMVlXRTA4UE1HTjc1QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 
 --------------------------------------------------------------------------------------------------------
