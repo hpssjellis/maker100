@@ -3,7 +3,9 @@
 
 
 
-## Minimal Price List for this Maker100 course based on the Arduino PortentaH7 (Draft version)
+## Minimal Price List for this Maker100 course based on the Arduino PortentaH7 
+
+(Note: This document will be constantly changing as the cost of Electronic equipment gets cheaper for better quality and quantity)
 
 
 <hr>
