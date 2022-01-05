@@ -153,9 +153,14 @@
 1. $146.99  CAD [2 in 1 750W LED Digital Soldering Station Hot Air Gun Rework Station Electric Soldering Iron for Phone PCB IC SMD BGA Welding Set 110V](https://www.amazon.ca/Digital-Soldering-Station-Electric-Welding/dp/B07T9JJZG7/ref=sr_1_6?dchild=1&keywords=pcb+oven+small+reflow&qid=1634680295&sr=8-6)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177651-3b6d04e5-ed7f-454a-87cd-9512ae047215.png" width=100 /> 
 
 
+1. $20.26  CAD [?](https://www.amazon.ca/Solder-Bi57-6-No-Clean-Lead-Free-Temperature/dp/B0195V1QEI/ref=sr_1_20?crid=3HS20F6T940JL&keywords=lead+free+solder+kit&qid=1641369185&sprefix=lead+free+solder+kit%2Caps%2C137&sr=8-20)   <br> <img src="https://user-images.githubusercontent.com/5605614/148180802-beb1cd4b-7c06-4394-b47c-bdd951fbe870.png" width=100 /> 
 
-1. $  CAD []()   <br> <img src="" width=100 /> 
-.
+
+
+
+1. $  CAD [](https://www.amazon.ca/Keadic-Solder-Electrical-Soldering-0-11Ib/dp/B07MMZL658/ref=sr_1_33?crid=1CZZNQ74XMC4N&keywords=lead+free+solder+micro+size&qid=1641369331&sprefix=lead+free+solder+micro+sizes%2Caps%2C146&sr=8-33)   <br> <img src="https://user-images.githubusercontent.com/5605614/148181442-5d5880e6-a09d-4e67-8cb5-42fa277a67fc.png" width=100 /> 
+
+
 
 
 .
@@ -180,16 +185,13 @@
 
 1.$158.69 CAD [Oscilloscope Digital for Electronic Production for DIY Production](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51) <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
 
-
-
 1. $39.99 CAD [AstroAI Digital Multimeter TRMS 6000](https://www.amazon.ca/AstroAI-Digital-Multimeter-Ranging-Measures/dp/B071JL6LLL/ref=sr_1_17?crid=2LE3UGW7MRX5R&keywords=electronic+test+set+multimeter+scope&qid=1641368400&sprefix=electronic+test+set+multimeter+scope%2Caps%2C156&sr=8-17) <br> <img src="https://user-images.githubusercontent.com/5605614/148179663-ce83b4e1-6b28-420d-bbfa-98651e52f08c.png" width=100 />  
 
+1. [?]() <br> <img src="" width=100 />  
 
-1. []() <br> <img src="" width=100 />  
+1. [?]() <br> <img src="" width=100 />  
 
-1. []() <br> <img src="" width=100 />  
-
-1. []() <br> <img src="" width=100 />  
+1. [?]() <br> <img src="" width=100 />  
 
 
 
