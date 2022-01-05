@@ -178,18 +178,18 @@
 
 ### C: Technology Test Equipment
 
- 1.$158.69 CAD [](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51) <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
+1.$158.69 CAD [Oscilloscope Digital for Electronic Production for DIY Production](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51) <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
 
 
 
- 1. $39.99 CAD [AstroAI Digital Multimeter TRMS 6000](https://www.amazon.ca/AstroAI-Digital-Multimeter-Ranging-Measures/dp/B071JL6LLL/ref=sr_1_17?crid=2LE3UGW7MRX5R&keywords=electronic+test+set+multimeter+scope&qid=1641368400&sprefix=electronic+test+set+multimeter+scope%2Caps%2C156&sr=8-17) <br> <img src="https://user-images.githubusercontent.com/5605614/148179663-ce83b4e1-6b28-420d-bbfa-98651e52f08c.png" width=100 />  
+1. $39.99 CAD [AstroAI Digital Multimeter TRMS 6000](https://www.amazon.ca/AstroAI-Digital-Multimeter-Ranging-Measures/dp/B071JL6LLL/ref=sr_1_17?crid=2LE3UGW7MRX5R&keywords=electronic+test+set+multimeter+scope&qid=1641368400&sprefix=electronic+test+set+multimeter+scope%2Caps%2C156&sr=8-17) <br> <img src="https://user-images.githubusercontent.com/5605614/148179663-ce83b4e1-6b28-420d-bbfa-98651e52f08c.png" width=100 />  
 
 
- 1. []() <br> <img src="" width=100 />  
+1. []() <br> <img src="" width=100 />  
 
- 1. []() <br> <img src="" width=100 />  
+1. []() <br> <img src="" width=100 />  
 
- 1. []() <br> <img src="" width=100 />  
+1. []() <br> <img src="" width=100 />  
 
 
 
