@@ -145,20 +145,13 @@
 
 1. $20.79  CAD [Lighted Headband Magnifier Illuminated Magnifying Double Eyes Glass Jeweler Loupe Headset](https://www.amazon.com/Combination-Illuminated-Magnifying-Replaceable-Electronics/dp/B08N516ZW2/ref=sr_1_113?crid=1HQN4HUGDSM14&keywords=jewelers+loupe+headset&qid=1637756942&sprefix=jeweler+loupe%2Caps%2C641&sr=8-113)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177151-921ee723-f28a-4b6d-a0f6-a28870edad20.png" width=100 /> 
 
-
 1. $478.71  CAD [Andonstar ADSM302 560X Digital Microscope HDMI 1080P Full HD Scope with 5 inch LCD Screen for Soldering Phone Repair Tools](https://www.amazon.ca/Andonstar-ADSM302-Portable-Microscope-Soldering/dp/B07ZP3F1KY/ref=sr_1_11?dchild=1&keywords=andonstar+adsm302+1080p&qid=1634680500&sr=8-11)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177467-0fe27c2e-9ffe-41e6-8cd3-ec8cd71ba62a.png" width=100 /> 
-
-
 
 1. $146.99  CAD [2 in 1 750W LED Digital Soldering Station Hot Air Gun Rework Station Electric Soldering Iron for Phone PCB IC SMD BGA Welding Set 110V](https://www.amazon.ca/Digital-Soldering-Station-Electric-Welding/dp/B07T9JJZG7/ref=sr_1_6?dchild=1&keywords=pcb+oven+small+reflow&qid=1634680295&sr=8-6)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177651-3b6d04e5-ed7f-454a-87cd-9512ae047215.png" width=100 /> 
 
+1. $20.26  CAD [Chip Quik SMDLTLFP Solder Paste Sn42/Bi57.6/Ag0.4 No-Clean Lead-Free Low Temperature Melts 138C 281F](https://www.amazon.ca/Solder-Bi57-6-No-Clean-Lead-Free-Temperature/dp/B0195V1QEI/ref=sr_1_20?crid=3HS20F6T940JL&keywords=lead+free+solder+kit&qid=1641369185&sprefix=lead+free+solder+kit%2Caps%2C137&sr=8-20)   <br> <img src="https://user-images.githubusercontent.com/5605614/148180802-beb1cd4b-7c06-4394-b47c-bdd951fbe870.png" width=100 /> 
 
-1. $20.26  CAD [?](https://www.amazon.ca/Solder-Bi57-6-No-Clean-Lead-Free-Temperature/dp/B0195V1QEI/ref=sr_1_20?crid=3HS20F6T940JL&keywords=lead+free+solder+kit&qid=1641369185&sprefix=lead+free+solder+kit%2Caps%2C137&sr=8-20)   <br> <img src="https://user-images.githubusercontent.com/5605614/148180802-beb1cd4b-7c06-4394-b47c-bdd951fbe870.png" width=100 /> 
-
-
-
-
-1. $  CAD [](https://www.amazon.ca/Keadic-Solder-Electrical-Soldering-0-11Ib/dp/B07MMZL658/ref=sr_1_33?crid=1CZZNQ74XMC4N&keywords=lead+free+solder+micro+size&qid=1641369331&sprefix=lead+free+solder+micro+sizes%2Caps%2C146&sr=8-33)   <br> <img src="https://user-images.githubusercontent.com/5605614/148181442-5d5880e6-a09d-4e67-8cb5-42fa277a67fc.png" width=100 /> 
+1. $36.99  CAD [Keadic 5Pcs Solder Wire with Rosin Core Set 0.6mm 0.8mm 1.0mm 1.2mm 1.5mm for Most Electrical Soldering, Sn 99% Ag 0.3% Cu 0.7%](https://www.amazon.ca/Keadic-Solder-Electrical-Soldering-0-11Ib/dp/B07MMZL658/ref=sr_1_33?crid=1CZZNQ74XMC4N&keywords=lead+free+solder+micro+size&qid=1641369331&sprefix=lead+free+solder+micro+sizes%2Caps%2C146&sr=8-33)   <br> <img src="https://user-images.githubusercontent.com/5605614/148181442-5d5880e6-a09d-4e67-8cb5-42fa277a67fc.png" width=100 /> 
 
 
 
