@@ -116,42 +116,23 @@
 
 1. $7.95 CAD Capacitive Touch	[RB-Dfr-27](	http://www.robotshop.com/en/at42qt1010-capacitive-touch-breakout.html)	  <br> <img src="" width=100 /> 
 
-
-
-
-  
-
 1.$1.22 CAD  Hall Effect Sensor (Magnetic)		[RB-Spa-251](http://www.robotshop.com/ca/en/hall-effect-sensor.html)	  <br> <img src="" width=100 /> 
 
-
-
-
-
 1. $7.56 CAD Slide Potentiometer	[RB-See-229](	http://www.robotshop.com/ca/en/grove-slide-potentiometer.html)	  <br> <img src="" width=100 /> 
+
 1. $4.99 CAD Sound sensor	[RB-Wav-26](http://www.robotshop.com/ca/en/sound-sensor.html)	  <br> <img src="" width=100 /> 
-1. $4.80 CAD Moisture	[RB-Dfr-161](http://www.robotshop.com/en/dfrobot-moisture-sensor.html)	  <br> <img src="" width=100 /> 
+
+1. $4.80 CAD Moisture	[RB-Dfr-161](http://www.robotshop.com/en/dfrobot-moisture-sensor.html)	  <br> <img src="" width=100 />
+
 1. $38.46 CAD Accelerometer	[RB-Das-16](http://www.robotshop.com/ca/en/hovis-gyro-accelerometer-sensor.html)	 <br> <img src="" width=100 /> 
+
 1. $21.54  CAD NFC tag	[RB-Sol-40](http://www.robotshop.com/ca/en/serial-to-nfc-converter-module.html)	 <br> <img src="" width=100 /> 
+
 1. $9.62 CAD Barometer	[RB-Dfr-611](http://www.robotshop.com/ca/en/bmp180-barometer-module.html)	  <br> <img src="" width=100 /> 
 
 
 
 
-Arduino Starter Kit: Everything you need to get going building things with Arduino  $35.26 CDN
-[Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html)
-
-<img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=100 /> 
-
-
-Sensor Kit: Consider getting one of the many Arduino style sensor kits on the market. Here is one for $35 CDN that looks very good
-[Kuman 37-in-1 Sensor Kit Compatible with Arduino Raspberry Pi Mega 2560 Kits Compatible K5](https://www.amazon.ca/Kuman-sensor-arduino-raspberry-Compatible/dp/B01BY16552/ref=sr_1_29?dchild=1&keywords=maker+breadboard+wire+kit+solder&qid=1631683832&sr=8-29)
-<img src="https://user-images.githubusercontent.com/5605614/133377159-586ccaba-56fd-42ac-8390-51c33fe5d086.png" width=600 /> 
-
-Basic Solder kit: Not really needed as we use breadboards and snap connectors but good to have  CAD $24.21
-
-[Plusivo Soldering Kit for Electronics (US Plug)](https://www.robotshop.com/ca/en/plusivo-soldering-kit-electronics-us-plug.html)
-
-<img src="https://user-images.githubusercontent.com/5605614/134214253-310de7c1-6ebc-451d-a616-e6741990d710.png" width=600 /> 
 
 
 
