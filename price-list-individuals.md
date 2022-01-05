@@ -215,7 +215,8 @@
 
 
 
-1. 3D Printer.  I have the [Tinkerine](https://store.tinkerine.com/)   <br> <img src="https://user-images.githubusercontent.com/5605614/148174097-5dce8af0-32b8-47d9-bb3a-c83c8c0baabf.png" width=100 />   and a 12x12x12 [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) which has a dual extruder which is handy but is also very complex, any working 3D Printer would be fine.
+1. 3D Printer.  I have the [Tinkerine](https://store.tinkerine.com/)   <br> <img src="https://user-images.githubusercontent.com/5605614/148174097-5dce8af0-32b8-47d9-bb3a-c83c8c0baabf.png" width=100 />   and a 12x12x12 [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) which has a dual extruder which is handy but is also very complex,   <br> <img src="https://user-images.githubusercontent.com/5605614/148174401-aa4f728a-a2bb-49ac-9a35-ec33cf986879.png" width=100 />  any working 3D Printer would be fine.
+
 
 
 1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)   <br> <img src="https://user-images.githubusercontent.com/5605614/148173987-8f5979f3-1821-4985-9cb9-f51234d33d5b.png" width=100 />  
