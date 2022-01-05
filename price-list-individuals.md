@@ -143,7 +143,18 @@
 
 ### A: Soldering/PCB Design
 
+1. $20.79  CAD [Lighted Headband Magnifier Illuminated Magnifying Double Eyes Glass Jeweler Loupe Headset](https://www.amazon.com/Combination-Illuminated-Magnifying-Replaceable-Electronics/dp/B08N516ZW2/ref=sr_1_113?crid=1HQN4HUGDSM14&keywords=jewelers+loupe+headset&qid=1637756942&sprefix=jeweler+loupe%2Caps%2C641&sr=8-113)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177151-921ee723-f28a-4b6d-a0f6-a28870edad20.png" width=100 /> 
 
+
+1. $478.71  CAD [Andonstar ADSM302 560X Digital Microscope HDMI 1080P Full HD Scope with 5 inch LCD Screen for Soldering Phone Repair Tools](https://www.amazon.ca/Andonstar-ADSM302-Portable-Microscope-Soldering/dp/B07ZP3F1KY/ref=sr_1_11?dchild=1&keywords=andonstar+adsm302+1080p&qid=1634680500&sr=8-11)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177467-0fe27c2e-9ffe-41e6-8cd3-ec8cd71ba62a.png" width=100 /> 
+
+
+
+1. $146.99  CAD [2 in 1 750W LED Digital Soldering Station Hot Air Gun Rework Station Electric Soldering Iron for Phone PCB IC SMD BGA Welding Set 110V](https://www.amazon.ca/Digital-Soldering-Station-Electric-Welding/dp/B07T9JJZG7/ref=sr_1_6?dchild=1&keywords=pcb+oven+small+reflow&qid=1634680295&sr=8-6)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177651-3b6d04e5-ed7f-454a-87cd-9512ae047215.png" width=100 /> 
+
+
+
+1. $  CAD []()   <br> <img src="" width=100 /> 
 .
 
 
@@ -153,6 +164,8 @@
 
 
 ### B: 3D Printer
+
+1. $500-$800 CAD [3D printer Review 2021](https://ca.bestreviews.guide/3d-printers?origin=google&google_params[matchtype]=b&google_params[network]=g&google_params[device]=c&google_params[creative]=491143013945&google_params[keyword]=%2Bbest%20%2B3d%20%2Bprinters&google_params[adposition]=&google_params[adgroupid]=123080985064&google_params[campaignid]=12060553611&bs=&google_params[feeditemid]=&google_params[targetid]=kwd-31734861334&google_params[loc_interest_ms]=&google_params[loc_physical_ms]=9001485&google_params[devicemodel]=&google_params[target]=&dest=0&sys_id=0|316&gclid=Cj0KCQiA_c-OBhDFARIsAIFg3eyHeYkcvDGYEeH_61Inom0oh-qKbSBL1LvAoMOFtJaRUcT-EJw3KTUaAujiEALw_wcB)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177989-91e54cea-f326-4a42-b2bc-3a6035692bc3.png" width=100 />  
 
 
 .
@@ -165,6 +178,20 @@
 
 ### C: Technology Test Equipment
 
+ 1.$158.69 CAD [](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51) <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
+
+
+
+ 1. $39.99 CAD [AstroAI Digital Multimeter TRMS 6000](https://www.amazon.ca/AstroAI-Digital-Multimeter-Ranging-Measures/dp/B071JL6LLL/ref=sr_1_17?crid=2LE3UGW7MRX5R&keywords=electronic+test+set+multimeter+scope&qid=1641368400&sprefix=electronic+test+set+multimeter+scope%2Caps%2C156&sr=8-17) <br> <img src="https://user-images.githubusercontent.com/5605614/148179663-ce83b4e1-6b28-420d-bbfa-98651e52f08c.png" width=100 />  
+
+
+ 1. []() <br> <img src="" width=100 />  
+
+ 1. []() <br> <img src="" width=100 />  
+
+ 1. []() <br> <img src="" width=100 />  
+
+
 
 .
 
@@ -176,7 +203,7 @@
 
 .
 
-### D: Shredder Toy RC Car
+### D: Shredder Toy RC Car (to make a Machine Learning or WiFi controlled car)
 
 1. $189.99 CDN [RC-Pro SHREDDER](https://www.rcpro.ca/collections/shredder/products/shredder)  <br> <img src="https://user-images.githubusercontent.com/5605614/133374039-45fac79c-23a0-4992-a403-699e03a1c17f.png" width=100 /> 
 
