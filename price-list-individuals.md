@@ -139,9 +139,11 @@
 
 
 <hr>
-# Step 4: Technology Equipment based on interests: Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipment, or D: Shredder Toy RC Car
 
-### A: Soldering/PCB Design
+# Step 4: Technology Equipment based on interests: 
+Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipment, or D: Shredder Toy RC Car
+
+### Step 4A: Soldering/PCB Design
 
 1. $20.79  CAD [Lighted Headband Magnifier Illuminated Magnifying Double Eyes Glass Jeweler Loupe Headset](https://www.amazon.com/Combination-Illuminated-Magnifying-Replaceable-Electronics/dp/B08N516ZW2/ref=sr_1_113?crid=1HQN4HUGDSM14&keywords=jewelers+loupe+headset&qid=1637756942&sprefix=jeweler+loupe%2Caps%2C641&sr=8-113)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177151-921ee723-f28a-4b6d-a0f6-a28870edad20.png" width=100 /> 
 
@@ -161,7 +163,7 @@
 .
 
 
-### B: 3D Printer
+### Step 4B: 3D Printer
 
 1. $500-$800 CAD [3D printer Review 2021](https://ca.bestreviews.guide/3d-printers?origin=google&google_params[matchtype]=b&google_params[network]=g&google_params[device]=c&google_params[creative]=491143013945&google_params[keyword]=%2Bbest%20%2B3d%20%2Bprinters&google_params[adposition]=&google_params[adgroupid]=123080985064&google_params[campaignid]=12060553611&bs=&google_params[feeditemid]=&google_params[targetid]=kwd-31734861334&google_params[loc_interest_ms]=&google_params[loc_physical_ms]=9001485&google_params[devicemodel]=&google_params[target]=&dest=0&sys_id=0|316&gclid=Cj0KCQiA_c-OBhDFARIsAIFg3eyHeYkcvDGYEeH_61Inom0oh-qKbSBL1LvAoMOFtJaRUcT-EJw3KTUaAujiEALw_wcB)   <br> <img src="https://user-images.githubusercontent.com/5605614/148177989-91e54cea-f326-4a42-b2bc-3a6035692bc3.png" width=100 />  
 
@@ -174,7 +176,7 @@
 .
 
 
-### C: Technology Test Equipment
+### Step 4C: Technology Test Equipment
 
 1.$158.69 CAD [Oscilloscope Digital for Electronic Production for DIY Production](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51) <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
 
@@ -198,7 +200,7 @@
 
 .
 
-### D: Shredder Toy RC Car (to make a Machine Learning or WiFi controlled car)
+### Step 4D: Shredder Toy RC Car (to make a Machine Learning or WiFi controlled car)
 
 1. $189.99 CDN [RC-Pro SHREDDER](https://www.rcpro.ca/collections/shredder/products/shredder)  <br> <img src="https://user-images.githubusercontent.com/5605614/133374039-45fac79c-23a0-4992-a403-699e03a1c17f.png" width=100 /> 
 
@@ -222,7 +224,7 @@
 <hr>
 
 
-# Step 5: Own Project  Cost Up to $100.00
+# Step 5: Own Project  Cost Up to $300.00
 
 
 
