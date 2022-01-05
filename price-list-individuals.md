@@ -178,7 +178,7 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 
 ### Step 4C: Technology Test Equipment
 
-1.$158.69 CAD [Oscilloscope Digital for Electronic Production for DIY Production](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51) <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
+1. $158.69 CAD [Oscilloscope Digital for Electronic Production for DIY Production](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51) <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
 
 1. $39.99 CAD [AstroAI Digital Multimeter TRMS 6000](https://www.amazon.ca/AstroAI-Digital-Multimeter-Ranging-Measures/dp/B071JL6LLL/ref=sr_1_17?crid=2LE3UGW7MRX5R&keywords=electronic+test+set+multimeter+scope&qid=1641368400&sprefix=electronic+test+set+multimeter+scope%2Caps%2C156&sr=8-17) <br> <img src="https://user-images.githubusercontent.com/5605614/148179663-ce83b4e1-6b28-420d-bbfa-98651e52f08c.png" width=100 />  
 
@@ -226,6 +226,8 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 
 # Step 5: Own Project  Cost Up to $300.00
 
+Choose any mix of the products on this page. Would need special permission to purchase a new item not listed here.
+
 
 
 
@@ -244,7 +246,7 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 
 <hr>
 
-# Step 6: No Purchase needed, finish final project for youtube and/or presentation.
+# Step 6: No Purchase needed, finish final project for a youtube and/or in person presentation.
 
 
 
@@ -281,11 +283,11 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 
 
 
-1. 3D Printer.  I have the [Tinkerine](https://store.tinkerine.com/)   <br> <img src="https://user-images.githubusercontent.com/5605614/148174097-5dce8af0-32b8-47d9-bb3a-c83c8c0baabf.png" width=100 />   and a 12x12x12 [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) which has a dual extruder which is handy but is also very complex,   <br> <img src="https://user-images.githubusercontent.com/5605614/148174401-aa4f728a-a2bb-49ac-9a35-ec33cf986879.png" width=100 />  any working 3D Printer would be fine.
+1. 3D Printer.  <br><br>I have the $2,499.00 CAD [Tinkerine](https://store.tinkerine.com/)   <br> <img src="https://user-images.githubusercontent.com/5605614/148174097-5dce8af0-32b8-47d9-bb3a-c83c8c0baabf.png" width=100 />   and a 12x12x12 ~$4000 CAD [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) which has a dual extruder which is handy but is also very complex,   <br> <img src="https://user-images.githubusercontent.com/5605614/148174401-aa4f728a-a2bb-49ac-9a35-ec33cf986879.png" width=100 />  any working 3D Printer would be fine. The above printers are very reliable but do not necessarily print better than a cheaper one.
 
 
 
-1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)   <br> <img src="https://user-images.githubusercontent.com/5605614/148173987-8f5979f3-1821-4985-9cb9-f51234d33d5b.png" width=100 />  
+1. $16.99 CAD [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)   <br> <img src="https://user-images.githubusercontent.com/5605614/148173987-8f5979f3-1821-4985-9cb9-f51234d33d5b.png" width=100 />  
 
 
 1. $12.80 CAD  [Yosawa 100-pieces Insulated Male/Female Bullet Quick Splice Wire Connector Electrical Crimp Terminal 12-10AWG Yellow (ZDY)](https://www.amazon.ca/Yosawa-160-pieces-Insulated-Connector-Electrical/dp/B08BWR23BQ/ref=sr_1_39?crid=117LJ2YXL093X&keywords=12V+Motorcycle+Bullet+Terminals&qid=1641366939&sprefix=12v+motorcycle+bullet+terminals%2Caps%2C140&sr=8-39)   <br> <img src="https://user-images.githubusercontent.com/5605614/148176166-89a2faa7-56b7-490b-a2bd-5e20bee65cc2.png" width=100 />  
