@@ -141,7 +141,29 @@
 <hr>
 # Step 4: Technology Equipment based on interests: Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipment, or D: Shredder Toy RC Car
 
+### A: Soldering/PCB Design
 
+
+.
+
+
+.
+
+.
+
+
+### B: 3D Printer
+
+
+.
+
+
+.
+
+.
+
+
+### C: Technology Test Equipment
 
 
 .
@@ -154,6 +176,24 @@
 
 .
 
+### D: Shredder Toy RC Car
+
+1. $189.99 CDN [RC-Pro SHREDDER](https://www.rcpro.ca/collections/shredder/products/shredder)  <br> <img src="https://user-images.githubusercontent.com/5605614/133374039-45fac79c-23a0-4992-a403-699e03a1c17f.png" width=100 /> 
+
+
+(Do not get the more expensive brushless version of the Shredder car as the coding is much more difficult)
+
+
+1. $24.99 CDN [Shredder 3 wire Servo ](https://www.rcpro.ca/collections/shredder/products/shredder-3-wires-19gram-metal-gear-servo) <br> <img src="https://user-images.githubusercontent.com/5605614/133374152-65006148-0003-4ddc-87bb-1dade1220466.png" width=100 />
+
+
+1. $2.99 USD these plugs [WSD1302 plug set](https://www.rcsuperstore.com/ws-deans-2-pin-ultra-plug-set-one-male-one-female-included/)  <br> <img src="https://user-images.githubusercontent.com/5605614/133374122-6af08f67-3216-41f2-9b39-30c7eb15e9a4.png" width=100 />
+.
+
+.
+
+
+.
 
 
 
@@ -224,6 +264,7 @@
 1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)   <br> <img src="https://user-images.githubusercontent.com/5605614/148173987-8f5979f3-1821-4985-9cb9-f51234d33d5b.png" width=100 />  
 
 
+1. $12.80 CAD  [Yosawa 100-pieces Insulated Male/Female Bullet Quick Splice Wire Connector Electrical Crimp Terminal 12-10AWG Yellow (ZDY)](https://www.amazon.ca/Yosawa-160-pieces-Insulated-Connector-Electrical/dp/B08BWR23BQ/ref=sr_1_39?crid=117LJ2YXL093X&keywords=12V+Motorcycle+Bullet+Terminals&qid=1641366939&sprefix=12v+motorcycle+bullet+terminals%2Caps%2C140&sr=8-39)   <br> <img src="https://user-images.githubusercontent.com/5605614/148176166-89a2faa7-56b7-490b-a2bd-5e20bee65cc2.png" width=100 />  
 
 
 
