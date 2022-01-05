@@ -198,64 +198,27 @@
 
 .
 
+<hr>
 
-# DRAFT following
-
-
-# Possibly the school should have a feww of these
-
-
-<img src="https://user-images.githubusercontent.com/5605614/136552450-901d787f-d894-402c-9c72-4052aad977ca.png" width=100 /> 
-[10 pack of 40 pin male female headers](https://www.amazon.ca/Pieces-2-54mm-Single-Female-Header/dp/B08CMNRXJ1/ref=sr_1_1_sspa?dchild=1&keywords=40+female+headers&qid=1633693932&sr=8-1-spons&psc=1&smid=A2FXQ4Q1N0PO2C&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDdVQ1JWU05MQUhJJmVuY3J5cHRlZElkPUEwNTU0NzY2MU9MREgzN0ZZN1BZRyZlbmNyeXB0ZWRBZElkPUEwNDk4MDAyMVlXRTA4UE1HTjc1QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
-
-
-1. [Elenco-SC-750-Snap-Circuits-Extreme](https://www.amazon.ca/Elenco-SC-750-Snap-Circuits-Extreme/dp/B0002AHQWS)
-
-
-1. [10 Snap to pin cables](https://www.amazon.ca/Snap-Circuits-SCJW10-Project-Connectors/dp/B013DA8XH0/ref=sr_1_fkmr0_1?s=toys&ie=UTF8&qid=1504073209&sr=1-1-fkmr0&keywords=snapcircuits+10+Snap+to+pin+cables)
+# Possibly the school should have a few of the following as well as a few sets of the above:
 
 
 
-# Optional Maker100 Equipment for Individuals:
+1. $15.99 CAD   [10 pack of 40 pin male female headers](https://www.amazon.ca/Pieces-2-54mm-Single-Female-Header/dp/B08CMNRXJ1/ref=sr_1_1_sspa?dchild=1&keywords=40+female+headers&qid=1633693932&sr=8-1-spons&psc=1&smid=A2FXQ4Q1N0PO2C&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDdVQ1JWU05MQUhJJmVuY3J5cHRlZElkPUEwNTU0NzY2MU9MREgzN0ZZN1BZRyZlbmNyeXB0ZWRBZElkPUEwNDk4MDAyMVlXRTA4UE1HTjc1QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) <br> <img src="https://user-images.githubusercontent.com/5605614/136552450-901d787f-d894-402c-9c72-4052aad977ca.png" width=100 /> 
 
-1. Soldering kit
 
-1. $47.15 USD [Ethernet Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield)   
+1. [Elenco-SC-750-Snap-Circuits-Extreme](https://www.amazon.ca/Elenco-SC-750-Snap-Circuits-Extreme/dp/B0002AHQWS)  <br> <img src="https://user-images.githubusercontent.com/5605614/148173680-f9f62f64-8202-4856-905a-3a06533370c0.png" width=100 />  
 
-1. $45.99 USD [Portenta Breakout board](https://store.arduino.cc/usa/portenta-breakout)  
 
-1. [Elenco-SC-750-Snap-Circuits-Extreme](https://www.amazon.ca/Elenco-SC-750-Snap-Circuits-Extreme/dp/B0002AHQWS)
-
-1. [10 Snap to pin cables](https://www.amazon.ca/Snap-Circuits-SCJW10-Project-Connectors/dp/B013DA8XH0/ref=sr_1_fkmr0_1?s=toys&ie=UTF8&qid=1504073209&sr=1-1-fkmr0&keywords=snapcircuits+10+Snap+to+pin+cables)
+1. [10 Snap to pin cables](https://www.amazon.ca/Snap-Circuits-SCJW10-Project-Connectors/dp/B013DA8XH0/ref=sr_1_fkmr0_1?s=toys&ie=UTF8&qid=1504073209&sr=1-1-fkmr0&keywords=snapcircuits+10+Snap+to+pin+cables)  <br> <img src="https://user-images.githubusercontent.com/5605614/148173782-08bf870c-924d-4920-ba45-fa578b35ff0c.png" width=100 />  
 
 
 
 
+1. 3D Printer.  I have the [Tinkerine](https://store.tinkerine.com/)   <br> <img src="https://user-images.githubusercontent.com/5605614/148174097-5dce8af0-32b8-47d9-bb3a-c83c8c0baabf.png" width=100 />   and a 12x12x12 [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) which has a dual extruder which is handy but is also very complex, any working 3D Printer would be fine.
 
 
---------------------------------------------------------------------------------------------------------
-
-## Advanced Optional Items
-
-1. $70 USD [Nicla Sense ME](https://store-usa.arduino.cc/products/nicla-sense-me?selectedStore=us)
-1. 3D Printer.  I have the [Tinkerine](https://store.tinkerine.com/) and a 12x12x12 [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) but any working 3D Printer would be fine.
-
-1. Microscopic Soldering Station
-
-
-
-
---------------------------------------------------------------------------------------------------------
-
-
-Note: Student final projects often have a cost. In my class students can use the school equipment, 
-but at home students would need all the equipment for there final project
-
-
-
-# Easier to buy in bulk:
-
-1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)   <br> <img src="https://user-images.githubusercontent.com/5605614/148173987-8f5979f3-1821-4985-9cb9-f51234d33d5b.png" width=100 />  
 
 
 
