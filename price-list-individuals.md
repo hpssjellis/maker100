@@ -10,7 +10,6 @@
 
 
 ## Step 1: Machine Learning With The PortentaH7 and LoRa Vision Shield:
-Total $204.00 USD = $259.00 CAD
 
 1. $104 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   <br><img src="https://user-images.githubusercontent.com/5605614/133374580-13deb749-820c-46db-bc04-597c610d2bd0.png" width=200 />
 
@@ -26,7 +25,10 @@ Total $204.00 USD = $259.00 CAD
 
 --------------------------------------------------------------------------------------------------------
 
-# Step 2: Maker100 Sensors and Motors (Actuators): 
+# Step 2: Generic Sensor and Arduino Equipment:
+
+
+# Step 3: Maker100 Sensors and Motors (Actuators): 
 
 1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
@@ -81,17 +83,17 @@ Basic Solder kit: Not really needed as we use breadboards and snap connectors bu
 
 --------------------------------------------------------------------------------------------------------
 
-# Step 3: Technology Equipment based on interests: Choice either A: Soldering PCB Design, or B: 3D Printing, or C: Shredder Toy RC Car
+# Step 4: Technology Equipment based on interests: Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipment, or D: Shredder Toy RC Car
 
 
 
 
 
-# Step 4: Own Project  Cost Up to $300.00
+# Step 5: Own Project  Cost Up to $100.00
 
 
 
-# Step 5: No Purchase needed, finish final project for presentation.
+# Step 6: No Purchase needed, finish final project for youtube and/or presentation.
 
 
 
