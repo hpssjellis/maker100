@@ -94,12 +94,8 @@
 
 
 
+1. $29.90 CAD [Grove GPS Module](https://www.robotshop.com/ca/en/grove-gps-module.html?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3exRnrKgfDcltDj3cNH3PTZ44VaJwjbrgGNWTGixdxakXh9vFzo_I7caAg-jEALw_wcB)	   <br> <img src="https://user-images.githubusercontent.com/5605614/148159156-a26342ea-4b48-4462-807b-744fdcb80156.png" width=100 /> 
 
-
-
-1. $2.50 CAD [Ultrasonic	RB-Ite-54](http://www.robotshop.com/en/hc-sr04-ultrasonic-range-finder.html)	  <br> <img src="" width=100 /> 
-
-1. $29.90 CAD [GPS 	113020003](http://www.seeedstudio.com/depot/Grove-GPS-p-959.html)	   <br> <img src="" width=100 /> 
 
 
 1. [Integrated Sensor Module LSM9DS1 9DOF IMU High Accuracy Attitude Sensor for Arduino](https://www.amazon.ca/Integrated-LSM9DS1-Accuracy-Attitude-Arduino/dp/B09BFTL9PY/ref=sr_1_2?dchild=1&keywords=LSM9DS1&qid=1635831937&sr=8-2) This was one of the hardest sensors to get going I think this was the forth different one I tried.  <br> <img src="https://user-images.githubusercontent.com/5605614/148158186-848e1462-83c5-4655-868c-65011e9ab96e.png" width=100 /> 
@@ -113,7 +109,9 @@
 1. $80.00 CAD [Pixy camera](https://pixycam.com/) purchase [Charmed Labs Pixy 2 CMUcam5 Image Sensor](https://www.robotshop.com/ca/en/charmed-labs-pixy-2-cmucam5-image-sensor.html)   <br> <img src="https://user-images.githubusercontent.com/5605614/148158393-7caaa5dc-8407-4304-823d-7a2c751b7eef.png" width=100 /> 
 
 
-1. $7.56 CAD Slide Potentiometer	[RB-See-229](	http://www.robotshop.com/ca/en/grove-slide-potentiometer.html)	  <br> <img src="" width=100 /> 
+1. $7.56 CAD Slide Potentiometer	[RB-See-229](	http://www.robotshop.com/ca/en/grove-slide-potentiometer.html)	  <br> <img src="https://user-images.githubusercontent.com/5605614/148158797-a4eb34ff-f924-4857-a873-9155d5bc78c4.png" width=100 /> 
+
+
 
 1. $4.80 CAD Moisture	[RB-Dfr-161](http://www.robotshop.com/en/dfrobot-moisture-sensor.html)	  <br> <img src="https://user-images.githubusercontent.com/5605614/148158607-3d2f57d6-1970-4a3e-b148-e910df7696ed.png" width=100 />
 
