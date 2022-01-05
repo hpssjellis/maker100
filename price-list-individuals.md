@@ -235,9 +235,8 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 <hr>
 
 
-# Step 5: Own Project  Cost Up to $300.00
-
-Choose any mix of the products on this page. Would need special permission to purchase a new item not listed here.
+# Step 5: Own Project  Cost about $150.00 
+Students would typically purchase more of the above motors and motor drivers or sensors needed for their final project.
 
 
 
