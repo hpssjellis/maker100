@@ -41,7 +41,7 @@
 
 1. CAD $24.21 Basic Solder kit: good to have   [Plusivo Soldering Kit for Electronics (US Plug)](https://www.robotshop.com/ca/en/plusivo-soldering-kit-electronics-us-plug.html)<br> <img src="https://user-images.githubusercontent.com/5605614/134214253-310de7c1-6ebc-451d-a616-e6741990d710.png" width=100 /> 
 
-1. $17.02 CAD [ 22 AWG wires solid core](https://www.amazon.ca/Gauge-Wire-Solid-Core-Hookup/dp/B088KQFHV7/ref=sr_1_1?crid=2EO15A8KGUHYV&keywords=22+gauge+solid+core+wire+set&qid=1641350119&sprefix=22+guage+solid+core+wire+set%2Caps%2C188&sr=8-1)<br> <img src="https://user-images.githubusercontent.com/5605614/148152005-41f2c7c8-e1f6-48b1-90ee-f26b36b129c6.png" width=100 /> 
+1. $17.02 CAD [ 22 AWG wires solid core with cheap wire stripper](https://www.amazon.ca/Gauge-Wire-Solid-Core-Hookup/dp/B088KQFHV7/ref=sr_1_1?crid=2EO15A8KGUHYV&keywords=22+gauge+solid+core+wire+set&qid=1641350119&sprefix=22+guage+solid+core+wire+set%2Caps%2C188&sr=8-1)<br> <img src="https://user-images.githubusercontent.com/5605614/148152005-41f2c7c8-e1f6-48b1-90ee-f26b36b129c6.png" width=100 /> 
 
 
 .
@@ -67,48 +67,53 @@
 
 <hr>
 
-# Step 3: Maker100 Sensors and Motors (Actuators): 
+# Step 3: [Maker100](https://github.com/hpssjellis/maker100/README.md) Sensors and Motors (Actuators): 
 
 1. $45.99 USD [Portenta Breakout board](https://store.arduino.cc/usa/portenta-breakout)   
 
 
-1. $5.40 USD [Seeeduino-XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 />
+1. $5.40 USD [Seeeduino XIAO for testing unknowns](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 />
 
-1. [Servo motor](https://www.pololu.com/product/1057)
+1. $19.95 USD [Servo motor](https://www.pololu.com/product/1057)
  
-1. [Stepper Motor](https://www.pololu.com/product/1204) and Driver [A4988 Stepper Motor Driver Carrier](https://www.pololu.com/product/1182)
+1. $23.95 USD [Stepper Motor](https://www.pololu.com/product/1204) 
 
-1. [Dual motor driver](https://www.pololu.com/product/2135) 
+1. $5.95 USD Driver [A4988 Stepper Motor Driver Carrier](https://www.pololu.com/product/1182)
+
+1. $9.95 USD [Dual motor driver](https://www.pololu.com/product/2135) 
  
-1. [big motor driver](https://www.pololu.com/product/1451) 
+1. $54.95 USD [big motor driver](https://www.pololu.com/product/1451) 
 
-1. [DC motor](https://www.pololu.com/product/3225)
 
-1. Ultrasonic	[RB-Ite-54](http://www.robotshop.com/en/hc-sr04-ultrasonic-range-finder.html)	$2.50
 
-1. GPS 	[113020003](http://www.seeedstudio.com/depot/Grove-GPS-p-959.html)	$29.90 
+
+
+
+1. $2.50 CAD [Ultrasonic	RB-Ite-54](http://www.robotshop.com/en/hc-sr04-ultrasonic-range-finder.html)	
+
+1. $29.90 CAD [GPS 	113020003](http://www.seeedstudio.com/depot/Grove-GPS-p-959.html)	 
 
 
 1. [Integrated Sensor Module LSM9DS1 9DOF IMU High Accuracy Attitude Sensor for Arduino](https://www.amazon.ca/Integrated-LSM9DS1-Accuracy-Attitude-Arduino/dp/B09BFTL9PY/ref=sr_1_2?dchild=1&keywords=LSM9DS1&qid=1635831937&sr=8-2) This was one of the hardest sensors to get going I think this was the forth different one I tried.
 
 
-1. Flex sensor		[RB-Spa-989](http://www.robotshop.com/ca/en/22-10k-flexible-sensor.html)	shop	$10.19
+1. $10.19 USD Flex sensor		[RB-Spa-989](http://www.robotshop.com/ca/en/22-10k-flexible-sensor.html)	
 
 
 
-1. [Pixy camera](https://pixycam.com/) purchase [Charmed Labs Pixy 2 CMUcam5 Image Sensor](https://www.robotshop.com/ca/en/charmed-labs-pixy-2-cmucam5-image-sensor.html) $80.00
+1. $80.00 CAD [Pixy camera](https://pixycam.com/) purchase [Charmed Labs Pixy 2 CMUcam5 Image Sensor](https://www.robotshop.com/ca/en/charmed-labs-pixy-2-cmucam5-image-sensor.html) 
 
-1. Fingerprint scanner FPS	2	[RB-Spa-803](http://www.robotshop.com/ca/en/fingerprint-scanner-5v-ttl.html)	$64.04
+1. $64.04 CAD Fingerprint scanner FPS	2	[RB-Spa-803](http://www.robotshop.com/ca/en/fingerprint-scanner-5v-ttl.html)	
 
 
-1. Capacitive Touch	[RB-Dfr-27](	http://www.robotshop.com/en/at42qt1010-capacitive-touch-breakout.html)	$7.95
+1. $7.95 CAD Capacitive Touch	[RB-Dfr-27](	http://www.robotshop.com/en/at42qt1010-capacitive-touch-breakout.html)	
 
 
 
 
   
 
-1. Hall Effect Sensor (Magnetic)		[RB-Spa-251](http://www.robotshop.com/ca/en/hall-effect-sensor.html)	$1.22
+1.$1.22 CAD  Hall Effect Sensor (Magnetic)		[RB-Spa-251](http://www.robotshop.com/ca/en/hall-effect-sensor.html)	
 
 
 
@@ -127,7 +132,7 @@
 Arduino Starter Kit: Everything you need to get going building things with Arduino  $35.26 CDN
 [Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html)
 
-<img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=600 /> 
+<img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=100 /> 
 
 
 Sensor Kit: Consider getting one of the many Arduino style sensor kits on the market. Here is one for $35 CDN that looks very good
