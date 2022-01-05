@@ -11,9 +11,9 @@
 
 ## Step 1: Machine Learning With The PortentaH7 and LoRa Vision Shield:
 
-1. $104 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   <br><img src="https://user-images.githubusercontent.com/5605614/133374580-13deb749-820c-46db-bc04-597c610d2bd0.png" width=200 />
+1. $104 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   <br><img src="https://user-images.githubusercontent.com/5605614/133374580-13deb749-820c-46db-bc04-597c610d2bd0.png" width=100 />
 
-1. $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)     <br><img src="https://user-images.githubusercontent.com/5605614/133374592-36bb6dfd-ec10-4796-b998-782b58ce8730.png" width=200 />
+1. $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)     <br><img src="https://user-images.githubusercontent.com/5605614/133374592-36bb6dfd-ec10-4796-b998-782b58ce8730.png" width=100 />
 
 
 1. $14 USD set of 4. LoRa Antenna with u.fl connector and 915MHz for North America  [DIYmalls 915MHz LoRa Antenna U.FL IPEX to SMA Connector Pigtail 2dBi](https://www.amazon.ca/915MHz-Antenna-Connector-Pigtail-Internet/dp/B086ZG5WBR/ref=sr_1_1_sspa?keywords=lora+915+ufl+connector&qid=1636056723&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVNETEoxSDlYNUEmZW5jcnlwdGVkSWQ9QTA5Mjg4NTAzSDk5RVZIS09JVks2JmVuY3J5cHRlZEFkSWQ9QTA0MDc3MDQyOEdBU0oxMEpVNk1EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)       <br><img src="https://user-images.githubusercontent.com/5605614/148133801-89c8d12b-9897-49c0-b8fc-d1637ae5e4aa.png" width=100 />
@@ -28,13 +28,13 @@
 # Step 2: Generic Sensor and Arduino Equipment:
 
 1. $35.26 CDN Arduino Starter Kit: Everything you need to get going building things with Arduino (breadboards, LED's, push buttons, resistors ...) 
-[Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) <br> <img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=300 /> or do a generic search [https://www.amazon.com/s?k=arduino+starter+kit](https://www.amazon.com/s?k=arduino+starter+kit)
+[Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) <br> <img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=100 /> or do a generic search [https://www.amazon.com/s?k=arduino+starter+kit](https://www.amazon.com/s?k=arduino+starter+kit)
 
 
 1. $35 CDN Sensor Kit: Consider getting one of the many Arduino style sensor kits on the market. 
-[Kuman 37-in-1 Sensor Kit Compatible with Arduino Raspberry Pi Mega 2560 Kits Compatible K5](https://www.amazon.ca/Kuman-sensor-arduino-raspberry-Compatible/dp/B01BY16552/ref=sr_1_29?dchild=1&keywords=maker+breadboard+wire+kit+solder&qid=1631683832&sr=8-29) <br> <img src="https://user-images.githubusercontent.com/5605614/133377159-586ccaba-56fd-42ac-8390-51c33fe5d086.png" width=300 /> 
+[Kuman 37-in-1 Sensor Kit Compatible with Arduino Raspberry Pi Mega 2560 Kits Compatible K5](https://www.amazon.ca/Kuman-sensor-arduino-raspberry-Compatible/dp/B01BY16552/ref=sr_1_29?dchild=1&keywords=maker+breadboard+wire+kit+solder&qid=1631683832&sr=8-29) <br> <img src="https://user-images.githubusercontent.com/5605614/133377159-586ccaba-56fd-42ac-8390-51c33fe5d086.png" width=100 /> 
 
-1. CAD $24.21 Basic Solder kit: good to have   [Plusivo Soldering Kit for Electronics (US Plug)](https://www.robotshop.com/ca/en/plusivo-soldering-kit-electronics-us-plug.html)<br> <img src="https://user-images.githubusercontent.com/5605614/134214253-310de7c1-6ebc-451d-a616-e6741990d710.png" width=300 /> 
+1. CAD $24.21 Basic Solder kit: good to have   [Plusivo Soldering Kit for Electronics (US Plug)](https://www.robotshop.com/ca/en/plusivo-soldering-kit-electronics-us-plug.html)<br> <img src="https://user-images.githubusercontent.com/5605614/134214253-310de7c1-6ebc-451d-a616-e6741990d710.png" width=100 /> 
 
 1. $17.02 CAD [ 22 AWG wires solid core](https://www.amazon.ca/Gauge-Wire-Solid-Core-Hookup/dp/B088KQFHV7/ref=sr_1_1?crid=2EO15A8KGUHYV&keywords=22+gauge+solid+core+wire+set&qid=1641350119&sprefix=22+guage+solid+core+wire+set%2Caps%2C188&sr=8-1)<br> <img src="https://user-images.githubusercontent.com/5605614/148152005-41f2c7c8-e1f6-48b1-90ee-f26b36b129c6.png" width=300 /> 
 
@@ -43,12 +43,10 @@
 
 # Step 3: Maker100 Sensors and Motors (Actuators): 
 
-1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+1. $45.99 USD [Portenta Breakout board](https://store.arduino.cc/usa/portenta-breakout)   
+
 
 1. $5.40 USD [Seeeduino-XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 />
-2. 
-3. 
-
 
 1. [Servo motor](https://www.pololu.com/product/1057)
  
@@ -200,6 +198,10 @@ but at home students would need all the equipment for there final project
 
 
 # Easier to buy in bulk:
+
+1. [Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3_sspa?dchild=1&keywords=breadboard+pins&qid=1635832527&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUVBJVDFOM1daMTAxJmVuY3J5cHRlZElkPUEwMTU1MDM0M0xRQ05JTUtLRE1BSCZlbmNyeXB0ZWRBZElkPUEwMTE2Njk4MlpBU01XMjdaT041UyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+
+
 
 
 
