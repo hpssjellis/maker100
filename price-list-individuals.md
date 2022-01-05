@@ -74,15 +74,23 @@
 
 1. $5.40 USD [Seeeduino XIAO for testing unknowns](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 />
 
-1. $19.95 USD [Servo motor](https://www.pololu.com/product/1057)  <br> <img src="" width=100 /> 
- 
-1. $23.95 USD [Stepper Motor](https://www.pololu.com/product/1204)   <br> <img src="" width=100 /> 
+1. $19.95 USD [Servo motor](https://www.pololu.com/product/1057)  <br> <img src="https://user-images.githubusercontent.com/5605614/148157541-3e94daf8-de27-4c3e-8d7f-c8c585c91d46.png" width=100 /> 
 
-1. $5.95 USD Driver [A4988 Stepper Motor Driver Carrier](https://www.pololu.com/product/1182)  <br> <img src="" width=100 /> 
 
-1. $9.95 USD [Dual motor driver](https://www.pololu.com/product/2135)   <br> <img src="" width=100 /> 
+1. $23.95 USD [Stepper Motor](https://www.pololu.com/product/1204)   <br> <img src="https://user-images.githubusercontent.com/5605614/148157634-a4eaa3d7-e029-482f-940b-32558939223a.png" width=100 /> 
+
+
+
+
+1. $5.95 USD Driver [A4988 Stepper Motor Driver Carrier](https://www.pololu.com/product/1182)  <br> <img src="https://user-images.githubusercontent.com/5605614/148157700-bfd155e6-13a4-4563-ab63-fa53a07535b8.png" width=100 /> 
+
+
+
+
+
+1. $9.95 USD [Dual motor driver](https://www.pololu.com/product/2135)   <br> <img src="https://user-images.githubusercontent.com/5605614/148157752-79f4e6c2-90a0-453b-adfe-647c32886f05.png" width=100 /> 
  
-1. $54.95 USD [big motor driver](https://www.pololu.com/product/1451)   <br> <img src="" width=100 /> 
+1. $54.95 USD [big motor driver](https://www.pololu.com/product/1451)   <br> <img src="https://user-images.githubusercontent.com/5605614/148157798-c2236fdd-162d-4fc6-b86b-a057c165b0b8.png" width=100 /> 
 
 
 
