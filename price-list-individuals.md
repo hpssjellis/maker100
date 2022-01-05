@@ -41,7 +41,7 @@
 
 1. CAD $24.21 Basic Solder kit: good to have   [Plusivo Soldering Kit for Electronics (US Plug)](https://www.robotshop.com/ca/en/plusivo-soldering-kit-electronics-us-plug.html)<br> <img src="https://user-images.githubusercontent.com/5605614/134214253-310de7c1-6ebc-451d-a616-e6741990d710.png" width=100 /> 
 
-1. $17.02 CAD [ 22 AWG wires solid core](https://www.amazon.ca/Gauge-Wire-Solid-Core-Hookup/dp/B088KQFHV7/ref=sr_1_1?crid=2EO15A8KGUHYV&keywords=22+gauge+solid+core+wire+set&qid=1641350119&sprefix=22+guage+solid+core+wire+set%2Caps%2C188&sr=8-1)<br> <img src="https://user-images.githubusercontent.com/5605614/148152005-41f2c7c8-e1f6-48b1-90ee-f26b36b129c6.png" width=300 /> 
+1. $17.02 CAD [ 22 AWG wires solid core](https://www.amazon.ca/Gauge-Wire-Solid-Core-Hookup/dp/B088KQFHV7/ref=sr_1_1?crid=2EO15A8KGUHYV&keywords=22+gauge+solid+core+wire+set&qid=1641350119&sprefix=22+guage+solid+core+wire+set%2Caps%2C188&sr=8-1)<br> <img src="https://user-images.githubusercontent.com/5605614/148152005-41f2c7c8-e1f6-48b1-90ee-f26b36b129c6.png" width=100 /> 
 
 
 .
