@@ -27,14 +27,18 @@
 
 # Step 2: Generic Sensor and Arduino Equipment:
 
-1. $35.26 CDN Arduino Starter Kit: Everything you need to get going building things with Arduino  
-[Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) <br> <img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=300 /> 
+1. $35.26 CDN Arduino Starter Kit: Everything you need to get going building things with Arduino (breadboards, LED's, push buttons, resistors ...) 
+[Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) <br> <img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=300 /> or do a generic search [https://www.amazon.com/s?k=arduino+starter+kit](https://www.amazon.com/s?k=arduino+starter+kit)
 
 
-1. $35 CDN Sensor Kit: Consider getting one of the many Arduino style sensor kits on the market. Here is one for $35 CDN that looks very good
+1. $35 CDN Sensor Kit: Consider getting one of the many Arduino style sensor kits on the market. 
 [Kuman 37-in-1 Sensor Kit Compatible with Arduino Raspberry Pi Mega 2560 Kits Compatible K5](https://www.amazon.ca/Kuman-sensor-arduino-raspberry-Compatible/dp/B01BY16552/ref=sr_1_29?dchild=1&keywords=maker+breadboard+wire+kit+solder&qid=1631683832&sr=8-29) <br> <img src="https://user-images.githubusercontent.com/5605614/133377159-586ccaba-56fd-42ac-8390-51c33fe5d086.png" width=300 /> 
 
 1. CAD $24.21 Basic Solder kit: good to have   [Plusivo Soldering Kit for Electronics (US Plug)](https://www.robotshop.com/ca/en/plusivo-soldering-kit-electronics-us-plug.html)<br> <img src="https://user-images.githubusercontent.com/5605614/134214253-310de7c1-6ebc-451d-a616-e6741990d710.png" width=300 /> 
+
+1. $17.02 CAD [ 22 AWG wires solid core](https://www.amazon.ca/Gauge-Wire-Solid-Core-Hookup/dp/B088KQFHV7/ref=sr_1_1?crid=2EO15A8KGUHYV&keywords=22+gauge+solid+core+wire+set&qid=1641350119&sprefix=22+guage+solid+core+wire+set%2Caps%2C188&sr=8-1)<br> <img src="https://user-images.githubusercontent.com/5605614/148152005-41f2c7c8-e1f6-48b1-90ee-f26b36b129c6.png" width=300 /> 
+
+
 
 
 # Step 3: Maker100 Sensors and Motors (Actuators): 
