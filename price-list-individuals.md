@@ -9,7 +9,7 @@
 <hr>
 
 
-## Step 1: Machine Learning With The PortentaH7 and LoRa Vision Shield:
+## Step 1: Machine Learning With The PortentaH7 and LoRa Vision Shield on edgeimpulse.com :
 
 1. $104 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   <br><img src="https://user-images.githubusercontent.com/5605614/133374580-13deb749-820c-46db-bc04-597c610d2bd0.png" width=100 />
 
