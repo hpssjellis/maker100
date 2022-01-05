@@ -6,7 +6,7 @@
 ## Minimal Price List for this Maker100 course based on the Arduino PortentaH7 (Draft version)
 
 
---------------------------------------------------------------------------------------------------------
+<hr>
 
 
 ## Step 1: Machine Learning With The PortentaH7 and LoRa Vision Shield:
@@ -21,9 +21,14 @@
 1.  $23 USD [1.5inch OLED Display Module 128x128 16 Gray Scale SPI/I2C Interface SSD1327 Driver Raspberry Pi/Arduino/STM32](https://www.amazon.ca/dp/B079KRC9X3?psc=1&smid=AIVH4OZ6D0Y4K&ref_=chk_typ_imgToDp) or from waveshare [128x128, General 1.5inch OLED display Module, SKU: 13992](https://www.waveshare.com/1.5inch-oled-module.htm)      <br><img src="https://user-images.githubusercontent.com/5605614/136551247-6a7fc635-e00c-4b14-80a9-550cb4e7a7b3.png" width=100 />
 
 
+.
 
 
---------------------------------------------------------------------------------------------------------
+.
+
+
+
+<hr>
 
 # Step 2: Generic Sensor and Arduino Equipment:
 
@@ -39,7 +44,28 @@
 1. $17.02 CAD [ 22 AWG wires solid core](https://www.amazon.ca/Gauge-Wire-Solid-Core-Hookup/dp/B088KQFHV7/ref=sr_1_1?crid=2EO15A8KGUHYV&keywords=22+gauge+solid+core+wire+set&qid=1641350119&sprefix=22+guage+solid+core+wire+set%2Caps%2C188&sr=8-1)<br> <img src="https://user-images.githubusercontent.com/5605614/148152005-41f2c7c8-e1f6-48b1-90ee-f26b36b129c6.png" width=300 /> 
 
 
+.
 
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+.
+
+
+
+<hr>
 
 # Step 3: Maker100 Sensors and Motors (Actuators): 
 
@@ -70,6 +96,31 @@
 
 
 
+1. [Pixy camera](https://pixycam.com/) purchase [Charmed Labs Pixy 2 CMUcam5 Image Sensor](https://www.robotshop.com/ca/en/charmed-labs-pixy-2-cmucam5-image-sensor.html) $80.00
+
+1. Fingerprint scanner FPS	2	[RB-Spa-803](http://www.robotshop.com/ca/en/fingerprint-scanner-5v-ttl.html)	$64.04
+
+
+1. Capacitive Touch	[RB-Dfr-27](	http://www.robotshop.com/en/at42qt1010-capacitive-touch-breakout.html)	$7.95
+
+
+
+
+  
+
+1. Hall Effect Sensor (Magnetic)		[RB-Spa-251](http://www.robotshop.com/ca/en/hall-effect-sensor.html)	$1.22
+
+
+
+
+
+1. Slide Potentiometer	[RB-See-229](	http://www.robotshop.com/ca/en/grove-slide-potentiometer.html)	$7.56
+1. Sound sensor	[RB-Wav-26](http://www.robotshop.com/ca/en/sound-sensor.html)	$4.99
+1. Moisture	[RB-Dfr-161](http://www.robotshop.com/en/dfrobot-moisture-sensor.html)	$4.80
+1. Accelerometer	[RB-Das-16](http://www.robotshop.com/ca/en/hovis-gyro-accelerometer-sensor.html)	$38.46
+1. NFC tag	[RB-Sol-40](http://www.robotshop.com/ca/en/serial-to-nfc-converter-module.html)	$21.54
+1. Barometer	[RB-Dfr-611](http://www.robotshop.com/ca/en/bmp180-barometer-module.html)	$9.62
+
 
 
 
@@ -91,18 +142,60 @@ Basic Solder kit: Not really needed as we use breadboards and snap connectors bu
 
 
 
+.
 
---------------------------------------------------------------------------------------------------------
 
+.
+
+.
+
+
+.
+
+
+
+
+<hr>
 # Step 4: Technology Equipment based on interests: Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipment, or D: Shredder Toy RC Car
 
 
 
 
+.
+
+
+.
+
+.
+
+
+.
+
+
+
+
+<hr>
+
 
 # Step 5: Own Project  Cost Up to $100.00
 
 
+
+
+.
+
+
+.
+
+.
+
+
+.
+
+
+
+
+<hr>
 
 # Step 6: No Purchase needed, finish final project for youtube and/or presentation.
 
@@ -135,6 +228,13 @@ Basic Solder kit: Not really needed as we use breadboards and snap connectors bu
 [10 pack of 40 pin male female headers](https://www.amazon.ca/Pieces-2-54mm-Single-Female-Header/dp/B08CMNRXJ1/ref=sr_1_1_sspa?dchild=1&keywords=40+female+headers&qid=1633693932&sr=8-1-spons&psc=1&smid=A2FXQ4Q1N0PO2C&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDdVQ1JWU05MQUhJJmVuY3J5cHRlZElkPUEwNTU0NzY2MU9MREgzN0ZZN1BZRyZlbmNyeXB0ZWRBZElkPUEwNDk4MDAyMVlXRTA4UE1HTjc1QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 
+1. [Elenco-SC-750-Snap-Circuits-Extreme](https://www.amazon.ca/Elenco-SC-750-Snap-Circuits-Extreme/dp/B0002AHQWS)
+
+
+1. [10 Snap to pin cables](https://www.amazon.ca/Snap-Circuits-SCJW10-Project-Connectors/dp/B013DA8XH0/ref=sr_1_fkmr0_1?s=toys&ie=UTF8&qid=1504073209&sr=1-1-fkmr0&keywords=snapcircuits+10+Snap+to+pin+cables)
+
+
+
 # Optional Maker100 Equipment for Individuals:
 
 1. Soldering kit
@@ -147,31 +247,6 @@ Basic Solder kit: Not really needed as we use breadboards and snap connectors bu
 
 1. [10 Snap to pin cables](https://www.amazon.ca/Snap-Circuits-SCJW10-Project-Connectors/dp/B013DA8XH0/ref=sr_1_fkmr0_1?s=toys&ie=UTF8&qid=1504073209&sr=1-1-fkmr0&keywords=snapcircuits+10+Snap+to+pin+cables)
 
-
-1. [Pixy camera](https://pixycam.com/) purchase [Charmed Labs Pixy 2 CMUcam5 Image Sensor](https://www.robotshop.com/ca/en/charmed-labs-pixy-2-cmucam5-image-sensor.html) $80.00
-
-1. Fingerprint scanner FPS	2	[RB-Spa-803](http://www.robotshop.com/ca/en/fingerprint-scanner-5v-ttl.html)	$64.04
-
-
-1. Capacitive Touch	[RB-Dfr-27](	http://www.robotshop.com/en/at42qt1010-capacitive-touch-breakout.html)	$7.95
-
-
-
-
-  
-
-1. Hall Effect Sensor (Magnetic)		[RB-Spa-251](http://www.robotshop.com/ca/en/hall-effect-sensor.html)	$1.22
-
-
-
-
-
-1. Slide Potentiometer	[RB-See-229](	http://www.robotshop.com/ca/en/grove-slide-potentiometer.html)	$7.56
-1. Sound sensor	[RB-Wav-26](http://www.robotshop.com/ca/en/sound-sensor.html)	$4.99
-1. Moisture	[RB-Dfr-161](http://www.robotshop.com/en/dfrobot-moisture-sensor.html)	$4.80
-1. Accelerometer	[RB-Das-16](http://www.robotshop.com/ca/en/hovis-gyro-accelerometer-sensor.html)	$38.46
-1. NFC tag	[RB-Sol-40](http://www.robotshop.com/ca/en/serial-to-nfc-converter-module.html)	$21.54
-1. Barometer	[RB-Dfr-611](http://www.robotshop.com/ca/en/bmp180-barometer-module.html)	$9.62
 
 
 
