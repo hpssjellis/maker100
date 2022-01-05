@@ -102,33 +102,22 @@
 1. $29.90 CAD [GPS 	113020003](http://www.seeedstudio.com/depot/Grove-GPS-p-959.html)	   <br> <img src="" width=100 /> 
 
 
-1. [Integrated Sensor Module LSM9DS1 9DOF IMU High Accuracy Attitude Sensor for Arduino](https://www.amazon.ca/Integrated-LSM9DS1-Accuracy-Attitude-Arduino/dp/B09BFTL9PY/ref=sr_1_2?dchild=1&keywords=LSM9DS1&qid=1635831937&sr=8-2) This was one of the hardest sensors to get going I think this was the forth different one I tried.  <br> <img src="" width=100 /> 
-
-
-1. $10.19 USD Flex sensor		[RB-Spa-989](http://www.robotshop.com/ca/en/22-10k-flexible-sensor.html)	  <br> <img src="" width=100 /> 
+1. [Integrated Sensor Module LSM9DS1 9DOF IMU High Accuracy Attitude Sensor for Arduino](https://www.amazon.ca/Integrated-LSM9DS1-Accuracy-Attitude-Arduino/dp/B09BFTL9PY/ref=sr_1_2?dchild=1&keywords=LSM9DS1&qid=1635831937&sr=8-2) This was one of the hardest sensors to get going I think this was the forth different one I tried.  <br> <img src="https://user-images.githubusercontent.com/5605614/148158186-848e1462-83c5-4655-868c-65011e9ab96e.png" width=100 /> 
 
 
 
-1. $80.00 CAD [Pixy camera](https://pixycam.com/) purchase [Charmed Labs Pixy 2 CMUcam5 Image Sensor](https://www.robotshop.com/ca/en/charmed-labs-pixy-2-cmucam5-image-sensor.html)   <br> <img src="" width=100 /> 
-
-1. $64.04 CAD Fingerprint scanner FPS	2	[RB-Spa-803](http://www.robotshop.com/ca/en/fingerprint-scanner-5v-ttl.html)	  <br> <img src="" width=100 /> 
+1. $10.19 USD Flex sensor	(Might want 5 of these)	[RB-Spa-989](http://www.robotshop.com/ca/en/22-10k-flexible-sensor.html)	  <br> <img src="https://user-images.githubusercontent.com/5605614/148158276-4efb47aa-5de5-4ad1-8048-ddd547f3a8ce.png" width=100 /> 
 
 
-1. $7.95 CAD Capacitive Touch	[RB-Dfr-27](	http://www.robotshop.com/en/at42qt1010-capacitive-touch-breakout.html)	  <br> <img src="" width=100 /> 
 
-1.$1.22 CAD  Hall Effect Sensor (Magnetic)		[RB-Spa-251](http://www.robotshop.com/ca/en/hall-effect-sensor.html)	  <br> <img src="" width=100 /> 
+1. $80.00 CAD [Pixy camera](https://pixycam.com/) purchase [Charmed Labs Pixy 2 CMUcam5 Image Sensor](https://www.robotshop.com/ca/en/charmed-labs-pixy-2-cmucam5-image-sensor.html)   <br> <img src="https://user-images.githubusercontent.com/5605614/148158393-7caaa5dc-8407-4304-823d-7a2c751b7eef.png" width=100 /> 
+
 
 1. $7.56 CAD Slide Potentiometer	[RB-See-229](	http://www.robotshop.com/ca/en/grove-slide-potentiometer.html)	  <br> <img src="" width=100 /> 
 
-1. $4.99 CAD Sound sensor	[RB-Wav-26](http://www.robotshop.com/ca/en/sound-sensor.html)	  <br> <img src="" width=100 /> 
+1. $4.80 CAD Moisture	[RB-Dfr-161](http://www.robotshop.com/en/dfrobot-moisture-sensor.html)	  <br> <img src="https://user-images.githubusercontent.com/5605614/148158607-3d2f57d6-1970-4a3e-b148-e910df7696ed.png" width=100 />
 
-1. $4.80 CAD Moisture	[RB-Dfr-161](http://www.robotshop.com/en/dfrobot-moisture-sensor.html)	  <br> <img src="" width=100 />
 
-1. $38.46 CAD Accelerometer	[RB-Das-16](http://www.robotshop.com/ca/en/hovis-gyro-accelerometer-sensor.html)	 <br> <img src="" width=100 /> 
-
-1. $21.54  CAD NFC tag	[RB-Sol-40](http://www.robotshop.com/ca/en/serial-to-nfc-converter-module.html)	 <br> <img src="" width=100 /> 
-
-1. $9.62 CAD Barometer	[RB-Dfr-611](http://www.robotshop.com/ca/en/bmp180-barometer-module.html)	  <br> <img src="" width=100 /> 
 
 
 
