@@ -241,8 +241,12 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 # Step 5: Own Project  Cost about $150.00 
 Students would typically purchase more of the above motors and motor drivers or sensors needed for their final project.
 
+Example to make a robot hand or Roboti arm you would need 5 servers and 5 flex sensors:
+
+1. 5 x $19.95 USD = $99.75 ~= $126.68 CAD [Servo motor](https://www.pololu.com/product/1057)  <br> <img src="https://user-images.githubusercontent.com/5605614/148157541-3e94daf8-de27-4c3e-8d7f-c8c585c91d46.png" width=100 /> 
 
 
+1. 5 x $10.19 USD = $50.95 USD ~= $64.71 CAD  Flex sensor	(Might want 5 of these)	[RB-Spa-989](http://www.robotshop.com/ca/en/22-10k-flexible-sensor.html)	  <br> <img src="https://user-images.githubusercontent.com/5605614/148158276-4efb47aa-5de5-4ad1-8048-ddd547f3a8ce.png" width=100 /> 
 
 .
 
