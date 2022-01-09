@@ -31,7 +31,27 @@ This page is for anyone wishing to do the course from home. It is closely linked
 
 #Let's get started!
 
-### Step 0: Setup
+# Step 0: Setup.
+
+1. A place to save short videos of everything you have done. Suggestions https://www.office.com/  https://www.youtube.com/  https://one.google.com/  https://www.dropbox.com/  (If you are at a school check what they use, best to share a folder that has all your videos saved in the order you have made them)
+
+
+1. Find something (favorite toy, special pen, sheet of paper with your name on it) to show in the background of every video to prove it is you. Many schools prefer students to not show their face so a symbol is the best alternative
+
+
+1. Make short videos after you have done the next steps.
+
+
+1. https://github.com/ login (Sensible login name as this public Github is part of your adult resume) Then make a repository with a README.md file saying your first name only and in a public folder an index.html file saying your first name and something about Robotics and Machine Learning. See [Github Setup Video here]() (not yet ready)
+
+
+1. https://edgeimpulse.com/ login, Start making your first Machine Learning model, using your computer webcam or (easier using a cell phone) See [edgeImpulse First Model Video Here](https://www.youtube.com/watch?v=wbX_-No8kIw&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR&index=8). Set the speed slower if your don't like the Chipmunk voice. See other videos in the playlist if you need more help.
+
+
+1. Tell whoever is getting your equipment that you have finished step 0, and need your Step 1 equipment purchased. (If they have access to your video folder they can see your short proof videos)
+
+
+# Step 1:  Arduino Portenta with LoRa Vision Shield.
 
 
 
