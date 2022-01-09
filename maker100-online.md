@@ -14,7 +14,7 @@ This page is for anyone wishing to do the course from home. It is closely linked
 
 ####  Step 1: Arduino Portenta with LoRa Vision Shield. Lets do some TinyML Machine Learning with Edge Impulse  ([Materials](price-list-individuals.md#step-1-machine-learning-with-the-portentah7-and-lora-vision-shield-on-edgeimpulsecom) Cost: ~ $300 USD).
 
-####  Step 2: Generic Arduino and soldering. World famous Arduino simplification.  ([Materials](price-list-individuals.md#step-2-generic-sensor-and-arduino-equipment) Cost: ~ $150 USD ).
+####  Step 2: Generic Arduino abilities, sensors and soldering. World famous Arduino simplification.  ([Materials](price-list-individuals.md#step-2-generic-sensor-and-arduino-equipment) Cost: ~ $150 USD ).
 
 ####  Step 3: Arduino Portenta with Sensors (2 wire, SPI, I2C, UArt), Actuators (motors, LED's) and Communication (Wifi, Ethernet, BLE, LoRa, LoRaWan) ([Materials](price-list-individuals.md#step-3-maker100-sensors-and-motors-actuators) Cost: ~ $500 USD ).
 
