@@ -11,7 +11,7 @@
 <hr>
 
 
-## Step 1: Machine Learning with the PortentaH7 and LoRa Vision Shield on [edgeimpulse.com](https://www.edgeimpulse.com/) :
+## Step 1: Machine Learning with the PortentaH7 and LoRa Vision Shield on [edgeimpulse.com](https://www.edgeimpulse.com/)
 
 1. $104 USD [Arduino PortentaH7](https://store.arduino.cc/usa/portenta-h7)   <br><img src="https://user-images.githubusercontent.com/5605614/133374580-13deb749-820c-46db-bc04-597c610d2bd0.png" width=100 />
 
@@ -238,7 +238,7 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 <hr>
 
 
-# Step 5: Own Project  Cost about $150.00 
+# Step 5: Own Project
 Students would typically purchase more of the above motors and motor drivers or sensors needed for their final project.
 
 Example to make a robot hand or Roboti arm you would need 5 servers and 5 flex sensors:
