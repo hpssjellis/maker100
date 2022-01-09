@@ -12,7 +12,7 @@ This page is for anyone wishing to do the course from home. It is closely linked
 
 #### [Step 0:](#step-0-setup) Setup Github and video saving methods and see if you like Machine Learning with EdgeImpulse. (Materials Cost: $0 assuming you have an internet capable computer also preferably a cell phone)
 
-####  [Step 1:]() Arduino Portenta with LoRa Vision Shield. Lets do some TinyML Machine Learning with Edge Impulse  ([Materials](price-list-individuals.md#step-1-machine-learning-with-the-portentah7-and-lora-vision-shield-on-edgeimpulsecom) Cost: ~ $300 USD).
+####  [Step 1:](#step-1--arduino-portenta-with-lora-vision-shield) Arduino Portenta with LoRa Vision Shield. Lets do some TinyML Machine Learning with Edge Impulse  ([Materials](price-list-individuals.md#step-1-machine-learning-with-the-portentah7-and-lora-vision-shield-on-edgeimpulsecom) Cost: ~ $300 USD).
 
 ####  [Step 2:]() Generic Arduino abilities, sensors and soldering. World famous Arduino simplification.  ([Materials](price-list-individuals.md#step-2-generic-sensor-and-arduino-equipment) Cost: ~ $150 USD ).
 
