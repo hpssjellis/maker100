@@ -5,9 +5,8 @@ Draft Jan 9th, 2022
 # Maker100 Online without in-person support, a potentially faster or at your own pace approach to the in-classroom [Maker100](https://github.com/hpssjellis/maker100) course. 
 
 
-This page is for anyone wishing to do the course from home. It is closely linked to the price list so you can have minimal costs while testing if this method is correct for you.
+This page is for anyone wishing to do the course from home. It is closely linked to the [materials price list](price-list-individuals.md) so you can have minimal costs while testing if this method is correct for you.
 
-[price-list-individuals.md](price-list-individuals.md)
 
 ### Step 0: Setup Github and video saving methods and see if you like Machine Learning with EdgeImpulse. (Materials Cost: $0 assuming you have an internet capable computer also preferably a cell phone)
 
