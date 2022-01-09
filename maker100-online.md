@@ -24,7 +24,10 @@ This page is for anyone wishing to do the course from home. It is closely linked
 
 ####  Step 6: Final Project Completion / Presentation /Startup (Materials Cost: $0 ).
 
-## Note: No fees for using this Online-Maker100 program
+#### Total cost about $1750 USD, Duration to complete, from about 2 weeks to 3 years.
+
+## Note: No fees, but also no support for using this Online-Maker100 program
+
 
 
 #Let's get started!
