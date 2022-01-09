@@ -2,7 +2,7 @@ Draft Jan 9th, 2022
 
 # Robotics and Machine Learning for the Technologically Tenacious!
 
-# Maker100 Online without in-person support, a potentailly faster or at your own pace approach to the in-classroom [Maker100](https://github.com/hpssjellis/maker100) course. 
+# Maker100 Online without in-person support, a potentially faster or at your own pace approach to the in-classroom [Maker100](https://github.com/hpssjellis/maker100) course. 
 
 The [maker100](https://github.com/hpssjellis/maker100) course is for in-person instruction in a Robotics / computer lab with a knowledgeable teacher.
 
