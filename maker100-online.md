@@ -18,7 +18,7 @@ This page is for anyone wishing to do the course from home. It is closely linked
 
 ####  [Step 3:]() Arduino Portenta with Sensors (2 wire, SPI, I2C, UArt), Actuators (motors, LED's) and Communication (Wifi, Ethernet, BLE, LoRa, LoRaWan) ([Materials](price-list-individuals.md#step-3-maker100-sensors-and-motors-actuators) Cost: ~ $500 USD ).
 
-####  [Step 4:]() Specializations any of: 3D printing, or micro-soldering, or electronic testing, or RC toy car ([Materials](price-list-individuals.md#step-4-technology-equipment-based-on-interests) Cost: <= ~$700 USD   ).
+####  [Step 4:]() Specializations any of: A:3D printing, or B:micro-soldering, or C:electronic testing, or D:RC toy car ([Materials](price-list-individuals.md#step-4-technology-equipment-based-on-interests) Cost: <= ~$700 USD per topic   ).
 
 ####  [Step 5:]() Planning your final project ([Materials](price-list-individuals.md#step-1-machine-learning-with-the-portentah7-and-lora-vision-shield-on-edgeimpulsecom-) Cost: >= $100 USD  ).
 
