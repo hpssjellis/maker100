@@ -9,22 +9,26 @@ This page is for anyone wishing to do the course from home. It is closely linked
 
 [price-list-individuals.md](price-list-individuals.md)
 
-### Step 0: Setup Github and video saving methods and see if you like Machine Learning with EdgeImpulse. (Materials Cost: $0 assuming you have an internet capable computer and a cell phone)
+### Step 0: Setup Github and video saving methods and see if you like Machine Learning with EdgeImpulse. (Materials Cost: $0 assuming you have an internet capable computer also preferably a cell phone)
 
-###  Step 1: Arduino Portenta with LoRa Vision Shield. Lets do some TinyML Machine Learning with Edge Impulse  ([Materials](price-list-individuals.md#step-1-machine-learning-with-the-portentah7-and-lora-vision-shield-on-edgeimpulsecom) Cost: ~ $300 USD).
+####  Step 1: Arduino Portenta with LoRa Vision Shield. Lets do some TinyML Machine Learning with Edge Impulse  ([Materials](price-list-individuals.md#step-1-machine-learning-with-the-portentah7-and-lora-vision-shield-on-edgeimpulsecom) Cost: ~ $300 USD).
 
-###  Step 2: Generic Arduino and soldering. World famous Arduino simplification.  ([Materials](price-list-individuals.md#step-2-generic-sensor-and-arduino-equipment) Cost: ~ $300 USD). ~ $150 USD ).
+####  Step 2: Generic Arduino and soldering. World famous Arduino simplification.  ([Materials](price-list-individuals.md#step-2-generic-sensor-and-arduino-equipment) Cost: ~ $150 USD ).
 
-###  Step 3: Arduino Portenta with Sensors (2 wire, SPI, I2C, UArt), Actuators (motors, LED's) and Communication (Wifi, Ethernet, BLE, LoRa, LoRaWan) ([Materials](price-list-individuals.md#step-3-maker100-sensors-and-motors-actuators) Cost: ~ $300 USD). ~ $500 USD ).
+####  Step 3: Arduino Portenta with Sensors (2 wire, SPI, I2C, UArt), Actuators (motors, LED's) and Communication (Wifi, Ethernet, BLE, LoRa, LoRaWan) ([Materials](price-list-individuals.md#step-3-maker100-sensors-and-motors-actuators) Cost: ~ $500 USD ).
 
-###  Step 4: Specializations any of: 3D printing, or micro-soldering, or electronic testing, or RC toy car ([Materials](price-list-individuals.md#step-4-technology-equipment-based-on-interests) Cost: ~ $300 USD). <= $700 USD each ).
+####  Step 4: Specializations any of: 3D printing, or micro-soldering, or electronic testing, or RC toy car ([Materials](price-list-individuals.md#step-4-technology-equipment-based-on-interests) Cost: <= ~$700 USD   ).
 
-###  Step 5: Planning your final project ([Materials](price-list-individuals.md#step-1-machine-learning-with-the-portentah7-and-lora-vision-shield-on-edgeimpulsecom-) Cost: ~ $300 USD). ~ $200 USD --> ? ).
+####  Step 5: Planning your final project ([Materials](price-list-individuals.md#step-1-machine-learning-with-the-portentah7-and-lora-vision-shield-on-edgeimpulsecom-) Cost: >= $100 USD  ).
 
-###  Step 6: Final Project Completion / Presentation /Startup (Material Cost: $0 ).
+####  Step 6: Final Project Completion / Presentation /Startup (Materials Cost: $0 ).
+
+## Note: No fees for using this Online-Maker100 program
 
 
+#Let's get started!
 
+### Step 0: Setup
 
 
 
