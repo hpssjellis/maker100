@@ -205,8 +205,36 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 1. $14.50 CAD [LCR-T4 12864 LCD Graphical Transistor Tester Resistance Capacitance ESR SCR Meter](https://www.amazon.ca/LCR-T4-Graphical-Transistor-Resistance-Capacitance/dp/B095PGFBDW/ref=sr_1_16?crid=F2P7R8IV05XJ&keywords=LCR-T4+ESR+meter+transistor+tester+diod+triode+capacitance+scr&qid=1641795974&sprefix=lcr-t4+esr+meter+transistor+tester+diod+triode+capacitance+scr%2Caps%2C122&sr=8-16) Not yet tested <br> <img src="https://user-images.githubusercontent.com/5605614/148725854-7be9e3c7-593f-4c8a-b839-7a5d4bb2f73d.png" width=100 />  
 
 
-
+Wise to watch this video  https://www.youtube.com/watch?v=vZtkbUc2i_Y&list=PL3XBzmAj53RniXUYFJLJ23ETZNWtqD6hr&index=10
 .
+Switching Power Supply: http://s.click.aliexpress.com/e/1OFGc6k
+Breadboard: http://s.click.aliexpress.com/e/chYjtrmg
+Cheap pliers: http://s.click.aliexpress.com/e/b7t7l8g0
+Stripper 30AWG: http://s.click.aliexpress.com/e/bTMFUdcy
+Cheap USB soldering iron: http://s.click.aliexpress.com/e/bdNtv4ys
+AOYUE 968A+: http://s.click.aliexpress.com/e/b9wR4PHI
+TS80: http://bit.ly/2JUphIz
+TS100: http://bit.ly/2sT8cXh
+USB QC 3.0 charger http://bit.ly/2HB9iQC
+Solder wire Kester: https://amzn.to/2Oc6A5m
+Solder wire holder http://bit.ly/2FMYSdJ
+Solder Flux: https://amzn.to/2TDwVPH
+Solid Flux: http://s.click.aliexpress.com/e/c6yx0GAG
+SMD Transistor assortment: http://s.click.aliexpress.com/e/bK1vfVdq
+Hakko tweezers: https://amzn.to/2UHD0qO
+Quick 8610W Hot air station: http://s.click.aliexpress.com/e/c2kEhvY8
+Viewer proposed Hot air: http://s.click.aliexpress.com/e/LfwSgnq
+Binocular Microscope: http://s.click.aliexpress.com/e/bi2c9KvE
+Bench multimeter UT804: http://s.click.aliexpress.com/e/xMbMrDQ
+Portable multimeter UT171D: http://s.click.aliexpress.com/e/cTVwqp48
+Fluke 17B+: http://s.click.aliexpress.com/e/eF4jXRi
+Transistor tester: https://www.aliexpress.com/item/Mega3...
+Case for transistor tester: https://www.thingiverse.com/thing:169...
+Siglent oscilloscope: https://amzn.to/2T9EWa2
+Keysight oscilloscope: https://amzn.to/2O5cvsE
+Rigol oscilloscope: https://amzn.to/2T9gaXt
+Logic Analyzer: http://s.click.aliexpress.com/e/PdnNgKU
+USB isolator: http://s.click.aliexpress.com/e/bNiXL1qu
 
 
 .
