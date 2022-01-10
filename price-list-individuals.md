@@ -188,17 +188,19 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 .
 
 
-### Step 4C: Technology Test Equipment
+### Step 4C: Technology Test Equipment (These have not yet been tested!)
 
-1. $158.69 CAD [Oscilloscope Digital for Electronic Production for DIY Production](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51) <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
+1. $158.69 CAD [Oscilloscope Digital for Electronic Production for DIY Production](https://www.amazon.ca/Oscilloscope-Digital-Electronic-Production-DIY/dp/B096V7KPM7/ref=sr_1_51?crid=2I623J6LSC8D3&keywords=electronic+oscilloscope&qid=1641368483&sprefix=electronic+osciloscope%2Caps%2C115&sr=8-51)  Not Yet Tested <br> <img src="https://user-images.githubusercontent.com/5605614/148179305-cf050aee-20eb-43b2-adb7-bcd7c99b1ef1.png" width=100 />  
 
-1. $39.99 CAD [AstroAI Digital Multimeter TRMS 6000](https://www.amazon.ca/AstroAI-Digital-Multimeter-Ranging-Measures/dp/B071JL6LLL/ref=sr_1_17?crid=2LE3UGW7MRX5R&keywords=electronic+test+set+multimeter+scope&qid=1641368400&sprefix=electronic+test+set+multimeter+scope%2Caps%2C156&sr=8-17) <br> <img src="https://user-images.githubusercontent.com/5605614/148179663-ce83b4e1-6b28-420d-bbfa-98651e52f08c.png" width=100 />  
+1. $39.99 CAD [AstroAI Digital Multimeter TRMS 6000](https://www.amazon.ca/AstroAI-Digital-Multimeter-Ranging-Measures/dp/B071JL6LLL/ref=sr_1_17?crid=2LE3UGW7MRX5R&keywords=electronic+test+set+multimeter+scope&qid=1641368400&sprefix=electronic+test+set+multimeter+scope%2Caps%2C156&sr=8-17) Not Yet Tested  <br> <img src="https://user-images.githubusercontent.com/5605614/148179663-ce83b4e1-6b28-420d-bbfa-98651e52f08c.png" width=100 />  
 
-1. $369.56 CAD [Inno-Maker LA2016 USB Logic Analyzer Full 16 Channels 200MHz Sampling Rate](https://www.amazon.ca/Inno-Maker-Analyzer-Channels-KingstVIS-instrumentxFF0C/dp/B07D35FNYL/ref=dp_fod_3?pd_rd_i=B07D35FNYL&psc=1) <br> <img src="https://user-images.githubusercontent.com/5605614/148344977-0f8c1484-be78-43f7-8cdd-b762eecabdd1.png" width=100 />  
+1. $369.56 CAD [Inno-Maker LA2016 USB Logic Analyzer Full 16 Channels 200MHz Sampling Rate](https://www.amazon.ca/Inno-Maker-Analyzer-Channels-KingstVIS-instrumentxFF0C/dp/B07D35FNYL/ref=dp_fod_3?pd_rd_i=B07D35FNYL&psc=1) Not Yet Tested  <br> <img src="https://user-images.githubusercontent.com/5605614/148344977-0f8c1484-be78-43f7-8cdd-b762eecabdd1.png" width=100 />  
+
+# ----OR-----
+
+1. $826.62 CAD [MOKUGO-M2-STORM](https://www.mouser.ca/ProductDetail/Liquid-Instruments/MOKUGO-M2-STORM?qs=XAiT9M5g4x80PwRZZJGkxQ%3D%3D) Not Yet Tested <br> <img src="https://user-images.githubusercontent.com/5605614/148718678-7af50b59-1d3a-464c-829f-135eab3e43b2.png" width=100 />  
 
 
-
-1. [?]() <br> <img src="" width=100 />  
 
 1. [?]() <br> <img src="" width=100 />  
 
