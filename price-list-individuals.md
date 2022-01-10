@@ -202,7 +202,7 @@ Choice A: Soldering/PCB Design, or B: 3D Printer, or C: Technology Test Equipmen
 
 
 
-1. [?]() <br> <img src="" width=100 />  
+1. $14.50 CAD [LCR-T4 12864 LCD Graphical Transistor Tester Resistance Capacitance ESR SCR Meter](https://www.amazon.ca/LCR-T4-Graphical-Transistor-Resistance-Capacitance/dp/B095PGFBDW/ref=sr_1_16?crid=F2P7R8IV05XJ&keywords=LCR-T4+ESR+meter+transistor+tester+diod+triode+capacitance+scr&qid=1641795974&sprefix=lcr-t4+esr+meter+transistor+tester+diod+triode+capacitance+scr%2Caps%2C122&sr=8-16) Not yet tested <br> <img src="https://user-images.githubusercontent.com/5605614/148725854-7be9e3c7-593f-4c8a-b839-7a5d4bb2f73d.png" width=100 />  
 
 
 
