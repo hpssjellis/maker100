@@ -109,7 +109,9 @@
 
 
 
-1. $21.49 CAD [Pcs LSM9DS1 9-axis Sensor Module, High Accuracy Integrated Motion-Sensing System-in-a-chip IMU Attitude Sensor Board, for Measure Sports Properties](https://www.amazon.ca/Accuracy-Integrated-Motion-Sensing-Attitude-Properties/dp/B09N7KDCVP/ref=sr_1_2?crid=2Y879MM846Y64&keywords=Integrated+Sensor+Module+LSM9DS1+9DOF+IMU+High+Accuracy+Attitude+Sensor+for+Arduino&qid=1641367257&sprefix=integrated+sensor+module+lsm9ds1+9dof+imu+high+accuracy+attitude+sensor+for+arduino%2Caps%2C111&sr=8-2) This was one of the hardest sensors to get going I think this was the forth different one I tried.  <br> <img src="https://user-images.githubusercontent.com/5605614/148158186-848e1462-83c5-4655-868c-65011e9ab96e.png" width=100 /> 
+1. $21.49 CAD [Pcs LSM9DS1 9-axis Sensor Module, High Accuracy Integrated Motion-Sensing System-in-a-chip IMU Attitude Sensor Board, for Measure Sports Properties](https://www.amazon.ca/Accuracy-Integrated-Motion-Sensing-Attitude-Properties/dp/B09N7KDCVP/ref=sr_1_2?crid=2Y879MM846Y64&keywords=Integrated+Sensor+Module+LSM9DS1+9DOF+IMU+High+Accuracy+Attitude+Sensor+for+Arduino&qid=1641367257&sprefix=integrated+sensor+module+lsm9ds1+9dof+imu+high+accuracy+attitude+sensor+for+arduino%2Caps%2C111&sr=8-2) This was one of the hardest sensors to get going I think this was the forth different one I tried.  <br> <img src="https://user-images.githubusercontent.com/5605614/148158186-848e1462-83c5-4655-868c-65011e9ab96e.png" width=100 /> <br>  Possible better untested idea is the $25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-family/products/arduino-mkr-imu-shield)  <img src="(https://user-images.githubusercontent.com/5605614/150840011-640fa5a1-2b09-493e-bb5c-41f358879825.png" width=100 />
+
+
 
 
 
