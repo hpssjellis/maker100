@@ -55,7 +55,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 | More Helium Portenta Topics                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
-| <a name="helium1" href="#helium1">`helium1`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="helium1" href="#helium1">`helium1`</a>.      (All the Helium examples will be in the dot33 location of the aarduino Portenta-pro-community-examples libary.)         |      [dot33-lorawan-specific](https://github.com/hpssjellis/portenta-pro-community-solutions/tree/main/examples/dot3-portenta-vision-shields/dot33-lorawan-specific)            |               |          |        |        |
 | <a name="helium2" href="#helium2">`helium2`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
 | <a name="helium3" href="#helium3">`helium3`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
 | <a name="helium4" href="#helium4">`helium4`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
@@ -69,7 +69,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 | More Machine Learning Portenta Topics                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
-| <a name="ml1" href="#ml1">`ml1`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
+| <a name="ml1" href="#ml1">`ml1`</a>.     (All my Portenta with LoRa Vision Shield examples are in the dot511 area of the Portenta-pro-community-examples arduino library)         |   [dot511-vision-shield](https://github.com/hpssjellis/portenta-pro-community-solutions/tree/main/examples/dot5-portenta-machine-learning/dot51-portenta-edge-impulse-ml/dot511-vision-shield)               |               |          |        |        |
 | <a name="ml2" href="#ml2">`ml2`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
 | <a name="ml3" href="#ml3">`ml3`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
 | <a name="ml4" href="#ml4">`ml4`</a>.   []()   (Not Yet Fully Working)         |                  |               |          |        |        |
