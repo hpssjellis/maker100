@@ -9,7 +9,7 @@ The examples are [here](https://github.com/hpssjellis/portenta-pro-community-sol
 Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](https://www.tablesgenerator.com/markdown_tables) File-->Paste Table Data --> Generate --> Copy to Clipboard--> paste back here
 
 
-# Note: the following is an in-class Robotics and Machine Learning course
+### Note: the following is an in-class Robotics and Machine Learning course
 
 As such many safety and extra resource information will not be listed here. These videos are as short as possible to get the sketch working. For an online experience hopefully the [online-maker100](maker100-online.md) course will be ready and student tested by 2023. If you are working online expect to research a lot of microcontroller safety videos on your own.
 
