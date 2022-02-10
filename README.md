@@ -13,7 +13,7 @@ Note: To edit this table use [https://www.tablesgenerator.com/markdown_tables](h
 
 As such many safety and extra resource information will not be listed here. These videos are as short as possible to get the sketch working. For an online experience hopefully the [online-maker100](maker100-online.md) course will be ready and student tested by 2023. If you are working online expect to research a lot of microcontroller safety videos on your own.
 
-
+Really good connected devices slideshow https://pascalbod.github.io/iot-en-presentation/#/ (watch for the arrows bottom right)
 
 | Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Links | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
