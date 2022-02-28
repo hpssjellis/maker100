@@ -188,7 +188,7 @@ Blast through all first year assignments, multiple sensor and Actuators: ie: rob
 1. Circuits as multiple serial and parallel loops
 2. Microcontroller Max current, Max voltage
 3. Ohms Law V=IxR and Power equations
-4. Electrical Safety
+4. Electrical Safety  https://www.rugged-circuits.com/10-ways-to-destroy-an-arduino
 5. Non-microcontroller electric circuits: switch on a motor etc. I use [Snapcircuits 750](https://www.robotshop.com/en/elenco-snap-circuits-educational-series-training-program-sc-750r.html) I use the old version that comes in a box, this case version would be good, but any circuit toys would be fine including online circuit visualizers.
 6. My six Circuit components: Resistor, Diode, Transistor, Coil, Capacitor, Chip. 2021 bumped this up to [12 PCB components](https://www.seeedstudio.com/blog/2019/06/12/12-commonly-used-components-on-pcbs-for-beginners/)
 7. Soldering: I don't teach it, all my examples are breadboard plug and play, also by grade 11 most of my students who are fully interested in tech have taught themselves how to solder. (I get them to do my soldering since those kids are better at it than I am!)
