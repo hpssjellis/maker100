@@ -27,7 +27,7 @@
 1.  $15.99 CAD [5000mAh Power Bank Portable Charger](https://www.amazon.ca/Portable-Ultra-Compact-External-Identify-Compatible/dp/B09JNX8PZR/ref=sr_1_33_sspa?crid=485TUJ0EMB4N&keywords=power+bank&qid=1641405350&s=electronics&sprefix=power+bank%2Celectronics%2C134&sr=1-33-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFONlRUWTM1OFc0WTEmZW5jcnlwdGVkSWQ9QTA2NTUwODdCV0ZQQTlQUUE4NDYmZW5jcnlwdGVkQWRJZD1BMDEwMjU4OTNFR1AyVjQ2N0dQTFgmd2lkZ2V0TmFtZT1zcF9idGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)      <br><img src="https://user-images.githubusercontent.com/5605614/148266102-36a2d187-7eef-42db-a030-5054fa620330.png" width=100 />
 
 
-
+$25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-family/products/arduino-mkr-imu-shield)  <br><img src="https://user-images.githubusercontent.com/5605614/151890361-860f98f5-b373-4114-acb1-49dbb5c61fe6.png" width=200 />
 
 
 
@@ -109,13 +109,10 @@
 
 
 
-1. $21.49 CAD [Pcs LSM9DS1 9-axis Sensor Module, High Accuracy Integrated Motion-Sensing System-in-a-chip IMU Attitude Sensor Board, for Measure Sports Properties](https://www.amazon.ca/Accuracy-Integrated-Motion-Sensing-Attitude-Properties/dp/B09N7KDCVP/ref=sr_1_2?crid=2Y879MM846Y64&keywords=Integrated+Sensor+Module+LSM9DS1+9DOF+IMU+High+Accuracy+Attitude+Sensor+for+Arduino&qid=1641367257&sprefix=integrated+sensor+module+lsm9ds1+9dof+imu+high+accuracy+attitude+sensor+for+arduino%2Caps%2C111&sr=8-2) This was one of the hardest sensors to get going I think this was the forth different one I tried.  <br> <img src="https://user-images.githubusercontent.com/5605614/148158186-848e1462-83c5-4655-868c-65011e9ab96e.png" width=100 /> <br>  Possible better untested idea is the $25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-family/products/arduino-mkr-imu-shield)  <img src="https://user-images.githubusercontent.com/5605614/151890361-860f98f5-b373-4114-acb1-49dbb5c61fe6.png" width=100 />
 
 
 
-
-
-Another untested Connectivity solution is the $87.60 USD [portenta-catm1](https://store-usa.arduino.cc/collections/new-products/products/portenta-catm1)   <img src="https://user-images.githubusercontent.com/5605614/151890195-fc557a37-615a-4dd3-99a7-6be5f861d692.png" width=100 />
+Another untested Connectivity solution is the $87.60 USD [portenta-catm1](https://store-usa.arduino.cc/collections/new-products/products/portenta-catm1)   <img src="https://user-images.githubusercontent.com/5605614/151890195-fc557a37-615a-4dd3-99a7-6be5f861d692.png" width=100 /> Note It will probably have a monthly fee for a SIM card with a CAT-M1 or NB-IOT provider. Arduino has SIM cards, not sure if they are connected yet.
 
 
 
