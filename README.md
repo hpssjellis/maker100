@@ -234,7 +234,7 @@ I also have a class set of 15 Seeeduino [Seeeduino XIAO](https://www.seeedstudio
 
 Hot off the press. The [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) is a contender for this course, has all the capabilities and cheaper than the Portenta, with Vision shield and MKR IMU.
 
-1. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us is very good for sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 200/><br><br>
+1. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) is very good for Color Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 200/><br><br>
 
 
 
