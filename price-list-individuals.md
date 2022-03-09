@@ -85,6 +85,8 @@ $25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-fa
 
 1. $5.40 USD [Seeeduino XIAO for testing unknowns](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 />
 
+1. 1. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) is very good for Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 200/><br><br>
+
 1. $19.95 USD [Servo motor](https://www.pololu.com/product/1057)  <br> <img src="https://user-images.githubusercontent.com/5605614/148157541-3e94daf8-de27-4c3e-8d7f-c8c585c91d46.png" width=100 /> 
 
 
