@@ -363,6 +363,9 @@ An older price list mainly for teachers and classrooms is at the Portenta Pro Co
 https://www.digikey.ca/en/products/detail/hirose-electric-co-ltd/DF40C-80DS-0-4V-51/1969493?s=N4IgTCBcDaICIDEAsAGAwgWgBwrgZQxQDokA1ACgFYBGAShAF0BfIA
 
 
+![image](https://user-images.githubusercontent.com/5605614/157765315-49e1bd52-bfa4-4df4-bddd-313bf9ecd4c8.png)
+
+
 and the bottom layer with 2 
 
 ### DF40C-80DP-0.4V(51)
@@ -371,6 +374,7 @@ and the bottom layer with 2
 https://www.digikey.ca/en/products/detail/hirose-electric-co-ltd/DF40C-80DP-0-4V-51/1969492?s=N4IgTCBcDaICIDEAsAGAwgWgBwrgBQxQDokA1ACgFYBGAShAF0BfIA
 
 
+![image](https://user-images.githubusercontent.com/5605614/157765408-56f4dc56-f16b-4124-a06c-7285be931b86.png)
 
 
 
