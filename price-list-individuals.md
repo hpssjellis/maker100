@@ -355,7 +355,20 @@ An older price list mainly for teachers and classrooms is at the Portenta Pro Co
 
  Warning Price list has not yet been tested, might be missing a few basic things like breadboards, female headers, resistors etc.3
 
+## Super Advanced orders
 
+
+#### DF40C-80DS-0.4V(51)
+
+https://www.digikey.ca/en/products/detail/hirose-electric-co-ltd/DF40C-80DS-0-4V-51/1969493?s=N4IgTCBcDaICIDEAsAGAwgWgBwrgZQxQDokA1ACgFYBGAShAF0BfIA
+
+
+and the bottom layer with 2 
+
+### DF40C-80DP-0.4V(51)
+
+
+https://www.digikey.ca/en/products/detail/hirose-electric-co-ltd/DF40C-80DP-0-4V-51/1969492?s=N4IgTCBcDaICIDEAsAGAwgWgBwrgBQxQDokA1ACgFYBGAShAF0BfIA
 
 
 
