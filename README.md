@@ -15,7 +15,7 @@ As such many safety and extra resource information will not be listed here. Thes
 
 Really good connected devices slideshow https://pascalbod.github.io/iot-en-presentation/#/ (watch for the arrows bottom right)
 
-
+The big brother to this course will be [Maker101](https://github.com/hpssjellis/maker101) which should be more about Machine Learning and for generral University Students.
 
 
 
