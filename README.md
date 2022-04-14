@@ -17,6 +17,11 @@ Really good connected devices slideshow https://pascalbod.github.io/iot-en-prese
 
 The big brother to this course will be [Maker101](https://github.com/hpssjellis/maker101) which should be more about Machine Learning and for generral University Students.
 
+
+## Diagrams
+
+Follow your teachers requirements, but for my class I expect diagrams that guarantee accurate connections. If your diagrams are not helping you make 
+accurate connections you might want to try diagram makers like [frizing](https://fritzing.org/)  and [cirkitstudio](https://www.cirkitstudio.com/)
  <img src="media/diagrams.png" width = 600/>
 
 
