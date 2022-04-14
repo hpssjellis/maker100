@@ -17,7 +17,7 @@ Really good connected devices slideshow https://pascalbod.github.io/iot-en-prese
 
 The big brother to this course will be [Maker101](https://github.com/hpssjellis/maker101) which should be more about Machine Learning and for generral University Students.
 
- <img src="media/b-b-b-I2C-grove-OLED.png" width = 600/>
+ <img src="media/diagrams.png" width = 600/>
 
 
 | Topic                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Links | Setup Image | To Do |
