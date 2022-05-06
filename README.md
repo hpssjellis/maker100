@@ -1,5 +1,7 @@
+Views better using the README.md [here](README.md)
 
-## Course:
+
+## Course: Maker100
 
 Reminder all code examples are in the [Portenta Pro Community Solutions Library](https://github.com/hpssjellis/portenta-pro-community-solutions) that can be installed onto the Arduino IDE, search for "community" then install "portenta-pro-community-solutions". Check out the new [online-maker100](maker100-online.md) for fully online learning without in person teacher support. It is closely matched to the materials cost [price-list-individuals.md](price-list-individuals.md), and follows steps 0-6, from beginner setup to presentation / startup. (Draft mode Jan 2022)
 
