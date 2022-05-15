@@ -71,7 +71,7 @@ accurate connections you might want to try diagram makers like [frizing](https:/
 | <a name="stage2A01" href="#stage2A01">`stage2A01`</a>.           |                  |               |          |        |        |
 | <a name="stage2A02" href="#stage2A02">`stage2A02`</a>.           |                  |               |          |        |        |
 | <a name="stage2A03" href="#stage2A03">`stage2A03`</a>.           |                  |               |          |        |        |
-| <a name="stage2A04" href="#stage2A04">`stage2A04`</a>.           |                  |               |          |        |        |
+| <a name="stage2A04" href="#stage2A04">`stage2A04`</a>.   Range Finder        |   Same as step 18 above see this link https://github.com/hpssjellis/maker100/blob/main/README.md#18               |               |          |        |        |
 | <a name="stage2A05" href="#stage2A05">`stage2A05`</a>.           |                  |               |          |        |        |
 | <a name="stage2A06" href="#stage2A06">`stage2A06`</a>.           |                  |               |          |        |        |
 
