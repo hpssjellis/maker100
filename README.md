@@ -64,6 +64,23 @@ accurate connections you might want to try diagram makers like [frizing](https:/
 | <a name="32" href="#32">`32`</a>. [JLCPCB](https://jlcpcb.com/) order board for Printing (Has a cost for 5 small boards ~$20 USD including shipping)                     |                                                                                                                                                                              |           |                 |        |   Take the edit file from the above PCB build using [easyEDA](https://easyeda.com/) and produce the Gerber file ready for printing using [JLCPCB](https://jlcpcb.com/) My public school students do not have to do this step.   |
 
 
+ ### More [Elecrow Starter Kit](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) with [Seeeduino XIAO](https://www.robotshop.com/ca/en/seeeduino-xiao-arduino-compatible-board-pre-soldered.html) (Need a USB-C cable!) For students doing [Stage 2](https://github.com/hpssjellis/maker100/blob/main/price-list-individuals.md#step-2-generic-sensor-and-arduino-equipment) of the self learning process.
+
+| Elecrow Starter Kit                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
+| <a name="stage2A01" href="#stage2A01">`stage2A01`</a>.           |                  |               |          |        |        |
+| <a name="stage2A02" href="#stage2A02">`stage2A02`</a>.           |                  |               |          |        |        |
+| <a name="stage2A03" href="#stage2A03">`stage2A03`</a>.           |                  |               |          |        |        |
+| <a name="stage2A04" href="#stage2A04">`stage2A04`</a>.           |                  |               |          |        |        |
+| <a name="stage2A05" href="#stage2A05">`stage2A05`</a>.           |                  |               |          |        |        |
+| <a name="stage2A06" href="#stage2A06">`stage2A06`</a>.           |                  |               |          |        |        |
+
+ 
+ 
+ 
+ 
+ 
+ 
 
 ### More [Helium](https://www.helium.com/) topics if time permits 
 
@@ -88,7 +105,7 @@ accurate connections you might want to try diagram makers like [frizing](https:/
 | <a name="ml3" href="#ml3">`ml3`</a>.           |                  |               |          |        |        |
 | <a name="ml4" href="#ml4">`ml4`</a>.           |                  |               |          |        |        |
 | <a name="ml5" href="#ml5">`ml5`</a>.           |                  |               |          |        |        |
-| <a name="ml6" href="#ml">`ml6`</a>.           |                  |               |          |        |        |
+| <a name="ml6" href="#ml6">`ml6`</a>.           |                  |               |          |        |        |
 
 
 
