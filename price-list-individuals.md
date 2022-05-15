@@ -43,6 +43,13 @@ $25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-fa
 
 # Step 2: Generic Sensor and Arduino Equipment:
 
+If online you can start by setting up the Arduino IDE and installing the XIAO Seeduino board then going to [this](https://github.com/hpssjellis/maker100/blob/main/README.md#more-elecrow-starter-kit-with-seeeduino-xiao-need-a-usb-c-cable-for-students-doing-stage-2-of-the-self-learning-process) area of the Maker100 course.  
+
+
+1. $5.40 USD [Seeeduino XIAO for testing unknowns](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 />  Note: Uses the USB-C cable purchased for step 1.
+
+
+
 1. $35.26 CAD Arduino Starter Kit: Everything you need to get going building things with Arduino (breadboards, LED's, push buttons, resistors ...) 
 [Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) <br> <img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=100 /> or do a generic search [https://www.amazon.com/s?k=arduino+starter+kit](https://www.amazon.com/s?k=arduino+starter+kit)
 
@@ -83,7 +90,6 @@ $25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-fa
 1. $45.99 USD [Portenta Breakout board](https://store.arduino.cc/usa/portenta-breakout)  <br> <img src="https://user-images.githubusercontent.com/5605614/148157289-42702374-9601-4887-b1f5-e96c2ce66c3e.png" width=100 />  
 
 
-1. $5.40 USD [Seeeduino XIAO for testing unknowns](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 />
 
 1. 1. The $115.00 USD [NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) is very good for Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 200/><br><br>
 
