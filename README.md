@@ -71,7 +71,7 @@ accurate connections you might want to try diagram makers like [frizing](https:/
 | <a name="stage2A01" href="#stage2A01">`stage2A01`</a>.           |                  |               |          |        |        |
 | <a name="stage2A02" href="#stage2A02">`stage2A02`</a>.           |                  |               |          |        |        |
 | <a name="stage2A03" href="#stage2A03">`stage2A03`</a>.           |                  |               |          |        |        |
-| <a name="stage2A04" href="#stage2A04">`stage2A04`</a>.   Range Finder        |   Same as step 18 above see this link https://github.com/hpssjellis/maker100/blob/main/README.md#18               |               |          |        |        |
+| <a name="stage2A04" href="#stage2A04">`stage2A04`</a>.           |  Range Finder Same as [maker100 #18](https://github.com/hpssjellis/maker100/blob/main/README.md#18) above. Code at [dot214-RangeFinder.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/dot2-portenta-h7-with-accessories/dot21-sensors/dot214-RangeFinder/dot214-RangeFinder.ino)                |          [<img src="https://img.youtube.com/vi/E1B_iE171E8/hqdefault.jpg" width=600 />](https://www.youtube.com/watch?v=E1B_iE171E8&list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05&index=13)           |          |        |        |
 | <a name="stage2A05" href="#stage2A05">`stage2A05`</a>.           |                  |               |          |        |        |
 | <a name="stage2A06" href="#stage2A06">`stage2A06`</a>.           |                  |               |          |        |        |
 
