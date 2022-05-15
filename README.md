@@ -64,8 +64,15 @@ accurate connections you might want to try diagram makers like [frizing](https:/
 | <a name="32" href="#32">`32`</a>. [JLCPCB](https://jlcpcb.com/) order board for Printing (Has a cost for 5 small boards ~$20 USD including shipping)                     |                                                                                                                                                                              |           |                 |        |   Take the edit file from the above PCB build using [easyEDA](https://easyeda.com/) and produce the Gerber file ready for printing using [JLCPCB](https://jlcpcb.com/) My public school students do not have to do this step.   |
 
 
- ### More [Elecrow Starter Kit](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) with [Seeeduino XIAO](https://www.robotshop.com/ca/en/seeeduino-xiao-arduino-compatible-board-pre-soldered.html) (Need a USB-C cable!) For students doing [Stage 2](https://github.com/hpssjellis/maker100/blob/main/price-list-individuals.md#step-2-generic-sensor-and-arduino-equipment) of the self learning process.
+ 
+ 
+ 
+ <br><br><br>
+ 
+ 
+ ###  [Elecrow Starter Kit](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) with [Seeeduino XIAO](https://www.robotshop.com/ca/en/seeeduino-xiao-arduino-compatible-board-pre-soldered.html) (Need a USB-C cable!) For students doing [Stage 2](https://github.com/hpssjellis/maker100/blob/main/price-list-individuals.md#step-2-generic-sensor-and-arduino-equipment) of the self learning process.
 
+ 
 | Elecrow Starter Kit                          | Example Code                                                                                                                                                                 | Youtube Video | Resource Link 1 | Setup Image | To Do |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------|--------|--------|
 | <a name="stage2A01" href="#stage2A01">`stage2A01`</a>.           |     LED with resistor on and off. Any Pin --> resistor -->LED --> Ground <br> Like [#5 SOS](https://github.com/hpssjellis/maker100/blob/main/README.md#5) above <br> [dot22a-blink-an-led.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/tree/main/examples/dot2-portenta-h7-with-accessories/dot22-actuators/dot22a-blink-an-led/dot22a-blink-an-led.ino)          |    Not really this video as it blinks the onboard LED    [<img src="https://img.youtube.com/vi/iDC3vuBGGcg/hqdefault.jpg" width=600 />](https://www.youtube.com/watch?v=iDC3vuBGGcg&list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05&index=11)        |          |        |        |
@@ -77,7 +84,7 @@ accurate connections you might want to try diagram makers like [frizing](https:/
 | <a name="stage2A07" href="#stage2A07">`stage2A07`</a>.           |  IR-Automation                |               |          |        |        |
 
  
- 
+ <br><br><br>
  
  
  
@@ -95,7 +102,7 @@ accurate connections you might want to try diagram makers like [frizing](https:/
 | <a name="helium6" href="#helium6">`helium6`</a>.            |                  |               |          |        |        |
 
 
-
+<br><br><br>
 
 ### More [Edge Impulse](https://www.edgeimpulse.com/) Machine Learning topics if time permits 
 
@@ -110,7 +117,7 @@ accurate connections you might want to try diagram makers like [frizing](https:/
 
 
 
-
+<br><br><br>
 
 
 ### Advanced topics if time permits (or you want to be an Engineer)
