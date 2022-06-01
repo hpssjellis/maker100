@@ -147,8 +147,7 @@ Another untested Connectivity solution is the $87.60 USD [portenta-catm1](https:
 
 
 
-1. $$36.80 USD [Arduino MKR GPS Shield](https://store-usa.arduino.cc/products/arduino-mkr-gps-shield)
-2. <br> <img src="[https://user-images.githubusercontent.com/5605614/156849883-1c1552fd-e0be-4696-91a2-90320d32868d.png](https://user-images.githubusercontent.com/5605614/171311072-9d06437e-50ca-4bac-9bbb-7500dccb3745.png)" width=100 />
+1. $36.80 USD [Arduino MKR GPS Shield](https://store-usa.arduino.cc/products/arduino-mkr-gps-shield) <br> <img src="[[https://user-images.githubusercontent.com/5605614/156849883-1c1552fd-e0be-4696-91a2-90320d32868d.png](https://user-images.githubusercontent.com/5605614/171311072-9d06437e-50ca-4bac-9bbb-7500dccb3745.png)](https://user-images.githubusercontent.com/5605614/171311072-9d06437e-50ca-4bac-9bbb-7500dccb3745.png)" width=100 />
 
 
 
