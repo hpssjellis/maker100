@@ -355,6 +355,8 @@ By: Jeremy Ellis, Tech Teacher, BC, Canada
 
 ###### Use at your own risk!
 
+<a rel="me" href="https://masto.ai/@rocksetta">Mastodon</a>
+
 My Github: [hpssjellis](https://github.com/hpssjellis?tab=repositories) , My twitter: [@rocksetta](https://twitter.com/rocksetta) , my Website [rocksetta.com](https://www.rocksetta.com/) My Arduino Forum [jerteach](https://forum.arduino.cc/u/jerteach/activity) my Edge Impulse Forum [rocksetta](https://forum.edgeimpulse.com/u/rocksetta/activity)
 
 .
