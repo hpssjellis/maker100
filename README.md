@@ -24,7 +24,7 @@ The big brother to this course will be [Maker101](https://github.com/hpssjellis/
 
 Follow your teachers requirements, but for my class I expect diagrams that guarantee accurate connections. If your diagrams are not helping you make 
 accurate connections you might want to try diagram makers like [frizing](https://fritzing.org/)  and [cirkitstudio](https://www.cirkitstudio.com/)<br>
- <img src="media/diagrams.png" width = 600/>
+ <img src="media/diagrams.png" width = 600/>   [https://everycircuit.com/app/](https://everycircuit.com/app/)
 
 
 | Topic | Example Code| Video | Instructions |
