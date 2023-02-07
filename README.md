@@ -335,6 +335,9 @@ New version of Arduino MBED core v2.5.2 now allows memory splitting between the 
 .
 
 
+## XIAO Pinout
+ 
+ ![image](https://user-images.githubusercontent.com/5605614/217329883-aaf85926-0aa4-4caf-aceb-a0749c75dd22.png)
 
 
 
