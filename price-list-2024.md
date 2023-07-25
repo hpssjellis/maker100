@@ -14,7 +14,7 @@ Note A star * is for items that the classroom only needs a few since students ty
 
 1. $63.00 USD [LoRa Vision Shield](https://store.arduino.cc/usa/portenta-vision-shield-lora)     <br><img src="https://user-images.githubusercontent.com/5605614/133374592-36bb6dfd-ec10-4796-b998-782b58ce8730.png" width=100 />
 
-1. $14 USD set of 4. LoRa Antenna with u.fl connector and 915MHz for North America  *[DIYmalls 915MHz LoRa Antenna U.FL IPEX to SMA Connector Pigtail 2dBi](https://www.amazon.ca/915MHz-Antenna-Connector-Pigtail-Internet/dp/B086ZG5WBR/ref=sr_1_1_sspa?keywords=lora+915+ufl+connector&qid=1636056723&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVNETEoxSDlYNUEmZW5jcnlwdGVkSWQ9QTA5Mjg4NTAzSDk5RVZIS09JVks2JmVuY3J5cHRlZEFkSWQ9QTA0MDc3MDQyOEdBU0oxMEpVNk1EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)       <br><img src="https://user-images.githubusercontent.com/5605614/148133801-89c8d12b-9897-49c0-b8fc-d1637ae5e4aa.png" width=100 />  Just found this set of 2 for $9.00 USD [DIYmall-Connector-Antenna-915MHz](https://www.amazon.com/DIYmall-Connector-Antenna-915MHz-Lora32u4/dp/B084KVYBH5)
+1. $14.00 USD set of 4. LoRa Antenna with u.fl connector and 915MHz for North America  *[DIYmalls 915MHz LoRa Antenna U.FL IPEX to SMA Connector Pigtail 2dBi](https://www.amazon.ca/915MHz-Antenna-Connector-Pigtail-Internet/dp/B086ZG5WBR/ref=sr_1_1_sspa?keywords=lora+915+ufl+connector&qid=1636056723&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVNETEoxSDlYNUEmZW5jcnlwdGVkSWQ9QTA5Mjg4NTAzSDk5RVZIS09JVks2JmVuY3J5cHRlZEFkSWQ9QTA0MDc3MDQyOEdBU0oxMEpVNk1EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)       <br><img src="https://user-images.githubusercontent.com/5605614/148133801-89c8d12b-9897-49c0-b8fc-d1637ae5e4aa.png" width=100 />  Just found this set of 2 for $9.00 USD [DIYmall-Connector-Antenna-915MHz](https://www.amazon.com/DIYmall-Connector-Antenna-915MHz-Lora32u4/dp/B084KVYBH5)
 
 1. $13.00 USD [XIAO Esp32S3 Sense](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)     <br><img src="https://user-images.githubusercontent.com/5605614/253411564-8322f5fa-be96-4568-af08-f022c245b735.png" width=100 />
 
@@ -32,14 +32,14 @@ Note A star * is for items that the classroom only needs a few since students ty
 
 
 
-1.  $23 USD [1.5inch OLED Display Module 128x128 16 Gray Scale SPI/I2C Interface SSD1327 Driver Raspberry Pi/Arduino/STM32](https://www.amazon.ca/dp/B079KRC9X3?psc=1&smid=AIVH4OZ6D0Y4K&ref_=chk_typ_imgToDp) or from waveshare ($12.99 USD) [128x128, General 1.5inch OLED display Module, SKU: 13992](https://www.waveshare.com/1.5inch-oled-module.htm)      <br><img src="https://user-images.githubusercontent.com/5605614/136551247-6a7fc635-e00c-4b14-80a9-550cb4e7a7b3.png" width=100 />
+1.  $23.00 USD [1.5inch OLED Display Module 128x128 16 Gray Scale SPI/I2C Interface SSD1327 Driver Raspberry Pi/Arduino/STM32](https://www.amazon.ca/dp/B079KRC9X3?psc=1&smid=AIVH4OZ6D0Y4K&ref_=chk_typ_imgToDp) or from waveshare ($12.99 USD) [128x128, General 1.5inch OLED display Module, SKU: 13992](https://www.waveshare.com/1.5inch-oled-module.htm)      <br><img src="https://user-images.githubusercontent.com/5605614/136551247-6a7fc635-e00c-4b14-80a9-550cb4e7a7b3.png" width=100 />
 
 1.  $8.99 CAD [UGREEN USB Type C Cable Nylon Braided USB 2.0 to USB C Cable](https://www.amazon.ca/dp/B07PP2RB25/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=d45a607744b1781660ab5ef4e28f01f1&hsa_cr_id=1744542500301&pd_rd_plhdr=t&pd_rd_r=764237ba-4548-48e2-8a65-cdba84cf150f&pd_rd_w=GKZWh&pd_rd_wg=oqdsY&ref_=sbx_be_s_sparkle_td_asin_1_title&th=1)      <br><img src="https://user-images.githubusercontent.com/5605614/148264906-0b1934f2-d80a-4f90-b6d3-1c8acacee7fb.png" width=100 />
 
 1.  $15.99 CAD [5000mAh Power Bank Portable Charger](https://www.amazon.ca/Portable-Ultra-Compact-External-Identify-Compatible/dp/B09JNX8PZR/ref=sr_1_33_sspa?crid=485TUJ0EMB4N&keywords=power+bank&qid=1641405350&s=electronics&sprefix=power+bank%2Celectronics%2C134&sr=1-33-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFONlRUWTM1OFc0WTEmZW5jcnlwdGVkSWQ9QTA2NTUwODdCV0ZQQTlQUUE4NDYmZW5jcnlwdGVkQWRJZD1BMDEwMjU4OTNFR1AyVjQ2N0dQTFgmd2lkZ2V0TmFtZT1zcF9idGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)      <br><img src="https://user-images.githubusercontent.com/5605614/148266102-36a2d187-7eef-42db-a030-5054fa620330.png" width=100 />
 
 
-$25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-family/products/arduino-mkr-imu-shield)  <br><img src="https://user-images.githubusercontent.com/5605614/151890361-860f98f5-b373-4114-acb1-49dbb5c61fe6.png" width=200 />
+1. $25.00 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-family/products/arduino-mkr-imu-shield)  <br><img src="https://user-images.githubusercontent.com/5605614/151890361-860f98f5-b373-4114-acb1-49dbb5c61fe6.png" width=200 />
 
 
 
