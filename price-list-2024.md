@@ -107,7 +107,6 @@ Note A star * is for items that the classroom only needs a few since students ty
 1. $4.80 CAD Moisture	[RB-Dfr-161](http://www.robotshop.com/en/dfrobot-moisture-sensor.html)	  <br> <img src="https://user-images.githubusercontent.com/5605614/148158607-3d2f57d6-1970-4a3e-b148-e910df7696ed.png" width=100 />
 
 
-1. $1.94 CAD [Cytron USB Type A Breakout Board](https://www.robotshop.com/ca/en/cytron-usb-type-a-breakout-board.html?gclid=Cj0KCQiAoNWOBhCwARIsAAiHnEgfR41TUP6Ye0DvTXstNUwPJkSPZphuNRzKk1MPTGjCBtsMRpQdq0AaAsBvEALw_wcB)	  <br> <img src="https://user-images.githubusercontent.com/5605614/148268493-9f34a535-270b-4250-bfbd-a944324e2bd7.png" width=100 />
 
 
 
