@@ -28,8 +28,7 @@ Note A star * is for items that the classroom only needs a few since students ty
 1. $40.50 USD *[Nano 33 Ble Sense-rev2](https://store-usa.arduino.cc/products/nano-33-ble-sense-rev2)     <br><img src="https://github.com/hpssjellis/maker100/assets/5605614/8be224a6-317a-4f63-ba6f-e348192ba914" width=100 />
 
 
-1. 1. The $115.00 USD *[NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) is very good for Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 200/><br><br>
-
+1. The $115.00 USD *[NiclaVision](https://store-usa.arduino.cc/products/nicla-vision?selectedStore=us) is very good for Vision, sound and accelerometer Machine Learning <br><img src="https://user-images.githubusercontent.com/5605614/157479032-f93ac6e1-1139-4886-bf40-9dfc6e8c2b9c.png" width = 200/><br><br>
 
 
 
