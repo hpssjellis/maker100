@@ -150,5 +150,9 @@ Note A star * is for items that the classroom only needs a few since students ty
 Reminder the star "*" beside a material means that in general you don't need the device for every student or pair of students just a few in the lab is good enough.
 
 
+Total about $4000 USD to get the one full set of equipment.
+Without the starred items my course would cost about $500 per pair of students. While the lab would need about $5000 worth of starred equipment.
+
+This is not a perfect list as a few of these items will need to be tested in 2024.
 
 
