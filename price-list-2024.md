@@ -20,6 +20,11 @@ Note A star * is for items that the classroom only needs a few since students ty
 
 1. $49.00 USD [Grove Starter Kit](https://www.seeedstudio.com/Seeed-XIAO-Starter-Kit-p-5378.html)     <br><img src="https://user-images.githubusercontent.com/5605614/253413674-ec64b824-19b5-45e1-9391-6949646b7628.png" width=100 />
 
+
+
+1. $5.40 USD [Seeeduino XIAO for testing unknowns](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 /> 
+
+
 1. $40.50 USD *[Nano 33 Ble Sense-rev2](https://store-usa.arduino.cc/products/nano-33-ble-sense-rev2)     <br><img src="https://github.com/hpssjellis/maker100/assets/5605614/8be224a6-317a-4f63-ba6f-e348192ba914" width=100 />
 
 
@@ -40,13 +45,6 @@ $25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-fa
 
 
 
-.
-
-
-
-1. $5.40 USD [Seeeduino XIAO for testing unknowns](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)    <br><img src="https://user-images.githubusercontent.com/5605614/148135336-83ae3fb5-9482-4cf7-8f92-dc2df5fdac62.png" width=100 />  Note: Uses the USB-C cable purchased for step 1.
-
-
 
 1. $35.26 CAD Arduino Starter Kit: Everything you need to get going building things with Arduino (breadboards, LED's, push buttons, resistors ...) 
 [Elecrow Starter Kit for Raspberry Pi & Arduino](https://www.robotshop.com/ca/en/elecrow-starter-kit-raspberry-pi-arduino.html) <br> <img src="https://user-images.githubusercontent.com/5605614/134213537-0113a757-f7ef-424d-af33-592488304cdf.png" width=100 /> or do a generic search [https://www.amazon.com/s?k=arduino+starter+kit](https://www.amazon.com/s?k=arduino+starter+kit)
@@ -59,25 +57,6 @@ $25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-fa
 
 1. $17.02 CAD *[ 22 AWG wires solid core with cheap wire stripper](https://www.amazon.ca/Gauge-Wire-Solid-Core-Hookup/dp/B088KQFHV7/ref=sr_1_1?crid=2EO15A8KGUHYV&keywords=22+gauge+solid+core+wire+set&qid=1641350119&sprefix=22+guage+solid+core+wire+set%2Caps%2C188&sr=8-1) <br> <img src="https://user-images.githubusercontent.com/5605614/148152005-41f2c7c8-e1f6-48b1-90ee-f26b36b129c6.png" width=100 /> 
 
-
-.
-
-
-
-.
-
-
-
-
-.
-
-
-
-
-.
-
-
-.
 
 
 
@@ -165,12 +144,12 @@ $25 USD [arduino-mkr-imu-shield](https://store-usa.arduino.cc/collections/mkr-fa
 
 
 
-1. *3D Printer.  <br><br>I have the $2,499.00 CAD [Tinkerine](https://store.tinkerine.com/)   <br> <img src="https://user-images.githubusercontent.com/5605614/148174097-5dce8af0-32b8-47d9-bb3a-c83c8c0baabf.png" width=100 />   and a 12x12x12 ~$4000 CAD [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) which has a dual extruder which is handy but is also very complex,   <br> <img src="https://user-images.githubusercontent.com/5605614/148174401-aa4f728a-a2bb-49ac-9a35-ec33cf986879.png" width=100 />  any working 3D Printer would be fine. The above printers are very reliable but do not necessarily print better than a cheaper one.
+1. *3D Printer.  <br><br>I have the $2,499.00 CAD [Tinkerine](https://store.tinkerine.com/)   <br> <img src="https://user-images.githubusercontent.com/5605614/148174097-5dce8af0-32b8-47d9-bb3a-c83c8c0baabf.png" width=100 /> Which does not have a heated print bed <br> I also have a 12x12x12 ~$4000 CAD [Raise3D N2 V2](https://www.amazon.com/Raise3D-Plus-Printer-Dual-Extruder/dp/B01N3982HD) which has a dual extruder which is handy but is also very complex,   <br> <img src="https://user-images.githubusercontent.com/5605614/148174401-aa4f728a-a2bb-49ac-9a35-ec33cf986879.png" width=100 />  any working 3D Printer would be fine. The above printers are very reliable but do not necessarily print better than a cheaper one.
 
 
 
 
-
+Reminder the star "*" beside a material means that in general you don't need the device for every student or pair of students just a few in the lab is good enough.
 
 
 
