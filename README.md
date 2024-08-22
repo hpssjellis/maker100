@@ -1,5 +1,6 @@
 Views better using the README.md [here](README.md)
 
+The currciulum for this course is at [maker100-curriculum](https://github.com/hpssjellis/maker100-curriculum)
 
 Note: the 2024 economy version of this course is at [maker100-eco](https://github.com/hpssjellis/maker100-eco)
 
