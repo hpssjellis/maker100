@@ -4,6 +4,8 @@ The currciulum for this course is at [maker100-curriculum](https://github.com/hp
 
 Note: the 2024 economy version of this course is at [maker100-eco](https://github.com/hpssjellis/maker100-eco)
 
+New for Feb 2026 is the [maker100-xiaoML-kit](https://github.com/hpssjellis/maker100-xiaoML-kit) which is a rebuild of th esp32S3Sense course with the new $38.90 USD [xiaoML kit from Seeedstudio](https://www.seeedstudio.com/The-XIAOML-Kit.html). 
+
 
 
 ## Course: Maker100
